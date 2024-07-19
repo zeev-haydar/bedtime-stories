@@ -1,0 +1,4 @@
+yang gua kasih "_GridSample" itu gmn nanti kalo di grid 30x30, 
+kalo buat yang dipake yang png transparan
+
+Rumputnya pake warna BG yg ada di "_GridSample", coba colorpick aja . . . ?

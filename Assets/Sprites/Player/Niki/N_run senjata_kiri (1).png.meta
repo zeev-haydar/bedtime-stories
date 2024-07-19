@@ -1,0 +1,971 @@
+fileFormatVersion: 2
+guid: d6d0b44579085ec40a136e6488da6db4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6be9a5b95f0554fa3789e3b365d59f
+      internalID: 1182197691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 7000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb25fe115207a64f8cefca923610a8a
+      internalID: -373948599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 7000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559e91f43aa52fb42ac5ba7f995c8eb9
+      internalID: 1907587793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_3
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 7000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f307f23c5aef5f144a22a53568963f8c
+      internalID: 274739956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 7000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21749f83d6ebdb843be24eb18e20c484
+      internalID: -1684500448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0babe34d64bf3784387aa0cdc4b43472
+      internalID: 1439372885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_6
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 6000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1458b954f36051f408b11ff2ac9d4b69
+      internalID: 419513224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 6000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a812f52e796d484195d75cad649364e
+      internalID: -1916741239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_8
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 6000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91104aab741c4134f81f38c9690fc0f1
+      internalID: -134354425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_9
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 6000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4688906f6999948a944d4ab38a2cb8
+      internalID: -1641212988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf9bea2c57891c4381b8b7641b859ee
+      internalID: -583659609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_11
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 5000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ce93a9383503444975e0c532e4f69a
+      internalID: -250271531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 5000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccac557a1a92c3d43bd692158e9dd64e
+      internalID: 1116481802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_13
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 5000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333a604e770c9664a9426d6216f10e51
+      internalID: -1091173293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_14
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 5000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e090eb3b54a8c4a94ebf0becb4f8b0
+      internalID: -1976101505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f1e342dddc6f4cb2fc83f394f093e
+      internalID: -553516335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_16
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4afdc25861804da4d6c69b179f2d3
+      internalID: -811707328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 4000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452a1c8e192266e4498ca7977abd5a72
+      internalID: -1676725722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_18
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 4000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b0562f36b0c7a4389dc6826ac448ae
+      internalID: 1584702047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 4000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd340de1e06f5d4096ed9574efe093a
+      internalID: 1289568225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad8f044881a59140bcca21c14e374a5
+      internalID: -402138317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_21
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e194223b3f02f0b4fa97781e972efc55
+      internalID: -1196647617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 3000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ba5e34e97f0124fad60b862dbea3e0
+      internalID: 1289571517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_23
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 3000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc16b9f408a49f47808f4dfa78d92e8
+      internalID: -999163876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_24
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 3000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db961ce369e00d46a9d594aa51eed8c
+      internalID: -1203279514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec2135065217b4da709d73f6ee18fc
+      internalID: -1060863310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_26
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dabe88ba614ea049af3a8f6d06c0a8c
+      internalID: 1407500452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c378787aead814cae689318dd7f0a2
+      internalID: 253591070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_28
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 2000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e6cfbb0ced1a4449986dd5bea67935
+      internalID: -164583197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_29
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 2000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ccf5760725a4f47a639e4de87523f4
+      internalID: 1333915084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b55ad69c41d7c247b5e4cc508e79f5b
+      internalID: 1477635315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_31
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174f8aba7d0c8084da35b7807b59231c
+      internalID: -1920904908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_32
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a5eaee9965b0149abcb47abb8bea93
+      internalID: 1956462876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_33
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 1000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802b7957d6934bc45b3f487cdf5661e7
+      internalID: 516431129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_34
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1000
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5989f7006576a4c835191f57847843
+      internalID: -1943052382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_run senjata_kiri (1)_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 674
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b9fa94279a866448de75fde42429f3
+      internalID: -1614894653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      N_run senjata_kiri (1)_0: 1182197691
+      N_run senjata_kiri (1)_1: -373948599
+      N_run senjata_kiri (1)_10: -583659609
+      N_run senjata_kiri (1)_11: -250271531
+      N_run senjata_kiri (1)_12: 1116481802
+      N_run senjata_kiri (1)_13: -1091173293
+      N_run senjata_kiri (1)_14: -1976101505
+      N_run senjata_kiri (1)_15: -553516335
+      N_run senjata_kiri (1)_16: -811707328
+      N_run senjata_kiri (1)_17: -1676725722
+      N_run senjata_kiri (1)_18: 1584702047
+      N_run senjata_kiri (1)_19: 1289568225
+      N_run senjata_kiri (1)_2: 1907587793
+      N_run senjata_kiri (1)_20: -402138317
+      N_run senjata_kiri (1)_21: -1196647617
+      N_run senjata_kiri (1)_22: 1289571517
+      N_run senjata_kiri (1)_23: -999163876
+      N_run senjata_kiri (1)_24: -1203279514
+      N_run senjata_kiri (1)_25: -1060863310
+      N_run senjata_kiri (1)_26: 1407500452
+      N_run senjata_kiri (1)_27: 253591070
+      N_run senjata_kiri (1)_28: -164583197
+      N_run senjata_kiri (1)_29: 1333915084
+      N_run senjata_kiri (1)_3: 274739956
+      N_run senjata_kiri (1)_30: 1477635315
+      N_run senjata_kiri (1)_31: -1920904908
+      N_run senjata_kiri (1)_32: 1956462876
+      N_run senjata_kiri (1)_33: 516431129
+      N_run senjata_kiri (1)_34: -1943052382
+      N_run senjata_kiri (1)_35: -1614894653
+      N_run senjata_kiri (1)_4: -1684500448
+      N_run senjata_kiri (1)_5: 1439372885
+      N_run senjata_kiri (1)_6: 419513224
+      N_run senjata_kiri (1)_7: -1916741239
+      N_run senjata_kiri (1)_8: -134354425
+      N_run senjata_kiri (1)_9: -1641212988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1059 @@
+fileFormatVersion: 2
+guid: b014f452a4e6834419cf715e48281fd5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6ae8b43bbf4574fb96fda1bf64712d
+      internalID: 265836099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_1
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 7000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c8298a8f1e7634db4e92b26c0e638e
+      internalID: 1334922721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_2
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 7000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4e0fc2974c5b4da0dab1e0417ccaa
+      internalID: -1664117836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_3
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 7000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0403ce195317045b85ce5f829a16ff
+      internalID: -840490588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_4
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 7000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbc15ce04057a4409ffdbb5a8131778
+      internalID: 1432248217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ae10c87974c94fbcb9ef4bb692da1
+      internalID: 1349545845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_6
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 6000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b2e99d5c98754c989fcd84981b567
+      internalID: 271618537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_7
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 6000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf36a61af7623d40b42b5252cd119c1
+      internalID: -821542861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_8
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 6000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35040ceb0fce2904d96eca822eda83a5
+      internalID: 826738220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_9
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 6000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded3b9227bdf25340b0ab6fc7219a92c
+      internalID: 1670788281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7c51f270a74fd48ba75712ffc83d29
+      internalID: -1915861791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_11
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 5000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48e3c6ca5a6fa408bbf2e72846a3ed
+      internalID: -926167002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_12
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 5000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0e795e102c993439fab02753c969e3
+      internalID: -848285670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_13
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 5000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d301b4401679d784587e6d4235cfb45a
+      internalID: 617560746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_14
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 5000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8584fb8a2aea1fc40a2fa796743c71b8
+      internalID: 1720546637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ea4fb46b8529147b846ae7aa50c3d7
+      internalID: 1493960526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_16
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 4000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe5784bb6307484d9778545e9dcba1f
+      internalID: 1645349798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_17
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 4000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba8dfe018a82c144b05ab2a5b2e1939
+      internalID: 1144966582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_18
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 4000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c3e6f8a05306d42b21718cf5e7d7ad
+      internalID: 541429647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_19
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 4000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c215a8995efe6488e76e629903e252
+      internalID: 492178023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7609f982f8cd91049960d6ac24ffa7ef
+      internalID: 104281307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_21
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e5ce27264b1344a54bf35f0aea5f3
+      internalID: -596726941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_22
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 3000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de1703f988d9884782081fc8375793f
+      internalID: 1260374830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_23
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 3000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f437fc3e87afa419bd737f14b41fae
+      internalID: 1802201720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_24
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 3000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe425e0ba472db4e8d23cfad8293b7d
+      internalID: -1727595326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4297a5cb857aab547b80eab5918b104e
+      internalID: 1190519094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_26
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fcff2c1eb5cea4b989f579b106e844
+      internalID: -122490139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_27
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da565e9dac98b4ea7b4a4c8b0f7f34
+      internalID: 479068798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_28
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 2000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7ea7d0a1eac4f499c1d58fa8f9f1e3
+      internalID: -1103304198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_29
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 2000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df978f80252eee743a63c8fd3fd4cf05
+      internalID: 2053998927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb12e6ff877a8b742988cdf57a98bf3c
+      internalID: 258827619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_31
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a05d9d0596ca8245a339f99a4cf6aeb
+      internalID: -155156601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_32
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8246fbf64fa6156439935a87898d03eb
+      internalID: -1968793909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_33
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 1000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6316b3f0fffce408129fa075d4173b
+      internalID: -2103891597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_34
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1000
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a29b89fcc0cfc4b8418a2a56f41d38
+      internalID: 2017422967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54260312fdb380c4fa10921974fb8deb
+      internalID: -277101806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_36
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 0
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeccd72af89d2a449865ee12dbfb2c3
+      internalID: -1772806034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_37
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 0
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc078e497820bd4eb4e37c175a74386
+      internalID: -1541577110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_38
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 0
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f54feb4f724fec429057e2a26727f75
+      internalID: -257022043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_idle senjata_kanan_39
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 0
+        width: 698
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170ebf8ef85c98344b9e8b5423cbd3f6
+      internalID: -181869164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      N_idle senjata_kanan_0: 265836099
+      N_idle senjata_kanan_1: 1334922721
+      N_idle senjata_kanan_10: -1915861791
+      N_idle senjata_kanan_11: -926167002
+      N_idle senjata_kanan_12: -848285670
+      N_idle senjata_kanan_13: 617560746
+      N_idle senjata_kanan_14: 1720546637
+      N_idle senjata_kanan_15: 1493960526
+      N_idle senjata_kanan_16: 1645349798
+      N_idle senjata_kanan_17: 1144966582
+      N_idle senjata_kanan_18: 541429647
+      N_idle senjata_kanan_19: 492178023
+      N_idle senjata_kanan_2: -1664117836
+      N_idle senjata_kanan_20: 104281307
+      N_idle senjata_kanan_21: -596726941
+      N_idle senjata_kanan_22: 1260374830
+      N_idle senjata_kanan_23: 1802201720
+      N_idle senjata_kanan_24: -1727595326
+      N_idle senjata_kanan_25: 1190519094
+      N_idle senjata_kanan_26: -122490139
+      N_idle senjata_kanan_27: 479068798
+      N_idle senjata_kanan_28: -1103304198
+      N_idle senjata_kanan_29: 2053998927
+      N_idle senjata_kanan_3: -840490588
+      N_idle senjata_kanan_30: 258827619
+      N_idle senjata_kanan_31: -155156601
+      N_idle senjata_kanan_32: -1968793909
+      N_idle senjata_kanan_33: -2103891597
+      N_idle senjata_kanan_34: 2017422967
+      N_idle senjata_kanan_35: -277101806
+      N_idle senjata_kanan_36: -1772806034
+      N_idle senjata_kanan_37: -1541577110
+      N_idle senjata_kanan_38: -257022043
+      N_idle senjata_kanan_39: -181869164
+      N_idle senjata_kanan_4: 1432248217
+      N_idle senjata_kanan_5: 1349545845
+      N_idle senjata_kanan_6: 271618537
+      N_idle senjata_kanan_7: -821542861
+      N_idle senjata_kanan_8: 826738220
+      N_idle senjata_kanan_9: 1670788281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,971 @@
+fileFormatVersion: 2
+guid: 89f3af16e0d563043bb81a44522347d4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A_run senjata_kanan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaf3f9cbbc9bcf4e923c1a1b1a1babb
+      internalID: 2086714547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_1
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 7000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99b1b9c4cf8fcd4da19518a6f382462
+      internalID: -119084191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_2
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 7000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42602811f5554f448a82198ae3fea02
+      internalID: -1940118087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_3
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 7000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482fb645f6de8644286e2ffc22f39d2c
+      internalID: 1122643931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_4
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 7000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2808d7cc326d13f459a5e238b5125ec8
+      internalID: 1392131563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f03596ce0aa584395517570c37a7f9
+      internalID: -1821519984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_6
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 6000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8550aec56a922b4fa40939f881ad332
+      internalID: 1087732165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_7
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 6000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c265a866a93316b44bfabf16b41b7430
+      internalID: 718487129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_8
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 6000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb615dd2e3808b94196e771313123f68
+      internalID: 335966830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_9
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 6000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc45b2b5d49d664492a0f96f2f46c0f
+      internalID: -1835497051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507913ab0112f22439fcc3cf44e18475
+      internalID: -189866382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_11
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 5000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca7f8200cac5a84ba5a38fa5e6d6776
+      internalID: -2050000957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_12
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 5000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bac0c1a7c1b3dd4cacb731b3b8b6ff7
+      internalID: -1967096184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_13
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 5000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afd6a6540e5a93489e9c4b4108455c3
+      internalID: -1132604302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_14
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 5000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02bbd1ee704e9c4aba5fcf47251acdc
+      internalID: 1154559207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ea9621c3b4a37448932889d5d70cf6
+      internalID: 1566943999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_16
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 4000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88ef86afdf6c3b4c9e581359fe54096
+      internalID: -803849396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_17
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 4000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af82f618c96e5ea4592eb3d97d474785
+      internalID: 1589398704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_18
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 4000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb5e3754f633744aa1e2f2419ecd5d8
+      internalID: 463220313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_19
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 4000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ababd9b6d22b68b4eb2daaecd1b8ec8e
+      internalID: -1009985644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cad374984d79b46886912830678311
+      internalID: 1866198753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_21
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bb7985a88034444bf4a23193d66c9d
+      internalID: 59746131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_22
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 3000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40839a14cc6075840b04b06a7089e982
+      internalID: 1323077135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_23
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 3000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef9c4c25e1e6545b5d03907ed00ffd
+      internalID: 754328821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_24
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 3000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68a5ebe624e3b7428d9dbd0710a6edb
+      internalID: 1673742832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32df352a9ec40da49914813833412e83
+      internalID: 997638064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_26
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb94634acffd4b43891ec78230f7d64
+      internalID: 1779327038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_27
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 2000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077d5f294d5e64049ad4fa11658830cf
+      internalID: 599360079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_28
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d60082a13038746893d280ac525530
+      internalID: 1432686735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_29
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9159ee1403a0a4d479d291aaf2307df1
+      internalID: -852230143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ae8e3dd1953084e8db982f06ac653b
+      internalID: 1366134786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_31
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258e6e31b268fc1419bf62608c1c8993
+      internalID: 1361976740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_32
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30875eb728838f745b1cd20f6a0461ae
+      internalID: 292676706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_33
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d71bc6283dd3445828fe5e24e89933
+      internalID: 1790344460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_34
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 1000
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1e3997247d06e4fac8c432528a3286
+      internalID: -565592409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_run senjata_kanan_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 766
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca115bb41a628d6479ff48a715d9e271
+      internalID: 992699847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      A_run senjata_kanan_0: 2086714547
+      A_run senjata_kanan_1: -119084191
+      A_run senjata_kanan_10: -189866382
+      A_run senjata_kanan_11: -2050000957
+      A_run senjata_kanan_12: -1967096184
+      A_run senjata_kanan_13: -1132604302
+      A_run senjata_kanan_14: 1154559207
+      A_run senjata_kanan_15: 1566943999
+      A_run senjata_kanan_16: -803849396
+      A_run senjata_kanan_17: 1589398704
+      A_run senjata_kanan_18: 463220313
+      A_run senjata_kanan_19: -1009985644
+      A_run senjata_kanan_2: -1940118087
+      A_run senjata_kanan_20: 1866198753
+      A_run senjata_kanan_21: 59746131
+      A_run senjata_kanan_22: 1323077135
+      A_run senjata_kanan_23: 754328821
+      A_run senjata_kanan_24: 1673742832
+      A_run senjata_kanan_25: 997638064
+      A_run senjata_kanan_26: 1779327038
+      A_run senjata_kanan_27: 599360079
+      A_run senjata_kanan_28: 1432686735
+      A_run senjata_kanan_29: -852230143
+      A_run senjata_kanan_3: 1122643931
+      A_run senjata_kanan_30: 1366134786
+      A_run senjata_kanan_31: 1361976740
+      A_run senjata_kanan_32: 292676706
+      A_run senjata_kanan_33: 1790344460
+      A_run senjata_kanan_34: -565592409
+      A_run senjata_kanan_35: 992699847
+      A_run senjata_kanan_4: 1392131563
+      A_run senjata_kanan_5: -1821519984
+      A_run senjata_kanan_6: 1087732165
+      A_run senjata_kanan_7: 718487129
+      A_run senjata_kanan_8: 335966830
+      A_run senjata_kanan_9: -1835497051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

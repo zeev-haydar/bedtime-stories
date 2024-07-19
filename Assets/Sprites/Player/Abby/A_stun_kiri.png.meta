@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: 8a2634ebd662c78459972e97b70fefe0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A_stun_kiri_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bf350c0a7f24e4cb8bfebde3540ee7
+      internalID: -1856933308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_1
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 14000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6c9fac644294429230afa22669a94
+      internalID: 684636132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_2
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 14000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3050b69fa1fa0e42bd2a5d1cb9457ff
+      internalID: 1452071207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_3
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 14000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23718b1faa98fc640a1e417423ba19c9
+      internalID: 904489010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_4
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 14000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35787ed13bdc5134f958491160a1c2dc
+      internalID: 847096873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46cef51a2b00c443aae3f07f06271f7
+      internalID: -1636265167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 13000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad1a5d955975a64888a2905ab3d56aa
+      internalID: -547887314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_7
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 13000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b722ecd3327ee448c40289286df30f
+      internalID: -1707646097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_8
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 13000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ac38b67c76bc64897fb494abd2a7d4
+      internalID: 1288218081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_9
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 13000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea241c1f4b9efc64c80c06a7efda969f
+      internalID: -784698880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc60e9597dbe454bb162213f18ad590
+      internalID: 1376371179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_11
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 12000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a746e2de7393dd947a1213347cfa0a18
+      internalID: 427498473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_12
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 12000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b0bf0a4659cb4fa952ae3526ab2ed
+      internalID: 374049177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_13
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 12000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c23c4f68bcdc85499cd7071f0dc9c2c
+      internalID: 1151561799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_14
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 12000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59556839052456145a7f83f000ca75ab
+      internalID: -1791024568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d3373519f2ff4a813a9e7a1c4600e
+      internalID: 1362521928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 11000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc938c95e506bc498fa8916c21dac02
+      internalID: -354855347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_17
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 11000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e6cacb51ebe714f90e226c789d1dab
+      internalID: -88520449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_18
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 11000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46002800c2fb1f144928bb46fe51bfed
+      internalID: 168552499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_19
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 11000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d2312a0a3ef94f80897ac79d6d2ad
+      internalID: -1931834878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda135df1c32d6343b0b38e76a34d8a8
+      internalID: -1324323447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_21
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 10000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399bad763a0dfb14d88e2fbcc53e574e
+      internalID: 1860207337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_22
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 10000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ec2e9bb7cad194f916b464ca582694
+      internalID: -95650657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_23
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 10000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb6004ec73e8e445951b129650bcc35
+      internalID: 1792899095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_24
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 10000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9933f9d55e6ed9448ca82a58e84c36c
+      internalID: 1869250559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728494f3c078d824fa6bb2e9e8471d83
+      internalID: 265934938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_26
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 9000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeeb3426e4fbd94b931a0f1fd891559
+      internalID: -1924754624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_27
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 9000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b5ffe009575c34f9df5dccfbbca2e5
+      internalID: 2135096001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_28
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 9000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5230cd4c53071b4c8b455e49513e32a
+      internalID: -1761439509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_29
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 9000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f023e0b3d2fd4599fc89c732a6b4a
+      internalID: -1558421375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7f487bfc769704d9b389d4fd59536c
+      internalID: 1502746006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_31
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 8000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95edec277d2fd0442863fe301226778a
+      internalID: -2030464727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_32
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 8000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c825b14f7035ce340a38bbe093641188
+      internalID: 1253601482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_33
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 8000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e282839ee76cb4442a0a17ee918b0338
+      internalID: 140166843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_34
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 8000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab695f2e2075304599ddcceb2f35e88
+      internalID: 216578539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8149b526d7b04e046bcdad59f1a57abb
+      internalID: -1636918572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_36
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 7000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7163f07cb1b641a4586a29d7e8761484
+      internalID: 1012907775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_37
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 7000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfdf1fd69abc6b4aa4dc2ffa8c9ead2
+      internalID: -1845074425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_38
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 7000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf1883835d92bf4fab93ddbb1dca420
+      internalID: -1355976040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_39
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 7000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b961213db2895429d5c02bca080ad2
+      internalID: 1595455959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de509e1787211dc45af5fa7c81153e5a
+      internalID: 1005093920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_41
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 6000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad3cafbb478f84d8847906a9a25b6f
+      internalID: 1086990312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_42
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 6000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b533a3be5da0c1241a6d730394d955b7
+      internalID: -317622194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_43
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 6000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8471168455ff164285eb3962d09549a
+      internalID: 1264351275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_44
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 6000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0429602b091ec844ab70f1c743911ec
+      internalID: 147357659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8c90323d91cf7469040ed1bbce1cae
+      internalID: 1003092031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_46
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 5000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a462a8a07eb3b2b4085906bc86723b25
+      internalID: 884826757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_47
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 5000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1586682609e3b46be2d7ff02c06fd5
+      internalID: 430855936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_48
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 5000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac2f38cef17a9a43bb51b0b937c4ead
+      internalID: 2411033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_49
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 5000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e183ee7a837574f88232a3a46add04
+      internalID: 1112406420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81b1f88fad4396419852a471be26342
+      internalID: -193384862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_51
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 4000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf619c10323864a8efcafa3a7a867f
+      internalID: -1769267597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_52
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 4000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f87e2bf9399250448ad58aebe1ec922
+      internalID: -1462122510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_53
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 4000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1815b1de16cf5c4da2cb342bd5b0d04
+      internalID: -1510776465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_54
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 4000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c8c65630668d741b4468b36c99a529
+      internalID: 1478989557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df171338a3b2f454c82b9e0186fb46e9
+      internalID: -1306282649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_56
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 3000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24e8b665ae8db14689e554f67da9c55
+      internalID: 1371230750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_57
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 3000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7239e0e4741f47bb78dbeb82a6620
+      internalID: -2088005632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_58
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 3000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462802f563ccd07489612fc247e94b33
+      internalID: 533277134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_59
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 3000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d4f3323b2003742b7608fc98de91ea
+      internalID: 115728935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76940973d37f9c0458dbb5888d09f063
+      internalID: -386780265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_61
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d34a3f8dde970449b0eff627edfa13c
+      internalID: -1487515582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_62
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7be2a2ef794ebf4ba89c859558d711c
+      internalID: -137726833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_63
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 2000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d29e4f3dfd581543b9bab98c7bbdeee
+      internalID: 411459155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_64
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 2000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aba1f1bb292754184942256dcaa1a6
+      internalID: 849535158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ec7544d2d7c244fa2415b732fcdb66
+      internalID: -1736266905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_66
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2170ebab1a18b654d84479fb94cc2e40
+      internalID: 805431187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_67
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b571283a1a61141af852b49c9ba25c
+      internalID: -1965719110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_68
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0076720107b5a4aabcd3a414bc3e35
+      internalID: -1631965501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_69
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 1000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e71785fa6e5de4c9396107c21f1c24
+      internalID: 692806205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1219017cf63b6a54c8c4eafe56a45a54
+      internalID: -96406853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kiri_71
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c9ecc0d45a2744a052291268e1536
+      internalID: 1722038552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      A_stun_kiri_0: -1856933308
+      A_stun_kiri_1: 684636132
+      A_stun_kiri_10: 1376371179
+      A_stun_kiri_11: 427498473
+      A_stun_kiri_12: 374049177
+      A_stun_kiri_13: 1151561799
+      A_stun_kiri_14: -1791024568
+      A_stun_kiri_15: 1362521928
+      A_stun_kiri_16: -354855347
+      A_stun_kiri_17: -88520449
+      A_stun_kiri_18: 168552499
+      A_stun_kiri_19: -1931834878
+      A_stun_kiri_2: 1452071207
+      A_stun_kiri_20: -1324323447
+      A_stun_kiri_21: 1860207337
+      A_stun_kiri_22: -95650657
+      A_stun_kiri_23: 1792899095
+      A_stun_kiri_24: 1869250559
+      A_stun_kiri_25: 265934938
+      A_stun_kiri_26: -1924754624
+      A_stun_kiri_27: 2135096001
+      A_stun_kiri_28: -1761439509
+      A_stun_kiri_29: -1558421375
+      A_stun_kiri_3: 904489010
+      A_stun_kiri_30: 1502746006
+      A_stun_kiri_31: -2030464727
+      A_stun_kiri_32: 1253601482
+      A_stun_kiri_33: 140166843
+      A_stun_kiri_34: 216578539
+      A_stun_kiri_35: -1636918572
+      A_stun_kiri_36: 1012907775
+      A_stun_kiri_37: -1845074425
+      A_stun_kiri_38: -1355976040
+      A_stun_kiri_39: 1595455959
+      A_stun_kiri_4: 847096873
+      A_stun_kiri_40: 1005093920
+      A_stun_kiri_41: 1086990312
+      A_stun_kiri_42: -317622194
+      A_stun_kiri_43: 1264351275
+      A_stun_kiri_44: 147357659
+      A_stun_kiri_45: 1003092031
+      A_stun_kiri_46: 884826757
+      A_stun_kiri_47: 430855936
+      A_stun_kiri_48: 2411033
+      A_stun_kiri_49: 1112406420
+      A_stun_kiri_5: -1636265167
+      A_stun_kiri_50: -193384862
+      A_stun_kiri_51: -1769267597
+      A_stun_kiri_52: -1462122510
+      A_stun_kiri_53: -1510776465
+      A_stun_kiri_54: 1478989557
+      A_stun_kiri_55: -1306282649
+      A_stun_kiri_56: 1371230750
+      A_stun_kiri_57: -2088005632
+      A_stun_kiri_58: 533277134
+      A_stun_kiri_59: 115728935
+      A_stun_kiri_6: -547887314
+      A_stun_kiri_60: -386780265
+      A_stun_kiri_61: -1487515582
+      A_stun_kiri_62: -137726833
+      A_stun_kiri_63: 411459155
+      A_stun_kiri_64: 849535158
+      A_stun_kiri_65: -1736266905
+      A_stun_kiri_66: 805431187
+      A_stun_kiri_67: -1965719110
+      A_stun_kiri_68: -1631965501
+      A_stun_kiri_69: 692806205
+      A_stun_kiri_7: -1707646097
+      A_stun_kiri_70: -96406853
+      A_stun_kiri_71: 1722038552
+      A_stun_kiri_8: 1288218081
+      A_stun_kiri_9: -784698880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

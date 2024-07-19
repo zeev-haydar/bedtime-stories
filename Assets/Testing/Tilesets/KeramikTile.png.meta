@@ -1,0 +1,1479 @@
+fileFormatVersion: 2
+guid: 5ec768cbfea2e58418fdecf8b913d661
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9112511476249568934
+    second: KeramikTile_0
+  - first:
+      213: 2458293545061036093
+    second: KeramikTile_1
+  - first:
+      213: -2561280052956013116
+    second: KeramikTile_2
+  - first:
+      213: 1428256279916536433
+    second: KeramikTile_3
+  - first:
+      213: 2545073161891461024
+    second: KeramikTile_4
+  - first:
+      213: -3430108025065934716
+    second: KeramikTile_5
+  - first:
+      213: -5946256116740030662
+    second: KeramikTile_6
+  - first:
+      213: 8628725027532493164
+    second: KeramikTile_7
+  - first:
+      213: -1487551744771066129
+    second: KeramikTile_8
+  - first:
+      213: -3031959159180165116
+    second: KeramikTile_9
+  - first:
+      213: -4138964132958047620
+    second: KeramikTile_10
+  - first:
+      213: -7558494647819452003
+    second: KeramikTile_11
+  - first:
+      213: -784071574804894664
+    second: KeramikTile_12
+  - first:
+      213: 4396051740993762349
+    second: KeramikTile_13
+  - first:
+      213: -1271449226767265641
+    second: KeramikTile_14
+  - first:
+      213: 8805946262627005037
+    second: KeramikTile_15
+  - first:
+      213: -9086556254270554539
+    second: KeramikTile_16
+  - first:
+      213: -5991795704464745286
+    second: KeramikTile_17
+  - first:
+      213: 8088888616463906170
+    second: KeramikTile_18
+  - first:
+      213: -361434603326371312
+    second: KeramikTile_19
+  - first:
+      213: -5965396530087859076
+    second: KeramikTile_20
+  - first:
+      213: -5728991939853538596
+    second: KeramikTile_21
+  - first:
+      213: -3537053109507708584
+    second: KeramikTile_22
+  - first:
+      213: -6326047920318560764
+    second: KeramikTile_23
+  - first:
+      213: -3492871527438546725
+    second: KeramikTile_24
+  - first:
+      213: -5048370291612022799
+    second: KeramikTile_25
+  - first:
+      213: 4535405172345063375
+    second: KeramikTile_26
+  - first:
+      213: 1142986183779095292
+    second: KeramikTile_27
+  - first:
+      213: 5637957890919418018
+    second: KeramikTile_28
+  - first:
+      213: 7368123454010059836
+    second: KeramikTile_29
+  - first:
+      213: -3237706157182262929
+    second: KeramikTile_30
+  - first:
+      213: 7117673828499399645
+    second: KeramikTile_31
+  - first:
+      213: 2930599145909825477
+    second: KeramikTile_32
+  - first:
+      213: 5669709995716277107
+    second: KeramikTile_33
+  - first:
+      213: -7856126381847483956
+    second: KeramikTile_34
+  - first:
+      213: -3927977252199881860
+    second: KeramikTile_35
+  - first:
+      213: -358047501432254880
+    second: KeramikTile_36
+  - first:
+      213: 2580426661192750991
+    second: KeramikTile_37
+  - first:
+      213: 6554320617605541069
+    second: KeramikTile_38
+  - first:
+      213: 191455877295136588
+    second: KeramikTile_39
+  - first:
+      213: -5773679100476548930
+    second: KeramikTile_40
+  - first:
+      213: 2766051832735311860
+    second: KeramikTile_41
+  - first:
+      213: 7013352093053567420
+    second: KeramikTile_42
+  - first:
+      213: -1439795929557656117
+    second: KeramikTile_43
+  - first:
+      213: 8052888369518142091
+    second: KeramikTile_44
+  - first:
+      213: -6580168189840065053
+    second: KeramikTile_45
+  - first:
+      213: 7218856380063962369
+    second: KeramikTile_46
+  - first:
+      213: 3401291195712506165
+    second: KeramikTile_47
+  - first:
+      213: -4463834783621086965
+    second: KeramikTile_48
+  - first:
+      213: -7678745963461247787
+    second: KeramikTile_49
+  - first:
+      213: -8792388232928998316
+    second: KeramikTile_50
+  - first:
+      213: 7669698811343805310
+    second: KeramikTile_51
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KeramikTile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6a68158e4267e70800000000000000
+      internalID: 9112511476249568934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30bff264fc9d1220800000000000000
+      internalID: 2458293545061036093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd5341bc51847cd0800000000000000
+      internalID: -2561280052956013116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17265a4f48f22d310800000000000000
+      internalID: 1428256279916536433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7bbed6e8ae15320800000000000000
+      internalID: 2545073161891461024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807ab8bceec560d0800000000000000
+      internalID: -3430108025065934716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f77320197aa7da0800000000000000
+      internalID: -5946256116740030662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61d89212b36fb770800000000000000
+      internalID: 8628725027532493164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe678ebc1972b5be0800000000000000
+      internalID: -1487551744771066129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400039f65315ce5d0800000000000000
+      internalID: -3031959159180165116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72f3fcdc027f86c0800000000000000
+      internalID: -4138964132958047620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91c7081a25da1790800000000000000
+      internalID: -7558494647819452003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ce5419e0b6e15f0800000000000000
+      internalID: -784071574804894664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24bb2464c9e10d30800000000000000
+      internalID: 4396051740993762349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79097982aa7ea5ee0800000000000000
+      internalID: -1271449226767265641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62bf0f4871053a70800000000000000
+      internalID: 8805946262627005037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e7998ba3116e180800000000000000
+      internalID: -9086556254270554539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcdaac7d8dd8dca0800000000000000
+      internalID: -5991795704464745286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7538040751814070800000000000000
+      internalID: 8088888616463906170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a823ba42debfaf0800000000000000
+      internalID: -361434603326371312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce3cf3677a63da0800000000000000
+      internalID: -5965396530087859076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda24f72f288e70b0800000000000000
+      internalID: -5728991939853538596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8592a10efecd9eec0800000000000000
+      internalID: -3537053109507708584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406405deeec5538a0800000000000000
+      internalID: -6326047920318560764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_24
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd803f01ad3d68fc0800000000000000
+      internalID: -3492871527438546725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_25
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f784d997f590f9b0800000000000000
+      internalID: -5048370291612022799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c81289fef0fe30800000000000000
+      internalID: 4535405172345063375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2155bd0e3bcdf00800000000000000
+      internalID: 1142986183779095292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8ccd2a4dc0e3e40800000000000000
+      internalID: 5637957890919418018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c6e715e35d04660800000000000000
+      internalID: 7368123454010059836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f616e06776b5113d0800000000000000
+      internalID: -3237706157182262929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd32dcec2ae07c260800000000000000
+      internalID: 7117673828499399645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfa40f65649ba820800000000000000
+      internalID: 2930599145909825477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3737622a33bdeae40800000000000000
+      internalID: 5669709995716277107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9e763edae69f290800000000000000
+      internalID: -7856126381847483956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_35
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73afcc10850d79c0800000000000000
+      internalID: -3927977252199881860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e0a68c1b5f70bf0800000000000000
+      internalID: -358047501432254880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_37
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87575d60648fc320800000000000000
+      internalID: 2580426661192750991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_38
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcca56c10ef95fa50800000000000000
+      internalID: 6554320617605541069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f56542b1038a200800000000000000
+      internalID: 191455877295136588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb89ff8c275cfdfa0800000000000000
+      internalID: -5773679100476548930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a1889c7df26620800000000000000
+      internalID: 2766051832735311860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1433ff19e645160800000000000000
+      internalID: 7013352093053567420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd99adfa31d40ce0800000000000000
+      internalID: -1439795929557656117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82e0095e4b91cf60800000000000000
+      internalID: 8052888369518142091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edf14205eb8ea4a0800000000000000
+      internalID: -6580168189840065053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_46
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105564a61a78e2460800000000000000
+      internalID: 7218856380063962369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_47
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398b1a5250d33f20800000000000000
+      internalID: 3401291195712506165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_48
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b018b3a2ae54d02c0800000000000000
+      internalID: -4463834783621086965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_49
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7d6fda3d9f6590800000000000000
+      internalID: -7678745963461247787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_50
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c41f87c792bf580800000000000000
+      internalID: -8792388232928998316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeramikTile_51
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b1260ee6e307a60800000000000000
+      internalID: 7669698811343805310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KeramikTile_0: 9112511476249568934
+      KeramikTile_1: 2458293545061036093
+      KeramikTile_10: -4138964132958047620
+      KeramikTile_11: -7558494647819452003
+      KeramikTile_12: -784071574804894664
+      KeramikTile_13: 4396051740993762349
+      KeramikTile_14: -1271449226767265641
+      KeramikTile_15: 8805946262627005037
+      KeramikTile_16: -9086556254270554539
+      KeramikTile_17: -5991795704464745286
+      KeramikTile_18: 8088888616463906170
+      KeramikTile_19: -361434603326371312
+      KeramikTile_2: -2561280052956013116
+      KeramikTile_20: -5965396530087859076
+      KeramikTile_21: -5728991939853538596
+      KeramikTile_22: -3537053109507708584
+      KeramikTile_23: -6326047920318560764
+      KeramikTile_24: -3492871527438546725
+      KeramikTile_25: -5048370291612022799
+      KeramikTile_26: 4535405172345063375
+      KeramikTile_27: 1142986183779095292
+      KeramikTile_28: 5637957890919418018
+      KeramikTile_29: 7368123454010059836
+      KeramikTile_3: 1428256279916536433
+      KeramikTile_30: -3237706157182262929
+      KeramikTile_31: 7117673828499399645
+      KeramikTile_32: 2930599145909825477
+      KeramikTile_33: 5669709995716277107
+      KeramikTile_34: -7856126381847483956
+      KeramikTile_35: -3927977252199881860
+      KeramikTile_36: -358047501432254880
+      KeramikTile_37: 2580426661192750991
+      KeramikTile_38: 6554320617605541069
+      KeramikTile_39: 191455877295136588
+      KeramikTile_4: 2545073161891461024
+      KeramikTile_40: -5773679100476548930
+      KeramikTile_41: 2766051832735311860
+      KeramikTile_42: 7013352093053567420
+      KeramikTile_43: -1439795929557656117
+      KeramikTile_44: 8052888369518142091
+      KeramikTile_45: -6580168189840065053
+      KeramikTile_46: 7218856380063962369
+      KeramikTile_47: 3401291195712506165
+      KeramikTile_48: -4463834783621086965
+      KeramikTile_49: -7678745963461247787
+      KeramikTile_5: -3430108025065934716
+      KeramikTile_50: -8792388232928998316
+      KeramikTile_51: 7669698811343805310
+      KeramikTile_6: -5946256116740030662
+      KeramikTile_7: 8628725027532493164
+      KeramikTile_8: -1487551744771066129
+      KeramikTile_9: -3031959159180165116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

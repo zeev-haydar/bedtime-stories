@@ -1,0 +1,1059 @@
+fileFormatVersion: 2
+guid: 9897e892654fe744cb5cf60725935ca6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E_idle_kiri_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19325efbce5d7fd47b1b0053679e0087
+      internalID: 1548398516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_1
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 7000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5922615b0b9f94fba8cdd97a5c8fa8
+      internalID: -617294974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_2
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 7000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc1d88c4bf65224192eca67287bf5ae
+      internalID: 1178075352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_3
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 7000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0419c549c11d1c245aca6ebc13184da4
+      internalID: -863557180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_4
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 7000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef3dde190c32b43b305ce5bbfe133a
+      internalID: -2100805019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0e9b70af0264c499182b79da961268
+      internalID: -886437862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_6
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 6000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5213630c88481194697ff8e489aab754
+      internalID: -839431937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_7
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 6000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7f2ff0344e3e47bcd3db6d077ca23
+      internalID: 94448405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_8
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 6000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b8ba6425f01704eb157cf191075ebb
+      internalID: 1088367957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_9
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 6000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913bdc4034f809d4ab6330f5d50f7e04
+      internalID: -1073731911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd20136d68b4bc4dac351a63d6683ed
+      internalID: -350521575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_11
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 5000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de8e4a540f84b44587f35b6365fa935
+      internalID: 1984244206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_12
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 5000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5474b13e1a492f241b1c4dde9dae85d1
+      internalID: 1204735236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_13
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 5000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0cb69053165234fbd580f9dfe1424e
+      internalID: 857152383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_14
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 5000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7394051ada70874d90fc9ee1bf78db8
+      internalID: -378853415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb591a0299f9fc4b9ff5823bd54adad
+      internalID: 86729256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_16
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 4000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132510a7b1a7bc44bbf28aed2c1e34b5
+      internalID: 1207036243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_17
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 4000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118150ac2a9495743897e89d9cee2814
+      internalID: 1546388985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_18
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 4000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e7329f5b107f44b401982b0e2faee
+      internalID: 1397624926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_19
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 4000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dda815f75eb84545b7c25dc711dbcb1
+      internalID: 55607196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba6e86067acf8b4d84595e6986510ba
+      internalID: -42564077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_21
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 3000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65f05c3146173f4a985b4274fc7493a
+      internalID: -1666516866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_22
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ae3822cc3ff0d41b8a8699da863d8d
+      internalID: 1067509120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_23
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 3000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa60447f17f9dd41a9ba6d87633dd6e
+      internalID: -84579215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_24
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 3000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c205f04983469e64486acfedaa6d7742
+      internalID: -940542374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd177faa493d84ea8a94ff51ca1906
+      internalID: 900841053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_26
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80690d595942ac499116898ade4442d
+      internalID: -842226846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_27
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 2000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0161eb46b2b03408c66649b8805852
+      internalID: -88031808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_28
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 2000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ce13095ff67645b2d015069b7a469
+      internalID: 1238507571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_29
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 2000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ba2e7e219872a409b4302243f58b30
+      internalID: 1716493665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a08ee6c5b75324dab0a46b4c06e90d
+      internalID: -1754124133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_31
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e75029853dc8404ba8c9ba84d34a42f
+      internalID: 1721076966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_32
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8104b558c980f01438f678d7e1170e40
+      internalID: 1418126453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_33
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 1000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a2676ef3028c54484c782c44031420
+      internalID: 1778640423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_34
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 1000
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4029cf1a615a484fad82c3f501900a9
+      internalID: -1816424851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97493efd9ac1b3f459649f99f2abb4ee
+      internalID: 317889242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_36
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 0
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c4cfda7e6879542abab41889917afa
+      internalID: -487697442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_37
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 0
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867dd82f699403c4ca3705d65e94c8a3
+      internalID: 2023867655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_38
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 0
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ef96cff5bc1094990b23ffb3a89c51
+      internalID: -1423254067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_idle_kiri_39
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 0
+        width: 993
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1463463e97bb4142b6b24f56d494f19
+      internalID: 1198755849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      E_idle_kiri_0: 1548398516
+      E_idle_kiri_1: -617294974
+      E_idle_kiri_10: -350521575
+      E_idle_kiri_11: 1984244206
+      E_idle_kiri_12: 1204735236
+      E_idle_kiri_13: 857152383
+      E_idle_kiri_14: -378853415
+      E_idle_kiri_15: 86729256
+      E_idle_kiri_16: 1207036243
+      E_idle_kiri_17: 1546388985
+      E_idle_kiri_18: 1397624926
+      E_idle_kiri_19: 55607196
+      E_idle_kiri_2: 1178075352
+      E_idle_kiri_20: -42564077
+      E_idle_kiri_21: -1666516866
+      E_idle_kiri_22: 1067509120
+      E_idle_kiri_23: -84579215
+      E_idle_kiri_24: -940542374
+      E_idle_kiri_25: 900841053
+      E_idle_kiri_26: -842226846
+      E_idle_kiri_27: -88031808
+      E_idle_kiri_28: 1238507571
+      E_idle_kiri_29: 1716493665
+      E_idle_kiri_3: -863557180
+      E_idle_kiri_30: -1754124133
+      E_idle_kiri_31: 1721076966
+      E_idle_kiri_32: 1418126453
+      E_idle_kiri_33: 1778640423
+      E_idle_kiri_34: -1816424851
+      E_idle_kiri_35: 317889242
+      E_idle_kiri_36: -487697442
+      E_idle_kiri_37: 2023867655
+      E_idle_kiri_38: -1423254067
+      E_idle_kiri_39: 1198755849
+      E_idle_kiri_4: -2100805019
+      E_idle_kiri_5: -886437862
+      E_idle_kiri_6: -839431937
+      E_idle_kiri_7: 94448405
+      E_idle_kiri_8: 1088367957
+      E_idle_kiri_9: -1073731911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

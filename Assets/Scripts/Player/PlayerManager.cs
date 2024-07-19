@@ -1,0 +1,112 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using Player;
+using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.DualShock;
+using UnityEngine.InputSystem.XInput;
+using UnityEngine.SceneManagement;
+
+namespace Managers
+{
+    public class PlayerManager : MonoBehaviour
+    {
+        private static PlayerManager instance;
+        public static PlayerManager Instance { get => instance; }
+        public List<GameObject> Players { get => players; }
+
+        List<GameObject> players = new List<GameObject>();
+        [SerializeField] private List<Vector3> InitialMenuPosition;
+        [SerializeField] private List<Vector3> InitialWorldPosition;
+        [SerializeField] private List<RuntimeAnimatorController> controllers;
+
+        private float joinTimer = 0;
+        [SerializeField] private float joinHoldTime = 1f;
+        private bool canJoin = true;
+
+        public int CurrentPlayerCount { get => players.Count; }
+
+
+        //[SerializeField] private List<Color> Colors;
+        // Start is called before the first frame update
+        void Start()
+        {
+            if (instance != null)
+            {
+                Destroy(this);
+                return;
+            }
+            instance = this;
+            DontDestroyOnLoad(this);
+        }
+
+        private void Update()
+        {
+            joinTimer += Time.deltaTime;
+            Debug.Log(joinTimer);
+            if (joinTimer >= joinHoldTime)
+            {
+                StartGame();
+                SceneManager.LoadScene("Testing");
+                joinTimer = float.MinValue;
+            }
+        }
+
+        public void StartGame()
+        {
+            canJoin = false;
+            GetComponent<PlayerInputManager>().DisableJoining();
+            //SceneManager.LoadScene("Player");
+            for (int i = 0; i < players.Count; i++)
+            {
+                players[i].transform.position = InitialWorldPosition[i];
+                players[i].GetComponent<PlayerObject>().UnlockMove();
+                players[i].GetComponent<Renderer>().enabled = true;
+
+                players[i].GetComponent<PlayerInput>().currentActionMap.FindAction("Attack").started -= OnStartPressed;
+                players[i].GetComponent<PlayerInput>().currentActionMap.FindAction("Attack").performed -= OnStartPressed;
+                players[i].GetComponent<PlayerInput>().currentActionMap.FindAction("Attack").canceled -= OnStartPressed;
+
+                players[i].GetComponent<Animator>().runtimeAnimatorController = controllers[i];
+                players[i].GetComponent<PlayerObject>().inGameScene = true;
+            }
+        }
+
+        public void OnPlayerJoined(PlayerInput device)
+        {
+            if (!canJoin) return;
+            players.Add(device.gameObject);
+            DontDestroyOnLoad (device);
+            if (players.Count < InitialMenuPosition.Count)
+            {
+                //device.transform.position = InitialMenuPosition[players.Count - 1];
+                //device.GetComponent<PlayerObject>().LockMove();
+                device.GetComponent<Renderer>().enabled = false;
+                device.currentActionMap.FindAction("Attack").started += OnStartPressed;
+                device.currentActionMap.FindAction("Attack").performed += OnStartPressed;
+                device.currentActionMap.FindAction("Attack").canceled += OnStartPressed;
+            }
+
+        }
+
+        public void OnPlayerLeft(PlayerInput device)
+        {
+            players.Remove(device.gameObject);
+        }
+
+        public void OnStartPressed(InputAction.CallbackContext context)
+        {
+            if (context.started)
+            {
+                joinTimer = 0;
+            }
+            if (context.canceled)
+            {
+                joinTimer = float.MinValue;
+            }
+        }
+
+    }
+
+}

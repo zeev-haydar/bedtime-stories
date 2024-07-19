@@ -1,0 +1,2186 @@
+fileFormatVersion: 2
+guid: e637051bd59bafe459f70e872f9ad508
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12501.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369c6e1e1d8a739448d13070e6d1648f
+      internalID: -149703300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 12501.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8985b1a52570649a91a837a3cbc02b
+      internalID: 635997411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 12501.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e5834214258a947900aef6b1bd7f4e
+      internalID: -817251625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_3
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 12501.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59557fb326005ce43804c757984d7cfc
+      internalID: -542646707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_4
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 12501.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff617fab3ab67e44a01bb8f19ec2d77
+      internalID: 1142847510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11807.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c46700cba87745428f3ea4536082ca8
+      internalID: 266715876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 11807.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1235e9059f9879249959ccf24b863b37
+      internalID: -575124851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_7
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 11807.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662becedbf381564e909832fd447a5a6
+      internalID: 1441555022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_8
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 11807.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963a7e8666b3bcd439eec1eb71800203
+      internalID: -290247901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 11807.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a021ee92ada10148a59278cfe0dd8a8
+      internalID: 583245925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11113.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92827a1e46d3c3478b731a0661f7c71
+      internalID: -1732211142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 11113.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da640d7cc5210bc458950563d1fc2568
+      internalID: -1465158887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 11113.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ded350775b33f40ab247ef45bb3c39
+      internalID: 238071503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_13
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 11113.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff8a67fe954e754e866e03c963e182b
+      internalID: -1380286729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 11113.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b28541438e719042b49354f287c6ed7
+      internalID: -2062348690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10419.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24284d7e91f80f44292504af0d9b95a9
+      internalID: -155749215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 10419.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a2809a1a1f2c347a935aac1a3f89e8
+      internalID: -496103315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_17
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 10419.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe05a1dd638dfe47ae998546b8c630c
+      internalID: -247116718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_18
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 10419.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b89e24e9fdcf714a9fa884d0a3ccf08
+      internalID: 2109511915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_19
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 10419.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666114925598aa4285beb1cc0af1029
+      internalID: -1461354596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9725.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd0ef612eff58148a9dbb3b1b8a0d48
+      internalID: 499216897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9725.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e3a0aea0013e345ba8bfd4a241491b
+      internalID: 221012819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9725.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60265c1cd24358d4f9e4e5a8f067adea
+      internalID: 29405495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_23
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9725.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf7bde2bee35074a8ef543f94bf380a
+      internalID: -1238717516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_24
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9725.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db5f01b048680548a8b67835713caf8
+      internalID: -717966930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9031.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eb10a92e2f8ee409795e37f2a1051d
+      internalID: -1229789694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9031.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39276ea539124ff49bae4325ced64c02
+      internalID: -312923995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9031.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d657dc99c77774797bc1dc8a4f0c0d
+      internalID: 154037294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_28
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9031.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db59491da15d7e34c9d5c5cb05bcd20e
+      internalID: -1976470993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_29
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9031.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3825f2825d45245b19feaac5824b81
+      internalID: 1522849632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8337.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cd838fd354eee498d496200f02f8ca
+      internalID: 1395293312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8337.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461db9a4d90bc8749b0c1f19d27ada91
+      internalID: -2051494031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_32
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8337.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99050c24f82b0914d863d60de844e4a5
+      internalID: 1646725005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_33
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8337.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc22ebd26160044d9c0cc189cbfac62
+      internalID: 397361962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_34
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8337.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe511c1e1fef96488cf2f24edb2caed
+      internalID: -2089394305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7643.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd1b230f54485d48b3176ad25b0a7a8
+      internalID: 513502345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7643.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4cbb7fb9786af4a97553b5d01cd45d
+      internalID: 974489779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_37
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7643.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37abec6c8a4e7c943842adff5fa11514
+      internalID: 432770501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_38
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7643.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425f8bf437313264093159fafe7fb398
+      internalID: -2145978368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_39
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7643.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f93c6450524dc42afa2a60595c27c9
+      internalID: 1024113795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6949.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2198ee1a6f98444aad466b1cc6e9770
+      internalID: -2037794654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_41
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6949.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0c05fee582728459c75b34c67af957
+      internalID: -980323919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_42
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6949.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50774cb6b7985b448933650a913045d6
+      internalID: 745981435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_43
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6949.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb11f40bc3aca440a92303ce3ad124d
+      internalID: 215456758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_44
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6949.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9edf8da7e86e8a42be154fac8751f4e
+      internalID: -1719370581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6255.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9e7fc7f792931499ddb46fe622d2ee
+      internalID: -1291620746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6255.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695951e50bc1e0140b37b22c6b1d90a7
+      internalID: 2095354392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_47
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6255.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0b7b4c22400a243a1af556f8e09f54
+      internalID: 1624657096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_48
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6255.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26a8918f0e57a54280e38a0e9e740b2
+      internalID: 247687928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_49
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6255.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81d41cbb60e837409e1e508e7ec0691
+      internalID: -778826934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5561.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd033699d9226a045a22a6315e72a8f1
+      internalID: -1538238947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5561.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df2283443c404347a6e1561a02e2b60
+      internalID: 1853049821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_52
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5561.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963cc6661dcbd564c83c29895319647b
+      internalID: -743468947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_53
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5561.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d079b8b3bda89eb4591d5a20a47465f4
+      internalID: 2010134937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5561.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986e87b9f53cdda45912dd82d51a00e5
+      internalID: 1992384406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4867.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f3b8a6b0070c84189fdae074ce9142
+      internalID: 668497479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_56
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4867.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184bb803f3a737f4d86d66bed3d524b7
+      internalID: 133431014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_57
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4867.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99f30a993df6c3498a65b56fb5458f7
+      internalID: 110841872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_58
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4867.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c73b6b6a2f853b44b879fca693f0d76
+      internalID: 546787784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_59
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4867.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbf014993e115f41a92b33d9a29e7b7
+      internalID: -1799654447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4173.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7f124717de42e4ba8ac8b003bdd794
+      internalID: 597824872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_61
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4173.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11863faa57649c74cb25720dcc77b4cd
+      internalID: -1534779160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_62
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4173.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fbc1385d910f44786e3e33320e5737
+      internalID: -990293933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_63
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4173.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee62e6181b0e641bedb5bae1bf7143
+      internalID: 758806894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_64
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4173.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814419070e5635c46958a68a02c2cf0a
+      internalID: -1431170634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3479.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7ba41401cf86e4eb377d9161b4e713
+      internalID: -1723693248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3479.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765cc6a1d9f5cda42838008961aaebf6
+      internalID: 745527146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_67
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3479.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8e3925261a10d46ac9fad0193a4886
+      internalID: 1094572426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_68
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3479.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fed319aac8d99489ec91d04b1cf812
+      internalID: 2135663799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_69
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3479.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71fa3a67a005704c9505e2f67e4de20
+      internalID: 480072811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2785.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815f8b72cfd67dd47b0bdfc608220c25
+      internalID: -2093936793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_71
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2785.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee39cbcf40c5414892eae9971a7fbf8
+      internalID: 1694297225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_72
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2785.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f98b1a244d2f5c4ca56926fd4a4b511
+      internalID: 1451721933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_73
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2785.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c8e1edcedf68c48bbadf2385115862
+      internalID: -448989762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_74
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2785.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198342c2a8c738f44921a59a8888e320
+      internalID: 706905211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2091.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3161cd0da3e91184f9da642f69b40e85
+      internalID: 1575888360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_76
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2091.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b193f9be7c1944982808b9152d642b
+      internalID: -1920828209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_77
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2091.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec30d8a38d1d7b94d944f26bf971e93a
+      internalID: 894564304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_78
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2091.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8898b06ad7ec64d87057fc7ed55db6
+      internalID: -1511195983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_79
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2091.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aef07df51d6cd34081b57ecb99d4a26
+      internalID: -936365284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1397.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab82f719aef6be4eb85888b01d9d303
+      internalID: -506152839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_81
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1397.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923ede49b4806c642b4eccbaeb496042
+      internalID: 1574996186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_82
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1397.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5733f00065f1104fb2ecd5698429c14
+      internalID: 935267476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_83
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1397.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46caa6ffe29b8446982607d690117bf
+      internalID: 168455323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_84
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1397.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5cb27e231c78e438c8d7df2569bb93
+      internalID: 107652966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703.4737
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b259d5f6056544fb26adb880fde420
+      internalID: 2026224673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_86
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 703.4737
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8595eb8d3e5fd48418d72653ea42e266
+      internalID: 1343942120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_87
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 703.4737
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c690b496961655744a7236b587f32c12
+      internalID: -1119148215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_88
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 703.4737
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9861340586847bf40ab7998336ac95c4
+      internalID: 451895654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_89
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 703.4737
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3702cb602c6e544b41f93303ee5d48
+      internalID: 351085766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9.473694
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a87fbd77800a640a1c084c82690c33
+      internalID: 295605243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_91
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9.473694
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33ea89138c064e43bf93d5179e2bbcd
+      internalID: -943706463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baling_92
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9.473694
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c05a8cc7c84914b8ac1b2dfd2639b9
+      internalID: 1873447867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Baling_0: -149703300
+      Baling_1: 635997411
+      Baling_10: -1732211142
+      Baling_11: -1465158887
+      Baling_12: 238071503
+      Baling_13: -1380286729
+      Baling_14: -2062348690
+      Baling_15: -155749215
+      Baling_16: -496103315
+      Baling_17: -247116718
+      Baling_18: 2109511915
+      Baling_19: -1461354596
+      Baling_2: -817251625
+      Baling_20: 499216897
+      Baling_21: 221012819
+      Baling_22: 29405495
+      Baling_23: -1238717516
+      Baling_24: -717966930
+      Baling_25: -1229789694
+      Baling_26: -312923995
+      Baling_27: 154037294
+      Baling_28: -1976470993
+      Baling_29: 1522849632
+      Baling_3: -542646707
+      Baling_30: 1395293312
+      Baling_31: -2051494031
+      Baling_32: 1646725005
+      Baling_33: 397361962
+      Baling_34: -2089394305
+      Baling_35: 513502345
+      Baling_36: 974489779
+      Baling_37: 432770501
+      Baling_38: -2145978368
+      Baling_39: 1024113795
+      Baling_4: 1142847510
+      Baling_40: -2037794654
+      Baling_41: -980323919
+      Baling_42: 745981435
+      Baling_43: 215456758
+      Baling_44: -1719370581
+      Baling_45: -1291620746
+      Baling_46: 2095354392
+      Baling_47: 1624657096
+      Baling_48: 247687928
+      Baling_49: -778826934
+      Baling_5: 266715876
+      Baling_50: -1538238947
+      Baling_51: 1853049821
+      Baling_52: -743468947
+      Baling_53: 2010134937
+      Baling_54: 1992384406
+      Baling_55: 668497479
+      Baling_56: 133431014
+      Baling_57: 110841872
+      Baling_58: 546787784
+      Baling_59: -1799654447
+      Baling_6: -575124851
+      Baling_60: 597824872
+      Baling_61: -1534779160
+      Baling_62: -990293933
+      Baling_63: 758806894
+      Baling_64: -1431170634
+      Baling_65: -1723693248
+      Baling_66: 745527146
+      Baling_67: 1094572426
+      Baling_68: 2135663799
+      Baling_69: 480072811
+      Baling_7: 1441555022
+      Baling_70: -2093936793
+      Baling_71: 1694297225
+      Baling_72: 1451721933
+      Baling_73: -448989762
+      Baling_74: 706905211
+      Baling_75: 1575888360
+      Baling_76: -1920828209
+      Baling_77: 894564304
+      Baling_78: -1511195983
+      Baling_79: -936365284
+      Baling_8: -290247901
+      Baling_80: -506152839
+      Baling_81: 1574996186
+      Baling_82: 935267476
+      Baling_83: 168455323
+      Baling_84: 107652966
+      Baling_85: 2026224673
+      Baling_86: 1343942120
+      Baling_87: -1119148215
+      Baling_88: 451895654
+      Baling_89: 351085766
+      Baling_9: 583245925
+      Baling_90: 295605243
+      Baling_91: -943706463
+      Baling_92: 1873447867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

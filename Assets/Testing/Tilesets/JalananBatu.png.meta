@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: ac461e10a7a899244870e05a31768056
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4403658786675720284
+    second: JalananBatu_0
+  - first:
+      213: -5655448606436952814
+    second: JalananBatu_1
+  - first:
+      213: 8695528470165517202
+    second: JalananBatu_2
+  - first:
+      213: -1532492256122853650
+    second: JalananBatu_3
+  - first:
+      213: 3050050064885877799
+    second: JalananBatu_4
+  - first:
+      213: 5391530621529049814
+    second: JalananBatu_5
+  - first:
+      213: -990930551567771824
+    second: JalananBatu_6
+  - first:
+      213: 7483229687747883953
+    second: JalananBatu_7
+  - first:
+      213: -3071241888873492839
+    second: JalananBatu_8
+  - first:
+      213: -8937724738106814374
+    second: JalananBatu_9
+  - first:
+      213: -3735082780886609157
+    second: JalananBatu_10
+  - first:
+      213: 5587590038176578088
+    second: JalananBatu_11
+  - first:
+      213: -8712419005110897790
+    second: JalananBatu_12
+  - first:
+      213: 6816831651631303583
+    second: JalananBatu_13
+  - first:
+      213: 9059490831425886978
+    second: JalananBatu_14
+  - first:
+      213: 1752482593503778112
+    second: JalananBatu_15
+  - first:
+      213: -8836685710921346988
+    second: JalananBatu_16
+  - first:
+      213: -7373704648464582182
+    second: JalananBatu_17
+  - first:
+      213: -3408270380499002766
+    second: JalananBatu_18
+  - first:
+      213: -4286047543205043167
+    second: JalananBatu_19
+  - first:
+      213: -1842475768107561497
+    second: JalananBatu_20
+  - first:
+      213: 2418258569725731262
+    second: JalananBatu_21
+  - first:
+      213: -2984755847131704933
+    second: JalananBatu_22
+  - first:
+      213: -2940109890892810833
+    second: JalananBatu_23
+  - first:
+      213: -7939435537238416049
+    second: JalananBatu_24
+  - first:
+      213: -9068137727330597593
+    second: JalananBatu_25
+  - first:
+      213: 8617514620584020053
+    second: JalananBatu_26
+  - first:
+      213: 6234044894924894361
+    second: JalananBatu_27
+  - first:
+      213: -1093819138113273583
+    second: JalananBatu_28
+  - first:
+      213: -3539354323432205606
+    second: JalananBatu_29
+  - first:
+      213: 4413047365511547694
+    second: JalananBatu_30
+  - first:
+      213: -4561490942054238751
+    second: JalananBatu_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JalananBatu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af7a244aaf03e2c0800000000000000
+      internalID: -4403658786675720284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f8dfc47fc381b0800000000000000
+      internalID: -5655448606436952814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293f28e9219bca870800000000000000
+      internalID: 8695528470165517202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6a2cc996e7bbae0800000000000000
+      internalID: -1532492256122853650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c0ea8cf54f35a20800000000000000
+      internalID: 3050050064885877799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da41e3e88092da40800000000000000
+      internalID: 5391530621529049814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05798bcd9e18f32f0800000000000000
+      internalID: -990930551567771824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3bedec0c5c9d760800000000000000
+      internalID: 7483229687747883953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e456236c1c065d0800000000000000
+      internalID: -3071241888873492839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a501cec64b2d6f380800000000000000
+      internalID: -8937724738106814374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2539600025a2cc0800000000000000
+      internalID: -3735082780886609157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ab600198b1b8d40800000000000000
+      internalID: 5587590038176578088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b0024315471780800000000000000
+      internalID: -8712419005110897790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b8f1125404a9e50800000000000000
+      internalID: 6816831651631303583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_14
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b5c0579e6c9bd70800000000000000
+      internalID: 9059490831425886978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_15
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04519dc32a1125810800000000000000
+      internalID: 1752482593503778112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45053c82a29cd5580800000000000000
+      internalID: -8836685710921346988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad93f9590b65ba990800000000000000
+      internalID: -7373704648464582182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a1fdf852463b0d0800000000000000
+      internalID: -3408270380499002766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124e3d8c776e484c0800000000000000
+      internalID: -4286047543205043167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed0faefc063e66e0800000000000000
+      internalID: -1842475768107561497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1eb8f4b516f8120800000000000000
+      internalID: 2418258569725731262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_22
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91d176fe540496d0800000000000000
+      internalID: -2984755847131704933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_23
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5b8b0b1a1a237d0800000000000000
+      internalID: -2940109890892810833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45aacd917571d190800000000000000
+      internalID: -7939435537238416049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725442438c0872280800000000000000
+      internalID: -9068137727330597593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55845aec3ef879770800000000000000
+      internalID: 8617514620584020053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_27
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990f5d37dc6c38650800000000000000
+      internalID: 6234044894924894361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110c380a49f1d0f0800000000000000
+      internalID: -1093819138113273583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_29
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad29491ceffa1eec0800000000000000
+      internalID: -3539354323432205606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_30
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b0a46923b4e3d30800000000000000
+      internalID: 4413047365511547694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JalananBatu_31
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f1b0f72452b0c0800000000000000
+      internalID: -4561490942054238751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      JalananBatu_0: -4403658786675720284
+      JalananBatu_1: -5655448606436952814
+      JalananBatu_10: -3735082780886609157
+      JalananBatu_11: 5587590038176578088
+      JalananBatu_12: -8712419005110897790
+      JalananBatu_13: 6816831651631303583
+      JalananBatu_14: 9059490831425886978
+      JalananBatu_15: 1752482593503778112
+      JalananBatu_16: -8836685710921346988
+      JalananBatu_17: -7373704648464582182
+      JalananBatu_18: -3408270380499002766
+      JalananBatu_19: -4286047543205043167
+      JalananBatu_2: 8695528470165517202
+      JalananBatu_20: -1842475768107561497
+      JalananBatu_21: 2418258569725731262
+      JalananBatu_22: -2984755847131704933
+      JalananBatu_23: -2940109890892810833
+      JalananBatu_24: -7939435537238416049
+      JalananBatu_25: -9068137727330597593
+      JalananBatu_26: 8617514620584020053
+      JalananBatu_27: 6234044894924894361
+      JalananBatu_28: -1093819138113273583
+      JalananBatu_29: -3539354323432205606
+      JalananBatu_3: -1532492256122853650
+      JalananBatu_30: 4413047365511547694
+      JalananBatu_31: -4561490942054238751
+      JalananBatu_4: 3050050064885877799
+      JalananBatu_5: 5391530621529049814
+      JalananBatu_6: -990930551567771824
+      JalananBatu_7: 7483229687747883953
+      JalananBatu_8: -3071241888873492839
+      JalananBatu_9: -8937724738106814374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1763 @@
+fileFormatVersion: 2
+guid: 8ef4fd7d36f50614788108638db03bc1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kala_prep_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d187481980ea304ebef85a3ee119d77
+      internalID: -1808414007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dc927ea9488bc4096b3f832610d366
+      internalID: -664880401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_2
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51c850aca5527343acc60e3d848f856
+      internalID: -804503673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_3
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84663cd358e310044b4c3b7622b4608a
+      internalID: 450274043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_4
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fc11ea1338c844a85c80db67fb20ad
+      internalID: -511949318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410e07bfcb3487945b4a2fd5b31fe129
+      internalID: 216656306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b9013f0c1c1084381bd3153e05ba82
+      internalID: 1749636242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb420b30581b0478dd45ffeea8d5e1
+      internalID: 539375537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_8
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d0843e13e3dc449e63b0f23fb658d
+      internalID: 661706727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_9
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d328414edd0774d9b4604ac43df319
+      internalID: -375739827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e1b3d4fc0bf354babf2f8517a8c1fe
+      internalID: 1060358556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a9644ff15d9874e924dc42b2d2f3c8
+      internalID: 397620401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_12
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5a3e8ddb8dc334ba44cada36cf42a1
+      internalID: -82193194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_13
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d930eeae486b4c47894f9e0cd77102e
+      internalID: 1542099115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_14
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05541313ae840a4ab573b2599542a1d
+      internalID: 1313766966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058490a518de299499385ae799a6e960
+      internalID: -1789989395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_16
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c757c0317e5c4054faeaf13f9019f7a2
+      internalID: 1279442057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_17
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6b31e5959cdb047aab3155b938db2d
+      internalID: 1353718574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_18
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3043b5fc38cc42141afda088331ffb53
+      internalID: 351914050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_19
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4a8dbeab4e7e94c928ccc3815499bf
+      internalID: 1384045751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8090ef6176c55f49955ada2cd05276d
+      internalID: 2083584433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_21
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28179bc8e6ec1d46bce21184f266d30
+      internalID: 1989224637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_22
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75532ccfd8dd31045b60cb2c70c0c036
+      internalID: -1047383464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_23
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5e0e9be8c0e404487bbd2062688e1f
+      internalID: -1139856974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_24
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c20adcaabef63468c353ae05e4b8b1
+      internalID: -386628477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a5d2224625d641865850658fe23d9
+      internalID: 683787748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_26
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f42bf2d9b1f24e468d1bd6190fc5a33
+      internalID: 1413787376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_27
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e3ab8114e291744b19ef0af3077478
+      internalID: 876977769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_28
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d249f99ed32f489843b49ee6463d2
+      internalID: -1003269759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_29
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174d6d977f90aed4ba25d7680d17df95
+      internalID: 76988293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba496a261af3ce84bb91d848a021023a
+      internalID: -816226397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_31
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783747b75a4afa743a426cb49d0f047f
+      internalID: 1408010456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_32
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f2f98e3b3eeda4d8732147f1ed30b5
+      internalID: 1034257596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_33
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a707c8ae284e2084d9463adb8ecc680e
+      internalID: 1671781089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_34
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd206590e6f83945aee42fc95ebcfdc
+      internalID: -1056230003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d225ae47f0b5f204ab39357862131748
+      internalID: 438286850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_36
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4169025d89a55614e9ba32a193984dc3
+      internalID: 1692238579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_37
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5969ac1545b309498b561a5e019a808
+      internalID: -1696804465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_38
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99082a158154e6444b9741638a9d2d6f
+      internalID: -1692656127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_39
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33568ba5422dfd47adcd69698162b9d
+      internalID: 987354712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376f41781847de34494f27160d2d6e22
+      internalID: -1912532206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_41
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2e28f43c9a82f45acf959d1dd4e01f
+      internalID: -1572291072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_42
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a191d1f3114642a1610ceb5186bac
+      internalID: -546023720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_43
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60dd03dcd86bd542abf8be7e465db3c
+      internalID: 1107611002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_44
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2c8ecb3eb71d545a17a34a7b79d5b6
+      internalID: -304903453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da32cb8d0dee1a841a64c119479e5487
+      internalID: -768259872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_46
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca063dc4040c44e40b7c7c9f8be40bc5
+      internalID: -1920619020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_47
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a65fcf8c2e3a784da9116ce936d7178
+      internalID: 1815534353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_48
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf146d71bb19094581e8094cefced45
+      internalID: 2057439261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_49
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f24a41e2a9e164dbc55ab463a20161
+      internalID: 1622397154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e1978f2e93c4b49a0a12582455c84b
+      internalID: 2036149262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_51
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5d191dba290644a8b3ac552aa7e05b
+      internalID: -436577450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_52
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b4f2f60645c5c4fafa023abc8fed2c
+      internalID: -1354885933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_53
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1744f868c08d096448f2cdfbcb71f146
+      internalID: 1447398169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_54
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbdbbe4293220148bf0d73f19b22cdb
+      internalID: 1649542357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6120d3f93272f314a86b74a363506a6c
+      internalID: 1068738881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_56
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42568c5523c8ec4d94be22aa0257e9d
+      internalID: -338144825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_57
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5974fc3c7e18514fa9efe7d63dd0260
+      internalID: 594413189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_58
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c46969d1cbba174eae1d6c71cb42c77
+      internalID: 586973187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_59
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d73852faf464043bd8030ba735f16b
+      internalID: 1268794164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869f3b32a782ae04b9c7075ad2d550a3
+      internalID: 34435184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_61
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5776725e38ecba3409f7dbd21bceccef
+      internalID: 280404131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_62
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742cf808ff02d984888b8ab1edf24b1d
+      internalID: -512383054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_63
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a374acad6dbe7d34390be951fead6d6b
+      internalID: -193561868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_64
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe0268da50288b468263ffa295ed677
+      internalID: 1655617040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb22af7d3542a4885f3d3c54756590
+      internalID: -943581456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_66
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8532bfd8822644bb8b42624dfec505
+      internalID: 344033587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_67
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f888d8fb974be44ae1fa98cfdc52f2
+      internalID: -1128313108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_68
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995015ff778cf41498526ad441cd7692
+      internalID: 890771123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_69
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed14eb3aec17ee64bb5035acea5ad1f7
+      internalID: 921588249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f1816c6f16e241a03f86c5d7af840
+      internalID: 1642224237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_prep_71
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713dc1d20aaca8c458ad4ac078f99ef3
+      internalID: -647279995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kala_prep_0: -1808414007
+      Kala_prep_1: -664880401
+      Kala_prep_10: 1060358556
+      Kala_prep_11: 397620401
+      Kala_prep_12: -82193194
+      Kala_prep_13: 1542099115
+      Kala_prep_14: 1313766966
+      Kala_prep_15: -1789989395
+      Kala_prep_16: 1279442057
+      Kala_prep_17: 1353718574
+      Kala_prep_18: 351914050
+      Kala_prep_19: 1384045751
+      Kala_prep_2: -804503673
+      Kala_prep_20: 2083584433
+      Kala_prep_21: 1989224637
+      Kala_prep_22: -1047383464
+      Kala_prep_23: -1139856974
+      Kala_prep_24: -386628477
+      Kala_prep_25: 683787748
+      Kala_prep_26: 1413787376
+      Kala_prep_27: 876977769
+      Kala_prep_28: -1003269759
+      Kala_prep_29: 76988293
+      Kala_prep_3: 450274043
+      Kala_prep_30: -816226397
+      Kala_prep_31: 1408010456
+      Kala_prep_32: 1034257596
+      Kala_prep_33: 1671781089
+      Kala_prep_34: -1056230003
+      Kala_prep_35: 438286850
+      Kala_prep_36: 1692238579
+      Kala_prep_37: -1696804465
+      Kala_prep_38: -1692656127
+      Kala_prep_39: 987354712
+      Kala_prep_4: -511949318
+      Kala_prep_40: -1912532206
+      Kala_prep_41: -1572291072
+      Kala_prep_42: -546023720
+      Kala_prep_43: 1107611002
+      Kala_prep_44: -304903453
+      Kala_prep_45: -768259872
+      Kala_prep_46: -1920619020
+      Kala_prep_47: 1815534353
+      Kala_prep_48: 2057439261
+      Kala_prep_49: 1622397154
+      Kala_prep_5: 216656306
+      Kala_prep_50: 2036149262
+      Kala_prep_51: -436577450
+      Kala_prep_52: -1354885933
+      Kala_prep_53: 1447398169
+      Kala_prep_54: 1649542357
+      Kala_prep_55: 1068738881
+      Kala_prep_56: -338144825
+      Kala_prep_57: 594413189
+      Kala_prep_58: 586973187
+      Kala_prep_59: 1268794164
+      Kala_prep_6: 1749636242
+      Kala_prep_60: 34435184
+      Kala_prep_61: 280404131
+      Kala_prep_62: -512383054
+      Kala_prep_63: -193561868
+      Kala_prep_64: 1655617040
+      Kala_prep_65: -943581456
+      Kala_prep_66: 344033587
+      Kala_prep_67: -1128313108
+      Kala_prep_68: 890771123
+      Kala_prep_69: 921588249
+      Kala_prep_7: 539375537
+      Kala_prep_70: 1642224237
+      Kala_prep_71: -647279995
+      Kala_prep_8: 661706727
+      Kala_prep_9: -375739827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

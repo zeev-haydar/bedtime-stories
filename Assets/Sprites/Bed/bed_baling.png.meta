@@ -1,0 +1,2186 @@
+fileFormatVersion: 2
+guid: 6a59327e6f836e14493b84be492cac16
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bed_baling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6250.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f88ab14203184d83d09a0e2ce11c7
+      internalID: -1229421926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6250.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d6c0831862dce498af73ed8e510bc3
+      internalID: -785627885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6250.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19566e9ca64ffb74989bdaa17c6f790e
+      internalID: 311058845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_3
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6250.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79d9cec00ff53e46988ed38e31592b7
+      internalID: 1869994995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_4
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6250.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd7e82adb6c06643b66b675d76a25ca
+      internalID: -1775995558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_5
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 6250.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2c0b2624ce31e4c93fba36f57f586f
+      internalID: -1795743368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_6
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 6250.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b21726407639f488c3f26e02429112
+      internalID: -994544301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_7
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 6250.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7070f0ab4a39e754287767005d03f718
+      internalID: -871477016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_8
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 6250.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23cc7e241df6004b818a726a01d4bb2
+      internalID: -458778898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_9
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 6250.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9ae9f2509f05742ba15635ebfcaf8e
+      internalID: -1996664999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5556.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1044f241a6669da4e93920399a46ccc9
+      internalID: 2140049736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5556.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4829074cded3b2a49bb5b1db45a6fdcd
+      internalID: -181889064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5556.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1e1c310d87f88438fbcff1126f4dec
+      internalID: -1035975294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_13
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5556.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b42c6e498fd004984f82ce50d66ca7
+      internalID: 126115339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5556.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f005e11033de48744b66af213e9ae9a6
+      internalID: -910961961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_15
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5556.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc6e432afb33cc448df425397aa9ac2
+      internalID: -869691485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_16
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 5556.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f649cdab1e989438a989b81cfb8a51
+      internalID: -1366087722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_17
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 5556.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94522ee0947a994c9a211a77c1cae95
+      internalID: 850132055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_18
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 5556.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190cdf136dfb26941a4bda80c2e30393
+      internalID: 1625318394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_19
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 5556.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893d4839d30d6314c8d56a4b9147bada
+      internalID: -2089596176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4862.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d98694afd7bca4fa1adb3d667c76ea
+      internalID: 662021155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4862.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae1a4da10d855246919711d7a111a2b
+      internalID: -143535227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4862.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d05d3747c99ab4baaad6da41981cc1
+      internalID: 1572487627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_23
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4862.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af37e26493bba1489f6e6be65e936f7
+      internalID: -966863968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_24
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4862.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ee20959377c743ae0fec3847088cf
+      internalID: 251806353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_25
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 4862.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2304226be8ee4dbaea1203a4cc37d
+      internalID: 1762519969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_26
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4862.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0842795aa50f784fa4c4ef7c3fe0afe
+      internalID: 779621578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_27
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 4862.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468a1d16d9dd11e409190cadbb4818b2
+      internalID: -1892641126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_28
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 4862.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970bc8e7ad7e83646a86d411b14f4a4f
+      internalID: 761028554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_29
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 4862.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea0d7362a8ddd1479e154d4afe48210
+      internalID: 1705132909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4168.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13126a3d5b80d2438a1739d19eb71d5
+      internalID: -283456521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4168.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92aca9f70ee959409866cbdb9f7f565
+      internalID: 148497622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_32
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4168.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402f10ea455717e4892822b3b1999b72
+      internalID: 1427692547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_33
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4168.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1482a52e9428a4fbd6ab690103a289
+      internalID: 1948697562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_34
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4168.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ed5e9fefcbff342a6dbee7aa5e1847
+      internalID: 1350663984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_35
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 4168.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d3bc9a573b9164b824d22f4e329c33
+      internalID: -1027622666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_36
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4168.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2478139d075a54e8be724796e687e4
+      internalID: -623084598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_37
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 4168.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b69069309cd874baed9c0b0b4e4785
+      internalID: -530749321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_38
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 4168.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e4af85b473f3b49ab636742f59c7ad
+      internalID: -1479282482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_39
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 4168.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a517531459a18c45bfb4afdeb754653
+      internalID: 1879387683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3474.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2cd2616638f9f40a03bc6f63b866ef
+      internalID: 486336866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_41
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3474.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc9b017e6cfcb48b5a2fc39c19af6b
+      internalID: 1233584610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_42
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3474.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea58fd686a74773489d366595ea2e99d
+      internalID: -859440147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_43
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3474.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26df8a63f6918b24abc2afb8bd87b5b7
+      internalID: -2448908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_44
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3474.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7cedfe4d32930409e7120610977588
+      internalID: 1396515180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_45
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3474.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb9a8a8e3c25e54daab27a885217d2a
+      internalID: -1019390355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_46
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3474.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e53726ede5c30438913e6e17f68a56
+      internalID: -1359175567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_47
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 3474.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9d0b3e8ed564347acff9b74f199e4f
+      internalID: -1407977646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_48
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 3474.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b80981cd9371f4091c3313a1c6560a
+      internalID: -816444610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_49
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 3474.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f919b5a3142f7654696aca7a721adc22
+      internalID: -419594197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2780.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a028403866a6ca340bfc2d37c67ae5d5
+      internalID: -1261455944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2780.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22806e8efedcc4c938c6142d9b0aea
+      internalID: 1017545882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_52
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2780.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c0656228f6fa4dac526e5089626c2
+      internalID: -1102674166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_53
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2780.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a9e969fa67d6b49a7d34b8265c9649
+      internalID: -1871548206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2780.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f399d9db5195c4bb904f130136df30
+      internalID: -1482178899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_55
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2780.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9c557f5bf6a614abcfa5daf671d003
+      internalID: 202423079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_56
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 2780.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db378c2c8d59b7544a86564a09bad6c3
+      internalID: 912366277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_57
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 2780.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db80789791735848bc6b0e89fd764ed
+      internalID: 1682085844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_58
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 2780.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa4a1bfa88f75d4693abe61611cb08f
+      internalID: -935646452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_59
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 2780.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b260aea624a904dac05d4d0fa32ce4
+      internalID: -1121534339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2086.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abde243c6de66f41a66f1e15572afa6
+      internalID: 717545569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_61
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2086.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3689a467ce03242af64dc0c0833708
+      internalID: -1385824178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_62
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2086.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26dc1eb883731d44bc1d63f15f643d9
+      internalID: -298486245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_63
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2086.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab10df2add5c7840ad3b12651396546
+      internalID: -232111539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_64
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2086.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe34c112382da4293d8f6f7b9d4387
+      internalID: 1731738531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_65
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2086.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b758445fbde38d94089b48571b271123
+      internalID: 1244852277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_66
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 2086.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9380c4fb9735d7841a47ee32764945d9
+      internalID: -1557065842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_67
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 2086.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b31b43575913446b53445066c51052
+      internalID: -695286440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_68
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 2086.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b77f18313915ef438af18bf4b89327d
+      internalID: -1349817662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_69
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 2086.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa422b87210ad9e4fb224c584cd3d194
+      internalID: -355254713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9591016df2320a94fa0adf2ed1dab925
+      internalID: 1993047732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_71
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1392.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327e7593473e7d64f9d6f04afeff4e61
+      internalID: 1587046663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_72
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1392.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde49f2dd0f075940b6d67d522614349
+      internalID: -146942416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_73
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1392.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8465848de333fa74ba1db8a52be4627f
+      internalID: -2068501629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_74
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1392.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e3b65245ecc6643b26842dba7cdfdb
+      internalID: -471165191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_75
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1392.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4719c8bb3f50c468e388a8e5eedecd
+      internalID: -1357607676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_76
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1392.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d9ea23bed64664fb336b68e33999f9
+      internalID: 1287140396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_77
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 1392.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519fc55b2852fa642b17977953174b2e
+      internalID: 291912884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_78
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 1392.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ef0e8b8916dba44ab8d7f18b9d0b74
+      internalID: -105391981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_79
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 1392.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0a2e7b800ba2c4ebfeb3a52f9e4622
+      internalID: -1114128978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55d8f6ea50cc374abb2b7b9ed2020b1
+      internalID: -1735662265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_81
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 698.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b7a64c69f28ff43940199d1f343a30
+      internalID: 1336472055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_82
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 698.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39109765f7490e6488a9795afdec372e
+      internalID: -988107201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_83
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 698.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39a10246913af74c9c33b6066404989
+      internalID: 536135349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_84
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 698.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbb3546b5fdec04595c268232cc4e9f
+      internalID: -1056447588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_85
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 698.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd8e6a2bb1f774ba859b2b730e3f24
+      internalID: -36268754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_86
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 698.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d79fbddd86fb7c4eb18807522c71caa
+      internalID: -655669432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_87
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 698.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f08b0eefa45534ab45252d902316f3
+      internalID: -1497349113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_88
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 698.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f367996e3086744a763a636194dfe4
+      internalID: -566735269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_89
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 698.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f28eaddb465c146a52feaa45f95039
+      internalID: 835711196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe65f827e867244e9855f7109646436
+      internalID: -1497565331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_91
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb054ec9c1f1cb46baa28cb930bc258
+      internalID: -76092911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_baling_92
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4.5
+        width: 1500
+        height: 694.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98344b7322668649a981cc744d16694
+      internalID: -1854673605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bed_baling_0: -1229421926
+      bed_baling_1: -785627885
+      bed_baling_10: 2140049736
+      bed_baling_11: -181889064
+      bed_baling_12: -1035975294
+      bed_baling_13: 126115339
+      bed_baling_14: -910961961
+      bed_baling_15: -869691485
+      bed_baling_16: -1366087722
+      bed_baling_17: 850132055
+      bed_baling_18: 1625318394
+      bed_baling_19: -2089596176
+      bed_baling_2: 311058845
+      bed_baling_20: 662021155
+      bed_baling_21: -143535227
+      bed_baling_22: 1572487627
+      bed_baling_23: -966863968
+      bed_baling_24: 251806353
+      bed_baling_25: 1762519969
+      bed_baling_26: 779621578
+      bed_baling_27: -1892641126
+      bed_baling_28: 761028554
+      bed_baling_29: 1705132909
+      bed_baling_3: 1869994995
+      bed_baling_30: -283456521
+      bed_baling_31: 148497622
+      bed_baling_32: 1427692547
+      bed_baling_33: 1948697562
+      bed_baling_34: 1350663984
+      bed_baling_35: -1027622666
+      bed_baling_36: -623084598
+      bed_baling_37: -530749321
+      bed_baling_38: -1479282482
+      bed_baling_39: 1879387683
+      bed_baling_4: -1775995558
+      bed_baling_40: 486336866
+      bed_baling_41: 1233584610
+      bed_baling_42: -859440147
+      bed_baling_43: -2448908
+      bed_baling_44: 1396515180
+      bed_baling_45: -1019390355
+      bed_baling_46: -1359175567
+      bed_baling_47: -1407977646
+      bed_baling_48: -816444610
+      bed_baling_49: -419594197
+      bed_baling_5: -1795743368
+      bed_baling_50: -1261455944
+      bed_baling_51: 1017545882
+      bed_baling_52: -1102674166
+      bed_baling_53: -1871548206
+      bed_baling_54: -1482178899
+      bed_baling_55: 202423079
+      bed_baling_56: 912366277
+      bed_baling_57: 1682085844
+      bed_baling_58: -935646452
+      bed_baling_59: -1121534339
+      bed_baling_6: -994544301
+      bed_baling_60: 717545569
+      bed_baling_61: -1385824178
+      bed_baling_62: -298486245
+      bed_baling_63: -232111539
+      bed_baling_64: 1731738531
+      bed_baling_65: 1244852277
+      bed_baling_66: -1557065842
+      bed_baling_67: -695286440
+      bed_baling_68: -1349817662
+      bed_baling_69: -355254713
+      bed_baling_7: -871477016
+      bed_baling_70: 1993047732
+      bed_baling_71: 1587046663
+      bed_baling_72: -146942416
+      bed_baling_73: -2068501629
+      bed_baling_74: -471165191
+      bed_baling_75: -1357607676
+      bed_baling_76: 1287140396
+      bed_baling_77: 291912884
+      bed_baling_78: -105391981
+      bed_baling_79: -1114128978
+      bed_baling_8: -458778898
+      bed_baling_80: -1735662265
+      bed_baling_81: 1336472055
+      bed_baling_82: -988107201
+      bed_baling_83: 536135349
+      bed_baling_84: -1056447588
+      bed_baling_85: -36268754
+      bed_baling_86: -655669432
+      bed_baling_87: -1497349113
+      bed_baling_88: -566735269
+      bed_baling_89: 835711196
+      bed_baling_9: -1996664999
+      bed_baling_90: -1497565331
+      bed_baling_91: -76092911
+      bed_baling_92: -1854673605
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

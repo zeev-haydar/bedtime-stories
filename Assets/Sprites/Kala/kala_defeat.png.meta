@@ -1,0 +1,1785 @@
+fileFormatVersion: 2
+guid: 5338a32b216e9ed49a5e038539df8f40
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kala_defeat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4332480f3512b044191b2843a0afb7e1
+      internalID: 1852731608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304af5f72544da14d999cb784e1c089b
+      internalID: 1488506008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_2
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cce669ee9f05704ca277efbb081f644
+      internalID: 1064151422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_3
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10d0fd0927bd6f4fa59d454356c9f8d
+      internalID: -528217238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_4
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10c64911b1481f4e8a074dc22a79f01
+      internalID: 230721306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c90f3f96d7231b4ab915b80916041c3
+      internalID: 564265549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8762380d132b92249a9c4255dbdbc791
+      internalID: -465344335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869162975b93e984a9c34b42e7dd9ca5
+      internalID: 89895961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_8
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b149c03ef4d32468219ddb6302701d
+      internalID: 2042600984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_9
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287b73b45e04794c9f55e288dc63571
+      internalID: 1145959967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c6825bfccc51a47a86eaf64c96f4fb
+      internalID: -437265433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb27b4120c34439408859013c9bcdbb4
+      internalID: -1728258742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_12
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb3a8bd2808e334791d9114a64e899c
+      internalID: 1193021773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_13
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa291de714e8f040a0208faa3a8de2d
+      internalID: 1919208734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_14
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7eee02a3dbecb43a9d7b3b42546e23
+      internalID: -1329859309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7c0d99649d5f84e81edc573b519178
+      internalID: -396956173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_16
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaa47e29705a844c8c46afeb5ac14ac
+      internalID: -1997818714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_17
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00297740103ca8d419c8d9a6c5a0fb36
+      internalID: -1129973968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_18
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae8bf4581f1bb54c83e81bbc7bfecf7
+      internalID: 1830738537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_19
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3a5f2a359d5b241a90b0b6b324563d
+      internalID: 1512217512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd7ec8578556f345a3adc8441adb98c
+      internalID: -138478041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_21
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49218431856e57c458121efadb8c671a
+      internalID: -812573272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_22
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ab182e66c2c94ea1444d93e3b6a6e
+      internalID: -486259730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_23
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f924be42819251945b6f81aeb8b8c7b7
+      internalID: -1456877447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_24
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76255e9fb669884db13565ebe098e3f
+      internalID: -68399844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bab30344ad8d14b85b9ffec5a57b11
+      internalID: 350449884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_26
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bee17736115a514fbfec81642bf7f83
+      internalID: -1045957869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_27
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5510f6987426e8843b0ceba462600518
+      internalID: -1759049233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_28
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0836643ad76050d4da1b784fdf3f4760
+      internalID: 888167321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_29
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1859d16165dd0ae4f87f8260494a52fe
+      internalID: -1949353532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69cb24c89892c84c9d444fe7d4d0707
+      internalID: 1845362458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_31
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260d38c79f188b94786ddd18d242be41
+      internalID: -1525177971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_32
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee5497677d0dec4f80e5e3cce2a7379
+      internalID: -1494929451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_33
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da39ef526b386446b877dd6f0429a72
+      internalID: 1898928142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_34
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a105b6e64a6de804ba8074c25cbf43fb
+      internalID: -1971236204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2018731ae378f9f409f4bedc492b7eeb
+      internalID: -1876393760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_36
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d08ea79ba95bf4696248c8c1ed1e9a
+      internalID: 178574687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_37
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a33098b4cceaf343850f82b34d41e5a
+      internalID: -268809065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_38
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2b3941f7d7ba84caa34f2ce82b3cf9
+      internalID: -1777192445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_39
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591a4e4fa26eb7641b9144e8f733ec73
+      internalID: 415397897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d2c870f0228a459b7b888dc19c9c5
+      internalID: -1554669686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_41
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdbb0fb1286449429b2b294df638f6f
+      internalID: -1973173834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_42
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49037cd72b92f4541aaa900631a7faea
+      internalID: 1708202752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_43
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f6775ce0b59a4e8ece838d9c12f50
+      internalID: 1906615090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_44
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079e6f9fc4d6d704c8251fc823a0d577
+      internalID: 22390898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f747fca73e3714e80a78efe0cc1081
+      internalID: 712767600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_46
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad126b76a2e47a4cb067f81f70b48a5
+      internalID: -293833471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_47
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aa8b7d8d3d6b04ab0196be1064dacb
+      internalID: -1822204957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_48
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5c8a9318ec49849834df20d2be21e0
+      internalID: 790447895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_49
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4fc658c93f8314e83cbb6beb540538
+      internalID: -744275548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a816053941bab3248b025aa722bd1a14
+      internalID: -1055287220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_51
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fae16f72dc8ee4896af9795aec7ae9
+      internalID: 1995811344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_52
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69862aca3070ec345ba3618e5912a737
+      internalID: -1105243703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_53
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453188a24d0358c43bbb52152b428253
+      internalID: 2045470645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_54
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3d42a81ccfe964ba2857000bbb0383
+      internalID: -458179956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f96df33f9450943b4cb2222af703af
+      internalID: -20845779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_56
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce2fe1e00bc6cb47b9408927f5d1ace
+      internalID: 589884968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_57
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8d84441d018f042b269f1b26a74259
+      internalID: -1968938030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_58
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58675202947911241a8196c3485b66bd
+      internalID: -975570127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_59
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9097ffb6c0408f48b00bea63025c6e3
+      internalID: -1245101222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983259ea507c48940837551ffd10e62e
+      internalID: -1862931025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_61
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d928e707c09dc14e90f2318c80d72a2
+      internalID: 1444020713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_62
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45cf07ae4ef11e4a8ee0d3b9e522942
+      internalID: -688420215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_63
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1b5385dbb3cd4e9a5709f264a2423
+      internalID: -1749913732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_64
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3bbc900088b11439877d713a586a99
+      internalID: 2052840369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a3c34afead1ed47800b320516c05fe
+      internalID: -1671609777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_66
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d08b69d99cc874585a4b7f1216a7dc
+      internalID: -1624778448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_67
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e50e20313e998b4ca4c8504b7e6eaf0
+      internalID: -1968786909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_68
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e278ef12269878740b2f8750c6cd3294
+      internalID: 1702204520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_69
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9016af2987ba8a4c9e446f016af7be1
+      internalID: 1471681074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b153aed4cdb00554b8a3b60a20f14362
+      internalID: 1519828030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_71
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b5daa59f948914bbe39356ef7ca2c4
+      internalID: 1207851389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kala_defeat_72
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3035b2b454c79d43b0a1139d7fad564
+      internalID: -1728179563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kala_defeat_0: 1852731608
+      kala_defeat_1: 1488506008
+      kala_defeat_10: -437265433
+      kala_defeat_11: -1728258742
+      kala_defeat_12: 1193021773
+      kala_defeat_13: 1919208734
+      kala_defeat_14: -1329859309
+      kala_defeat_15: -396956173
+      kala_defeat_16: -1997818714
+      kala_defeat_17: -1129973968
+      kala_defeat_18: 1830738537
+      kala_defeat_19: 1512217512
+      kala_defeat_2: 1064151422
+      kala_defeat_20: -138478041
+      kala_defeat_21: -812573272
+      kala_defeat_22: -486259730
+      kala_defeat_23: -1456877447
+      kala_defeat_24: -68399844
+      kala_defeat_25: 350449884
+      kala_defeat_26: -1045957869
+      kala_defeat_27: -1759049233
+      kala_defeat_28: 888167321
+      kala_defeat_29: -1949353532
+      kala_defeat_3: -528217238
+      kala_defeat_30: 1845362458
+      kala_defeat_31: -1525177971
+      kala_defeat_32: -1494929451
+      kala_defeat_33: 1898928142
+      kala_defeat_34: -1971236204
+      kala_defeat_35: -1876393760
+      kala_defeat_36: 178574687
+      kala_defeat_37: -268809065
+      kala_defeat_38: -1777192445
+      kala_defeat_39: 415397897
+      kala_defeat_4: 230721306
+      kala_defeat_40: -1554669686
+      kala_defeat_41: -1973173834
+      kala_defeat_42: 1708202752
+      kala_defeat_43: 1906615090
+      kala_defeat_44: 22390898
+      kala_defeat_45: 712767600
+      kala_defeat_46: -293833471
+      kala_defeat_47: -1822204957
+      kala_defeat_48: 790447895
+      kala_defeat_49: -744275548
+      kala_defeat_5: 564265549
+      kala_defeat_50: -1055287220
+      kala_defeat_51: 1995811344
+      kala_defeat_52: -1105243703
+      kala_defeat_53: 2045470645
+      kala_defeat_54: -458179956
+      kala_defeat_55: -20845779
+      kala_defeat_56: 589884968
+      kala_defeat_57: -1968938030
+      kala_defeat_58: -975570127
+      kala_defeat_59: -1245101222
+      kala_defeat_6: -465344335
+      kala_defeat_60: -1862931025
+      kala_defeat_61: 1444020713
+      kala_defeat_62: -688420215
+      kala_defeat_63: -1749913732
+      kala_defeat_64: 2052840369
+      kala_defeat_65: -1671609777
+      kala_defeat_66: -1624778448
+      kala_defeat_67: -1968786909
+      kala_defeat_68: 1702204520
+      kala_defeat_69: 1471681074
+      kala_defeat_7: 89895961
+      kala_defeat_70: 1519828030
+      kala_defeat_71: 1207851389
+      kala_defeat_72: -1728179563
+      kala_defeat_8: 2042600984
+      kala_defeat_9: 1145959967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

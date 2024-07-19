@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: 7c2fbfbcc2955f94081d33b40f4ee135
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A_stun_kanan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166dfcdf4e299cd4bb10076ec2c3c6f5
+      internalID: -1025549734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_1
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 14000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d713d6f93d32b4c89ec20f706b8a3b
+      internalID: -1533363314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_2
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 14000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f2f1b35f651034c8efe8359abefa2f
+      internalID: 243195500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_3
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 14000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ef1de9752150b48bfe01a507837fe0
+      internalID: -1662194883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_4
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 14000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfbdc85f2d451544be2213dec2a4503
+      internalID: 2132900816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1cda1477285f848ac25b344cc10d2b
+      internalID: -378822364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 13000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a64394edbe5b84ba18f299885fa7c6
+      internalID: -1260806478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_7
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 13000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f27c2a17a66e14c899327bb75a0021
+      internalID: -1506737967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_8
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 13000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a0082517f591047ba3dbdba082eff6
+      internalID: 88161705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_9
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 13000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd660866807e9d4c8f047f8f02df40f
+      internalID: 1300546313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06864cab7be2f8c438f642d547a2f4b1
+      internalID: 1912536636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_11
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 12000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c71d45eb55f8e4c9c4565a10e3dc3d
+      internalID: -727488177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_12
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 12000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1ad05b5647f541bce083b2b30c0ba
+      internalID: 77349642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_13
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 12000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d7ea22779d0f54a8c2b1dc57fa402f
+      internalID: 1112030592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_14
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 12000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5540a34cd847b742beff4b8176359ff
+      internalID: 1788360582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a227fac39ea340aa9b385998e38a1
+      internalID: -878471588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 11000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9782cf6e7ef4948a6f1ac0ee92c668
+      internalID: 1877867203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_17
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 11000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b0c290a9cb7b478a95a96103f35d9
+      internalID: 387676860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_18
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 11000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d89c3570b8fcf4a83034e5b538206b
+      internalID: 2049410249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_19
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 11000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289f23a455b175b4690ab27af845aefe
+      internalID: -1740372578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d654ab35312ffed4e822c84476960d0e
+      internalID: -385841589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_21
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 10000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c9e43f5d5d274892220b8ecf3f616
+      internalID: -1476474386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_22
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 10000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09190ac379e684c40ad8d506eeabbf9d
+      internalID: 261400721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_23
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 10000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915ff7af59eebec44a35177a3c0571eb
+      internalID: 2122592743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_24
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 10000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5480a7ef0f0842897ffba15a8d101
+      internalID: 611699404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556b0f2d4e656d1488e995837bb62f23
+      internalID: 1842761298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_26
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 9000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50faae5fd7255ff4682d675255028fa3
+      internalID: 979403991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_27
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 9000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fce651f3371d5748bd7b16bff5cacec
+      internalID: -205245982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_28
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 9000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f95be4c4ff9c43888376d1d48e2e8
+      internalID: 246883223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_29
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 9000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8210de0fb11f545bf8f7461032dd1d
+      internalID: -1241048274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dd01abb2bc1cc4faf137cb48d46862
+      internalID: 2001709993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_31
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 8000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc883bafd0a90c469bdca20d6133bd5
+      internalID: -130342055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_32
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 8000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f203dbd97e11e428380d30b94f8264
+      internalID: 850252197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_33
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 8000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1462758f29b108042b0653c61eacb6c8
+      internalID: -812896756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_34
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 8000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df28e6ee71f045a499f9985593c8dccd
+      internalID: 1945337370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7276863207ca64c94f86151cfb0dc0
+      internalID: -1416403351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_36
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 7000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a91df600715a94788c7690609c7454
+      internalID: 1666912383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_37
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 7000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe19538a18c94342a077b21584b44b7
+      internalID: -1035799996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_38
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 7000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca1d7959532fa445ad22716e4f0c5fc
+      internalID: -1038647393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_39
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 7000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abfa4be37608514ca4eea3a0d0c3722
+      internalID: 829496615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e112039cdf40a41a99eaf20644e350
+      internalID: -287177490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_41
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 6000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d317b25a7ac63b48a25a886b78fc78a
+      internalID: -840545888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_42
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 6000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb31e4443d02e5a4788cbeaa617f0508
+      internalID: -2114468142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_43
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 6000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee800ee38a380dd4385aa0c6828d7a27
+      internalID: -365434295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_44
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 6000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07de4840f917734ca5e695806612a2e
+      internalID: 1728716528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4869d12982dedc84caac52f11049feee
+      internalID: 1775215937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_46
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 5000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e828aa6ba7dc78643b7ba019c65c168c
+      internalID: 1978652239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_47
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 5000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36222004b7bcf8f498c7b3d8d9cdf1d8
+      internalID: -1256515172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_48
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 5000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1463c8f01d656a448acebb28b2fabcd3
+      internalID: -214066721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_49
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 5000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788fe53675709e24ebe566017789b1f7
+      internalID: 2066754253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862fad9e78757514fa16a9e28d0c8310
+      internalID: -201128348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_51
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 4000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081c5036d79dcdb44ae57e9428407425
+      internalID: -114292517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_52
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 4000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb21de61b59555438e64b6c64acbd4b
+      internalID: 179099477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_53
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 4000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d8e7af59812042ad78881169cf83e
+      internalID: 568872100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_54
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 4000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c5939dd9c00b74c979903a83c1509d
+      internalID: 207556563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374f1b64c173c7941a5961f9d49a65ca
+      internalID: 693746779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_56
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 3000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacb3c06d6313514da153dc7dc63bab5
+      internalID: -555294147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_57
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 3000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560db1531c578a04d89fef2eccdbe559
+      internalID: 1140929733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_58
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 3000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7b2b5fbdfe6b46bb234e33ac49df3
+      internalID: 785567439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_59
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 3000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05088249fdb7c094081bc38c7c1e8b04
+      internalID: -2094107168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fb03d0c361c3d45b8e73fff358bc27
+      internalID: -1211339908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_61
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86417ee3815934d419a7e8bdc565ca99
+      internalID: -1302712239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_62
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9801c228276eea2469dd115a1d5af2f4
+      internalID: -1821574728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_63
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 2000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb2dff55ab589e46bff1910374a9086
+      internalID: 1511196822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_64
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 2000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22182c0b2516eaa45a8db1fe27cc164b
+      internalID: -2139115397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1c91af732a7424e9cee43121415dc8
+      internalID: 246755986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_66
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287fae384615cc44b206b83ffad19f2
+      internalID: 444122940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_67
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4339321a99b474bb27c06167e0b0a5
+      internalID: 1765545443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_68
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc458bd966b11449eccadbc3a81b28
+      internalID: -1628124279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_69
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 1000
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d654c8386fdfc254080158567bdd7c34
+      internalID: 854489952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a10ed61fb5c7204884fd9f08549a126
+      internalID: -849766738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_stun_kanan_71
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 815
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c0d17a3120d6047b0f0978b25e3926
+      internalID: 27617695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      A_stun_kanan_0: -1025549734
+      A_stun_kanan_1: -1533363314
+      A_stun_kanan_10: 1912536636
+      A_stun_kanan_11: -727488177
+      A_stun_kanan_12: 77349642
+      A_stun_kanan_13: 1112030592
+      A_stun_kanan_14: 1788360582
+      A_stun_kanan_15: -878471588
+      A_stun_kanan_16: 1877867203
+      A_stun_kanan_17: 387676860
+      A_stun_kanan_18: 2049410249
+      A_stun_kanan_19: -1740372578
+      A_stun_kanan_2: 243195500
+      A_stun_kanan_20: -385841589
+      A_stun_kanan_21: -1476474386
+      A_stun_kanan_22: 261400721
+      A_stun_kanan_23: 2122592743
+      A_stun_kanan_24: 611699404
+      A_stun_kanan_25: 1842761298
+      A_stun_kanan_26: 979403991
+      A_stun_kanan_27: -205245982
+      A_stun_kanan_28: 246883223
+      A_stun_kanan_29: -1241048274
+      A_stun_kanan_3: -1662194883
+      A_stun_kanan_30: 2001709993
+      A_stun_kanan_31: -130342055
+      A_stun_kanan_32: 850252197
+      A_stun_kanan_33: -812896756
+      A_stun_kanan_34: 1945337370
+      A_stun_kanan_35: -1416403351
+      A_stun_kanan_36: 1666912383
+      A_stun_kanan_37: -1035799996
+      A_stun_kanan_38: -1038647393
+      A_stun_kanan_39: 829496615
+      A_stun_kanan_4: 2132900816
+      A_stun_kanan_40: -287177490
+      A_stun_kanan_41: -840545888
+      A_stun_kanan_42: -2114468142
+      A_stun_kanan_43: -365434295
+      A_stun_kanan_44: 1728716528
+      A_stun_kanan_45: 1775215937
+      A_stun_kanan_46: 1978652239
+      A_stun_kanan_47: -1256515172
+      A_stun_kanan_48: -214066721
+      A_stun_kanan_49: 2066754253
+      A_stun_kanan_5: -378822364
+      A_stun_kanan_50: -201128348
+      A_stun_kanan_51: -114292517
+      A_stun_kanan_52: 179099477
+      A_stun_kanan_53: 568872100
+      A_stun_kanan_54: 207556563
+      A_stun_kanan_55: 693746779
+      A_stun_kanan_56: -555294147
+      A_stun_kanan_57: 1140929733
+      A_stun_kanan_58: 785567439
+      A_stun_kanan_59: -2094107168
+      A_stun_kanan_6: -1260806478
+      A_stun_kanan_60: -1211339908
+      A_stun_kanan_61: -1302712239
+      A_stun_kanan_62: -1821574728
+      A_stun_kanan_63: 1511196822
+      A_stun_kanan_64: -2139115397
+      A_stun_kanan_65: 246755986
+      A_stun_kanan_66: 444122940
+      A_stun_kanan_67: 1765545443
+      A_stun_kanan_68: -1628124279
+      A_stun_kanan_69: 854489952
+      A_stun_kanan_7: -1506737967
+      A_stun_kanan_70: -849766738
+      A_stun_kanan_71: 27617695
+      A_stun_kanan_8: 88161705
+      A_stun_kanan_9: 1300546313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

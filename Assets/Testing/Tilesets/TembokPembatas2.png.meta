@@ -1,0 +1,3054 @@
+fileFormatVersion: 2
+guid: 13417d6e10c365147a75c74e56ddd44f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8070145806846191535
+    second: TembokPembatas2_0
+  - first:
+      213: 755162403394270561
+    second: TembokPembatas2_1
+  - first:
+      213: -3266627952234041908
+    second: TembokPembatas2_2
+  - first:
+      213: 4211372603455928591
+    second: TembokPembatas2_3
+  - first:
+      213: 7892409192642138532
+    second: TembokPembatas2_4
+  - first:
+      213: -1477886702450437332
+    second: TembokPembatas2_5
+  - first:
+      213: 8101448526531139311
+    second: TembokPembatas2_6
+  - first:
+      213: 1405796497744966234
+    second: TembokPembatas2_7
+  - first:
+      213: 5303502448716779789
+    second: TembokPembatas2_8
+  - first:
+      213: 8383886063827772529
+    second: TembokPembatas2_9
+  - first:
+      213: -5448934046055442156
+    second: TembokPembatas2_10
+  - first:
+      213: -8578064189528507708
+    second: TembokPembatas2_11
+  - first:
+      213: -4048791646473502769
+    second: TembokPembatas2_12
+  - first:
+      213: -3763514016789273718
+    second: TembokPembatas2_13
+  - first:
+      213: -2465441768552504446
+    second: TembokPembatas2_14
+  - first:
+      213: 1480413142322006503
+    second: TembokPembatas2_15
+  - first:
+      213: -2230610296551671540
+    second: TembokPembatas2_16
+  - first:
+      213: 3599714567200692995
+    second: TembokPembatas2_17
+  - first:
+      213: 3175029168007981348
+    second: TembokPembatas2_18
+  - first:
+      213: -3813725838735696550
+    second: TembokPembatas2_19
+  - first:
+      213: 178097214764284924
+    second: TembokPembatas2_20
+  - first:
+      213: 4269872750305130838
+    second: TembokPembatas2_21
+  - first:
+      213: 6936545106101378303
+    second: TembokPembatas2_22
+  - first:
+      213: -4236225011149832498
+    second: TembokPembatas2_23
+  - first:
+      213: 138819230839703077
+    second: TembokPembatas2_24
+  - first:
+      213: 204978104341625718
+    second: TembokPembatas2_25
+  - first:
+      213: -8003256513536840456
+    second: TembokPembatas2_26
+  - first:
+      213: 8776121456830600056
+    second: TembokPembatas2_27
+  - first:
+      213: 4798099204483084395
+    second: TembokPembatas2_28
+  - first:
+      213: -4554554900894030612
+    second: TembokPembatas2_29
+  - first:
+      213: -4470892968293099854
+    second: TembokPembatas2_30
+  - first:
+      213: -7638040820308227823
+    second: TembokPembatas2_31
+  - first:
+      213: 2416561891224606682
+    second: TembokPembatas2_32
+  - first:
+      213: -7416376909423740349
+    second: TembokPembatas2_33
+  - first:
+      213: 626409462286930813
+    second: TembokPembatas2_34
+  - first:
+      213: -4597662335589003841
+    second: TembokPembatas2_35
+  - first:
+      213: 7784242914609499963
+    second: TembokPembatas2_36
+  - first:
+      213: 7637018697628779623
+    second: TembokPembatas2_37
+  - first:
+      213: -3949417941697422652
+    second: TembokPembatas2_38
+  - first:
+      213: 8694157408386456744
+    second: TembokPembatas2_39
+  - first:
+      213: -4450093978187993225
+    second: TembokPembatas2_40
+  - first:
+      213: 4671175561878839658
+    second: TembokPembatas2_41
+  - first:
+      213: -7185492530576447503
+    second: TembokPembatas2_42
+  - first:
+      213: 5455527347073936758
+    second: TembokPembatas2_43
+  - first:
+      213: -5033115375283758837
+    second: TembokPembatas2_44
+  - first:
+      213: 8308249426438594186
+    second: TembokPembatas2_45
+  - first:
+      213: 2330043368985821937
+    second: TembokPembatas2_46
+  - first:
+      213: 7597898388078531181
+    second: TembokPembatas2_47
+  - first:
+      213: 8091060677390655010
+    second: TembokPembatas2_48
+  - first:
+      213: -3349051436968204296
+    second: TembokPembatas2_49
+  - first:
+      213: 8730481485067898779
+    second: TembokPembatas2_50
+  - first:
+      213: 1123310026538691778
+    second: TembokPembatas2_51
+  - first:
+      213: -6586350477817846905
+    second: TembokPembatas2_52
+  - first:
+      213: -5441311611958754375
+    second: TembokPembatas2_53
+  - first:
+      213: -1413634951239084357
+    second: TembokPembatas2_54
+  - first:
+      213: 8403589518702280872
+    second: TembokPembatas2_55
+  - first:
+      213: 4709427723760616327
+    second: TembokPembatas2_56
+  - first:
+      213: 7317452298562732800
+    second: TembokPembatas2_57
+  - first:
+      213: -421506105516072765
+    second: TembokPembatas2_58
+  - first:
+      213: -891106074475887606
+    second: TembokPembatas2_59
+  - first:
+      213: 7168277698372929349
+    second: TembokPembatas2_60
+  - first:
+      213: 6745660434826251385
+    second: TembokPembatas2_61
+  - first:
+      213: 3588099845589122151
+    second: TembokPembatas2_62
+  - first:
+      213: -8241937191819973084
+    second: TembokPembatas2_63
+  - first:
+      213: 6331891764693974471
+    second: TembokPembatas2_64
+  - first:
+      213: 1653532688646569325
+    second: TembokPembatas2_65
+  - first:
+      213: 5992427664365812752
+    second: TembokPembatas2_66
+  - first:
+      213: 266033936209659501
+    second: TembokPembatas2_67
+  - first:
+      213: 5996571900731799396
+    second: TembokPembatas2_68
+  - first:
+      213: -9157062413331266274
+    second: TembokPembatas2_69
+  - first:
+      213: -6407376610971115820
+    second: TembokPembatas2_70
+  - first:
+      213: 5325459472655900397
+    second: TembokPembatas2_71
+  - first:
+      213: 1661335315889705429
+    second: TembokPembatas2_72
+  - first:
+      213: 1180194662091947656
+    second: TembokPembatas2_73
+  - first:
+      213: -901769691592754869
+    second: TembokPembatas2_74
+  - first:
+      213: 4101281087376627145
+    second: TembokPembatas2_75
+  - first:
+      213: -2264508623652861574
+    second: TembokPembatas2_76
+  - first:
+      213: 7879920741410445828
+    second: TembokPembatas2_77
+  - first:
+      213: -367966624796784039
+    second: TembokPembatas2_78
+  - first:
+      213: -6363011416065494444
+    second: TembokPembatas2_79
+  - first:
+      213: -1847345531783194666
+    second: TembokPembatas2_80
+  - first:
+      213: 3894006446507541704
+    second: TembokPembatas2_81
+  - first:
+      213: 1301951923767566949
+    second: TembokPembatas2_82
+  - first:
+      213: 6259060637119300329
+    second: TembokPembatas2_83
+  - first:
+      213: -5357319066135039088
+    second: TembokPembatas2_84
+  - first:
+      213: 1650513748614363495
+    second: TembokPembatas2_85
+  - first:
+      213: 8280187213114006838
+    second: TembokPembatas2_86
+  - first:
+      213: 5293477855812089623
+    second: TembokPembatas2_87
+  - first:
+      213: 5093133076406934667
+    second: TembokPembatas2_88
+  - first:
+      213: -8823399458323428944
+    second: TembokPembatas2_89
+  - first:
+      213: 9012566370805860280
+    second: TembokPembatas2_90
+  - first:
+      213: -6602519675521027757
+    second: TembokPembatas2_91
+  - first:
+      213: 366582590109596979
+    second: TembokPembatas2_92
+  - first:
+      213: 2255099559591027694
+    second: TembokPembatas2_93
+  - first:
+      213: -3663344594528073817
+    second: TembokPembatas2_94
+  - first:
+      213: 6884925686836061084
+    second: TembokPembatas2_95
+  - first:
+      213: -8815079240392809005
+    second: TembokPembatas2_96
+  - first:
+      213: 6557222016474927790
+    second: TembokPembatas2_97
+  - first:
+      213: 2649688421163727862
+    second: TembokPembatas2_98
+  - first:
+      213: -950687347971281962
+    second: TembokPembatas2_99
+  - first:
+      213: 3999169948041020741
+    second: TembokPembatas2_100
+  - first:
+      213: 2652929651936013619
+    second: TembokPembatas2_101
+  - first:
+      213: -6365187308652803541
+    second: TembokPembatas2_102
+  - first:
+      213: -5257103764770585214
+    second: TembokPembatas2_103
+  - first:
+      213: 7524903916642338292
+    second: TembokPembatas2_104
+  - first:
+      213: -5432410421162481223
+    second: TembokPembatas2_105
+  - first:
+      213: 4949216636554178495
+    second: TembokPembatas2_106
+  - first:
+      213: 8369651985571670678
+    second: TembokPembatas2_107
+  - first:
+      213: -1081557312617524392
+    second: TembokPembatas2_108
+  - first:
+      213: -3009205983402973698
+    second: TembokPembatas2_109
+  - first:
+      213: -3635539374820523115
+    second: TembokPembatas2_110
+  - first:
+      213: -8854424445518285993
+    second: TembokPembatas2_111
+  - first:
+      213: 7360692576227275799
+    second: TembokPembatas2_112
+  - first:
+      213: 4374642021814756153
+    second: TembokPembatas2_113
+  - first:
+      213: 8197920949497784170
+    second: TembokPembatas2_114
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TembokPembatas2_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7eca69adaeeff60800000000000000
+      internalID: 8070145806846191535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165bb027430ea7a00800000000000000
+      internalID: 755162403394270561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd6abd4f2b9aa2d0800000000000000
+      internalID: -3266627952234041908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097dcde11dc17a30800000000000000
+      internalID: 4211372603455928591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_4
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1567d4858778d60800000000000000
+      internalID: 7892409192642138532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_5
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c231b22dfdd7d7be0800000000000000
+      internalID: -1477886702450437332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe61006f2802e6070800000000000000
+      internalID: 8101448526531139311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_7
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52b39a6774628310800000000000000
+      internalID: 1405796497744966234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d019d21c063d99940800000000000000
+      internalID: 5303502448716779789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_9
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1746dcf84fb895470800000000000000
+      internalID: 8383886063827772529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_10
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4195554da5f7164b0800000000000000
+      internalID: -5448934046055442156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_11
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca77a2711894f880800000000000000
+      internalID: -8578064189528507708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_12
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfb06ee27dcfc7c0800000000000000
+      internalID: -4048791646473502769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83621211ff45cbc0800000000000000
+      internalID: -3763514016789273718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283640326cdf8cdd0800000000000000
+      internalID: -2465441768552504446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e94cecc8eb7b8410800000000000000
+      internalID: 1480413142322006503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0975b9e0c74b01e0800000000000000
+      internalID: -2230610296551671540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bdbc6a351c4f130800000000000000
+      internalID: 3599714567200692995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_18
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429ae9ec438ff0c20800000000000000
+      internalID: 3175029168007981348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d1e6f3e8ce21bc0800000000000000
+      internalID: -3813725838735696550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_20
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbf285297ab87200800000000000000
+      internalID: 178097214764284924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_21
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659be06c4a2a14b30800000000000000
+      internalID: 4269872750305130838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_22
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc95a9c50f834060800000000000000
+      internalID: 6936545106101378303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_23
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecef9cdfbc7e535c0800000000000000
+      internalID: -4236225011149832498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_24
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526813eda5f2de100800000000000000
+      internalID: 138819230839703077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_25
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bf308ff7a38d200800000000000000
+      internalID: 204978104341625718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc2e40aa98bee090800000000000000
+      internalID: -8003256513536840456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873521497fb0bc970800000000000000
+      internalID: 8776121456830600056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_28
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b607c481ec5469240800000000000000
+      internalID: 4798099204483084395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4623ed278fac0c0800000000000000
+      internalID: -4554554900894030612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_30
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6191c788234f1c0800000000000000
+      internalID: -4470892968293099854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119489d875a300690800000000000000
+      internalID: -7638040820308227823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_32
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad750309c3a598120800000000000000
+      internalID: 2416561891224606682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a73699e7cb31990800000000000000
+      internalID: -7416376909423740349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_34
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d735e8b461471b800800000000000000
+      internalID: 626409462286930813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_35
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd460a1772d130c0800000000000000
+      internalID: -4597662335589003841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_36
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f86aa20bf270c60800000000000000
+      internalID: 7784242914609499963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_37
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640e27fa042cf960800000000000000
+      internalID: 7637018697628779623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_38
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca12939e49d039c0800000000000000
+      internalID: -3949417941697422652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_39
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac943c691ad7a870800000000000000
+      internalID: 8694157408386456744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77feffcba171e32c0800000000000000
+      internalID: -4450093978187993225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a612641bc6953d040800000000000000
+      internalID: 4671175561878839658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7a4c22d90084c90800000000000000
+      internalID: -7185492530576447503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_43
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d65c0b73de5bb40800000000000000
+      internalID: 5455527347073936758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0997a69b38c62ab0800000000000000
+      internalID: -5033115375283758837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e173895d4dc4370800000000000000
+      internalID: 8308249426438594186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_46
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f287a7591af55020800000000000000
+      internalID: 2330043368985821937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_47
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d621fec1458217960800000000000000
+      internalID: 7597898388078531181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_48
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e500c51d8394070800000000000000
+      internalID: 8091060677390655010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_49
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7affc4677c581d0800000000000000
+      internalID: -3349051436968204296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_50
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc89397a6e82970800000000000000
+      internalID: 8730481485067898779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_51
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc2970848cc69f00800000000000000
+      internalID: 1123310026538691778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_52
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783617be2259894a0800000000000000
+      internalID: -6586350477817846905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_53
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b38df01be39c74b0800000000000000
+      internalID: -5441311611958754375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_54
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb651596082c16ce0800000000000000
+      internalID: -1413634951239084357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a00274a42c8f9470800000000000000
+      internalID: 8403589518702280872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783c02a209f3b5140800000000000000
+      internalID: 4709427723760616327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00382b49810dc8560800000000000000
+      internalID: 7317452298562732800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06e062e62862af0800000000000000
+      internalID: -421506105516072765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_59
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a040cad1fb722a3f0800000000000000
+      internalID: -891106074475887606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_60
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5478fd66696da7360800000000000000
+      internalID: 7168277698372929349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_61
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc939ec666d9d50800000000000000
+      internalID: 6745660434826251385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_62
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c39fa8ccd7bc130800000000000000
+      internalID: 3588099845589122151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_63
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e6d7caac1ce9d80800000000000000
+      internalID: -8241937191819973084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_64
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd3ece13066fd750800000000000000
+      internalID: 6331891764693974471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_65
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d7643383782f610800000000000000
+      internalID: 1653532688646569325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_66
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c7fb42631692350800000000000000
+      internalID: 5992427664365812752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_67
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c9f9947421b300800000000000000
+      internalID: 266033936209659501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_68
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467353d5f5a183350800000000000000
+      internalID: 5996571900731799396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_69
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e150f4350449be080800000000000000
+      internalID: -9157062413331266274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de9be88bec6417a0800000000000000
+      internalID: -6407376610971115820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_71
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deed465cc25d7e940800000000000000
+      internalID: 5325459472655900397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_72
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1da6ceaaf3e0710800000000000000
+      internalID: 1661335315889705429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_73
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e7dcfcac4e06010800000000000000
+      internalID: 1180194662091947656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_74
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4976674e354c73f0800000000000000
+      internalID: -901769691592754869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c59c116b6daae830800000000000000
+      internalID: 4101281087376627145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_76
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79cc589769d290e0800000000000000
+      internalID: -2264508623652861574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_77
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a900a2a2a1b5d60800000000000000
+      internalID: 7879920741410445828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_78
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ac9c7ed48b4eaf0800000000000000
+      internalID: -367966624796784039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_79
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45239ab64da02b7a0800000000000000
+      internalID: -6363011416065494444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_80
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d758a8c609ec56e0800000000000000
+      internalID: -1847345531783194666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_81
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4c9255b3a4a0630800000000000000
+      internalID: 3894006446507541704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_82
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5626dca6066711210800000000000000
+      internalID: 1301951923767566949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_83
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2402fcc76acd650800000000000000
+      internalID: 6259060637119300329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_84
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093f79291baf6a5b0800000000000000
+      internalID: -5357319066135039088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769be03728dc7e610800000000000000
+      internalID: 1650513748614363495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d5467666229e270800000000000000
+      internalID: 8280187213114006838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_87
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71773165016367940800000000000000
+      internalID: 5293477855812089623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_88
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c17056c817ea640800000000000000
+      internalID: 5093133076406934667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_89
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b90247e0fcfc8580800000000000000
+      internalID: -8823399458323428944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_90
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7c3861d51131d70800000000000000
+      internalID: 9012566370805860280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_91
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ba0636532f54a0800000000000000
+      internalID: -6602519675521027757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_92
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d33586cec561500800000000000000
+      internalID: 366582590109596979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_93
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee32096f919bb4f10800000000000000
+      internalID: 2255099559591027694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_94
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a78e41208f292dc0800000000000000
+      internalID: -3663344594528073817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_95
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9363dc2f6b2c8f50800000000000000
+      internalID: 6884925686836061084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_96
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d56779922c8aa580800000000000000
+      internalID: -8815079240392809005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_97
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2db5daeaeeffa50800000000000000
+      internalID: 6557222016474927790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_98
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbfde4949595c420800000000000000
+      internalID: 2649688421163727862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_99
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dba6bbd4ea7ec2f0800000000000000
+      internalID: -950687347971281962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545076511e7ef7730800000000000000
+      internalID: 3999169948041020741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_101
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d2fbd667911d420800000000000000
+      internalID: 2652929651936013619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_102
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2acce2fddf4aa7a0800000000000000
+      internalID: -6365187308652803541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_103
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2850b71baf30b07b0800000000000000
+      internalID: -5257103764770585214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_104
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f589685e34dd6860800000000000000
+      internalID: 7524903916642338292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_105
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9ea7c01833c94b0800000000000000
+      internalID: -5432410421162481223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_106
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfe3421f462fa440800000000000000
+      internalID: 4949216636554178495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_107
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a64a5f22af62470800000000000000
+      internalID: 8369651985571670678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_108
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853d431ca598df0f0800000000000000
+      internalID: -1081557312617524392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_109
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5294ff9172d36d0800000000000000
+      internalID: -3009205983402973698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_110
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59380e45338fb8dc0800000000000000
+      internalID: -3635539374820523115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_111
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753f85a21e3ce1580800000000000000
+      internalID: -8854424445518285993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_112
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714b1e246ee662660800000000000000
+      internalID: 7360692576227275799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_113
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e3c1bdb9d5bc30800000000000000
+      internalID: 4374642021814756153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TembokPembatas2_114
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676c8b4badd4c170800000000000000
+      internalID: 8197920949497784170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TembokPembatas2_0: 8070145806846191535
+      TembokPembatas2_1: 755162403394270561
+      TembokPembatas2_10: -5448934046055442156
+      TembokPembatas2_100: 3999169948041020741
+      TembokPembatas2_101: 2652929651936013619
+      TembokPembatas2_102: -6365187308652803541
+      TembokPembatas2_103: -5257103764770585214
+      TembokPembatas2_104: 7524903916642338292
+      TembokPembatas2_105: -5432410421162481223
+      TembokPembatas2_106: 4949216636554178495
+      TembokPembatas2_107: 8369651985571670678
+      TembokPembatas2_108: -1081557312617524392
+      TembokPembatas2_109: -3009205983402973698
+      TembokPembatas2_11: -8578064189528507708
+      TembokPembatas2_110: -3635539374820523115
+      TembokPembatas2_111: -8854424445518285993
+      TembokPembatas2_112: 7360692576227275799
+      TembokPembatas2_113: 4374642021814756153
+      TembokPembatas2_114: 8197920949497784170
+      TembokPembatas2_12: -4048791646473502769
+      TembokPembatas2_13: -3763514016789273718
+      TembokPembatas2_14: -2465441768552504446
+      TembokPembatas2_15: 1480413142322006503
+      TembokPembatas2_16: -2230610296551671540
+      TembokPembatas2_17: 3599714567200692995
+      TembokPembatas2_18: 3175029168007981348
+      TembokPembatas2_19: -3813725838735696550
+      TembokPembatas2_2: -3266627952234041908
+      TembokPembatas2_20: 178097214764284924
+      TembokPembatas2_21: 4269872750305130838
+      TembokPembatas2_22: 6936545106101378303
+      TembokPembatas2_23: -4236225011149832498
+      TembokPembatas2_24: 138819230839703077
+      TembokPembatas2_25: 204978104341625718
+      TembokPembatas2_26: -8003256513536840456
+      TembokPembatas2_27: 8776121456830600056
+      TembokPembatas2_28: 4798099204483084395
+      TembokPembatas2_29: -4554554900894030612
+      TembokPembatas2_3: 4211372603455928591
+      TembokPembatas2_30: -4470892968293099854
+      TembokPembatas2_31: -7638040820308227823
+      TembokPembatas2_32: 2416561891224606682
+      TembokPembatas2_33: -7416376909423740349
+      TembokPembatas2_34: 626409462286930813
+      TembokPembatas2_35: -4597662335589003841
+      TembokPembatas2_36: 7784242914609499963
+      TembokPembatas2_37: 7637018697628779623
+      TembokPembatas2_38: -3949417941697422652
+      TembokPembatas2_39: 8694157408386456744
+      TembokPembatas2_4: 7892409192642138532
+      TembokPembatas2_40: -4450093978187993225
+      TembokPembatas2_41: 4671175561878839658
+      TembokPembatas2_42: -7185492530576447503
+      TembokPembatas2_43: 5455527347073936758
+      TembokPembatas2_44: -5033115375283758837
+      TembokPembatas2_45: 8308249426438594186
+      TembokPembatas2_46: 2330043368985821937
+      TembokPembatas2_47: 7597898388078531181
+      TembokPembatas2_48: 8091060677390655010
+      TembokPembatas2_49: -3349051436968204296
+      TembokPembatas2_5: -1477886702450437332
+      TembokPembatas2_50: 8730481485067898779
+      TembokPembatas2_51: 1123310026538691778
+      TembokPembatas2_52: -6586350477817846905
+      TembokPembatas2_53: -5441311611958754375
+      TembokPembatas2_54: -1413634951239084357
+      TembokPembatas2_55: 8403589518702280872
+      TembokPembatas2_56: 4709427723760616327
+      TembokPembatas2_57: 7317452298562732800
+      TembokPembatas2_58: -421506105516072765
+      TembokPembatas2_59: -891106074475887606
+      TembokPembatas2_6: 8101448526531139311
+      TembokPembatas2_60: 7168277698372929349
+      TembokPembatas2_61: 6745660434826251385
+      TembokPembatas2_62: 3588099845589122151
+      TembokPembatas2_63: -8241937191819973084
+      TembokPembatas2_64: 6331891764693974471
+      TembokPembatas2_65: 1653532688646569325
+      TembokPembatas2_66: 5992427664365812752
+      TembokPembatas2_67: 266033936209659501
+      TembokPembatas2_68: 5996571900731799396
+      TembokPembatas2_69: -9157062413331266274
+      TembokPembatas2_7: 1405796497744966234
+      TembokPembatas2_70: -6407376610971115820
+      TembokPembatas2_71: 5325459472655900397
+      TembokPembatas2_72: 1661335315889705429
+      TembokPembatas2_73: 1180194662091947656
+      TembokPembatas2_74: -901769691592754869
+      TembokPembatas2_75: 4101281087376627145
+      TembokPembatas2_76: -2264508623652861574
+      TembokPembatas2_77: 7879920741410445828
+      TembokPembatas2_78: -367966624796784039
+      TembokPembatas2_79: -6363011416065494444
+      TembokPembatas2_8: 5303502448716779789
+      TembokPembatas2_80: -1847345531783194666
+      TembokPembatas2_81: 3894006446507541704
+      TembokPembatas2_82: 1301951923767566949
+      TembokPembatas2_83: 6259060637119300329
+      TembokPembatas2_84: -5357319066135039088
+      TembokPembatas2_85: 1650513748614363495
+      TembokPembatas2_86: 8280187213114006838
+      TembokPembatas2_87: 5293477855812089623
+      TembokPembatas2_88: 5093133076406934667
+      TembokPembatas2_89: -8823399458323428944
+      TembokPembatas2_9: 8383886063827772529
+      TembokPembatas2_90: 9012566370805860280
+      TembokPembatas2_91: -6602519675521027757
+      TembokPembatas2_92: 366582590109596979
+      TembokPembatas2_93: 2255099559591027694
+      TembokPembatas2_94: -3663344594528073817
+      TembokPembatas2_95: 6884925686836061084
+      TembokPembatas2_96: -8815079240392809005
+      TembokPembatas2_97: 6557222016474927790
+      TembokPembatas2_98: 2649688421163727862
+      TembokPembatas2_99: -950687347971281962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

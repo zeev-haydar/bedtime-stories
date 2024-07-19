@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: 046ad66ab5c51b94b827c65885f9ca60
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: manti_spawn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5888
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9feb8644b781944a03e5d854862ed8
+      internalID: 1738512863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_1
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 5888
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3389a8f1feef55a46a055978b8d0947a
+      internalID: -1989256019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_2
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 5888
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcce910e6870e2b41b6c06363b077b61
+      internalID: 785494659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_3
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 5888
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a440db6d46d8f49a67c4a2d9756a3e
+      internalID: 410958595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_4
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 5888
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88d9c55965892e4f9cd99bac4abe1b9
+      internalID: -943110223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5152
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9961bb579c141d749a9eef3b9173ca07
+      internalID: 1031394728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_6
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 5152
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df7b1f8cdddb4f45994cd87aee6c4f7
+      internalID: -1147484923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_7
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 5152
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d6730ed2bceea4589df4a9f6cc7567
+      internalID: 428908966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_8
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 5152
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5456c4d1de7aba84e864950755a9bbfd
+      internalID: 845174943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_9
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 5152
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a118f11b7b544b901c6f4de8f6269
+      internalID: 609879969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4416
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840f53361c34ade4a95da315fc13f490
+      internalID: -2034538420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_11
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 4416
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9948fece63c5454694d5d111b1bbcea
+      internalID: 985834211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_12
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 4416
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374b7a6102d740f4db94ee7fda030603
+      internalID: -408741613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_13
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 4416
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ef933626f9f0243a5f0de4e0baf6e5
+      internalID: -404895029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_14
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 4416
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c51b90983cfaf4dae9b686608a01af
+      internalID: 160914812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3680
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac768b616b0f3941b1c197a92d9bc04
+      internalID: 628223003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_16
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 3680
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb841d7438858440bc7a452bb44755f
+      internalID: -1456425388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_17
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 3680
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d790f1e13c022f4ca57928fa10faf7a
+      internalID: -815542798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_18
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 3680
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc498697e2fd4d741842ea5d6f52f55b
+      internalID: -1482349730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_19
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 3680
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888aad0c8c00e64ba3fa452609dad25
+      internalID: 885316921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d316f1d72f374fbd1b08a48ab3c89
+      internalID: 607443455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_21
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2944
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdf7694a50ffd84da244e1c6972d57f
+      internalID: -1020292769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_22
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2944
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bad7e8d7948d8b40ac1b640dbf8f1ad
+      internalID: -1365752865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_23
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 2944
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52eee228deda0c4493b9923fba4eb7c
+      internalID: 452982241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_24
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2944
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accc6f2e292cfb6489e24e0f2eb98d51
+      internalID: 564406410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2208
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b30162d963aae40ae0d044171854c7
+      internalID: -1154604340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_26
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2208
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72834bdb1b8721849aa2ae987c688ea0
+      internalID: 2143975848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_27
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2208
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be97ba8c2bfad47803bffe37d9c750
+      internalID: -904289037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_28
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 2208
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9d34ed81d82e34eaa4be1ebfcc2942
+      internalID: -1958094100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_29
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2208
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a93c9b149beb4b47a527bf82c920cf2
+      internalID: -617858720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25851f5dfd68de488479558c2cdd997
+      internalID: -986099539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_31
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1472
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0464e5474be1ffd409fc941714d49890
+      internalID: 717383973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_32
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1472
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee98324a9e6744894d7c39e4d51c3f
+      internalID: 2063994685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_33
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1472
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ecd25f8f8fe434993807b8cff6629b
+      internalID: 97634971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_34
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1472
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c8c106bcafa05449a5fff0476592ea
+      internalID: 1349397155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6592d484e807247984dfba064faea0
+      internalID: 381619126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_36
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 736
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8af2627d54b548b62c54f1e5e384b
+      internalID: 575431591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_37
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 736
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44862e6ed52002a44af099864ac11370
+      internalID: 793300057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_38
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 736
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2876f13a73494654dabdc1ccb574ea6b
+      internalID: -60130353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_39
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 736
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ba3deb3b262bc4897367ff4a5404c8
+      internalID: 1358001001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e5b99b2cdd07141a061c477eeb2eea
+      internalID: -1547791882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_41
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9a061fea2e3f645a00bbf6721995be
+      internalID: 421406553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manti_spawn_42
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 0
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9053400ec41f5144e8c1829913a6acbd
+      internalID: -1284090658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      manti_spawn_0: 1738512863
+      manti_spawn_1: -1989256019
+      manti_spawn_10: -2034538420
+      manti_spawn_11: 985834211
+      manti_spawn_12: -408741613
+      manti_spawn_13: -404895029
+      manti_spawn_14: 160914812
+      manti_spawn_15: 628223003
+      manti_spawn_16: -1456425388
+      manti_spawn_17: -815542798
+      manti_spawn_18: -1482349730
+      manti_spawn_19: 885316921
+      manti_spawn_2: 785494659
+      manti_spawn_20: 607443455
+      manti_spawn_21: -1020292769
+      manti_spawn_22: -1365752865
+      manti_spawn_23: 452982241
+      manti_spawn_24: 564406410
+      manti_spawn_25: -1154604340
+      manti_spawn_26: 2143975848
+      manti_spawn_27: -904289037
+      manti_spawn_28: -1958094100
+      manti_spawn_29: -617858720
+      manti_spawn_3: 410958595
+      manti_spawn_30: -986099539
+      manti_spawn_31: 717383973
+      manti_spawn_32: 2063994685
+      manti_spawn_33: 97634971
+      manti_spawn_34: 1349397155
+      manti_spawn_35: 381619126
+      manti_spawn_36: 575431591
+      manti_spawn_37: 793300057
+      manti_spawn_38: -60130353
+      manti_spawn_39: 1358001001
+      manti_spawn_4: -943110223
+      manti_spawn_40: -1547791882
+      manti_spawn_41: 421406553
+      manti_spawn_42: -1284090658
+      manti_spawn_5: 1031394728
+      manti_spawn_6: -1147484923
+      manti_spawn_7: 428908966
+      manti_spawn_8: 845174943
+      manti_spawn_9: 609879969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

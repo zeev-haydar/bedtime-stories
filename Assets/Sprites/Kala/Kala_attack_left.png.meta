@@ -1,0 +1,2027 @@
+fileFormatVersion: 2
+guid: 3fdb18e3c6cf07549b1816aba2b1d571
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kala_attack_left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13200
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a249b1f0d2d9c44418a57c3d8ea6055a
+      internalID: -1186588878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 13200
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f15237dc6d40d4da6b836d81ad9217
+      internalID: -804170418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_2
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 13200
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20db7f8d64b5794788cb2db6c51d87b
+      internalID: 2023500948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_3
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 13200
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07680ee628c3cd7438e7d60c532ca03c
+      internalID: 519563712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_4
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 13200
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9066ddd9b1256843a0450c171320951
+      internalID: 1454970951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12375
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5edfad9ac240b4a9f3b21a7b97483f
+      internalID: -1732024636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 12375
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83b84712c4cc344ab98a984ce633def
+      internalID: -486974553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 12375
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dda75502981d3a409833c1f6c34f029
+      internalID: 2097250489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_8
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 12375
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405dba42cf23aa941af1eb894bb27e23
+      internalID: -1249912895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_9
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 12375
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491a1eaf334b56444b18d377c48781c5
+      internalID: -866462529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8688a33489eaee448b26af980e96e39
+      internalID: 1998026698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7fbbf3f5800794eb51f6999019944c
+      internalID: -64297570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_12
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6b86e9252a6f1418e2d36493ffacad
+      internalID: 386691710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_13
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b1063a981879e4b94bb3f0d16b569c
+      internalID: -1996598217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_14
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 11550
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd351232bd954448a894176d51998a4
+      internalID: 1788691201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9004fafa9f96fda4db78617e23552f55
+      internalID: 1703605535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_16
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78a874c08984d74ea59606fbf02a420
+      internalID: -845808428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_17
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f2dcde867ea3a46bf84875b956151a
+      internalID: 104738654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_18
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c883eff6d06e14db955dfb347fa9fb
+      internalID: 1043725081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_19
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 10725
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db653601ab16645bfa8337e10be8b5
+      internalID: 1702985155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd90f87de6a6c804c9aa71a5fa3d93bc
+      internalID: -241746783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_21
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1f1d51eec403544b99ed7e84d1679e
+      internalID: 1246216291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_22
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d476c89bc95b40a23a0e499d3e3a9
+      internalID: -1758861495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_23
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea887b097ca84e488367e2d7da41393
+      internalID: -646059533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_24
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 9900
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325a01bd3d874c6429eb231c061f0e49
+      internalID: 1419874686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fed0429b30733c4aa647ba9a1321bd1
+      internalID: -233021899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_26
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db18a165f37a87140b61fe322c7e51dc
+      internalID: -1702351612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_27
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731b8bef03007e843a5073ea9016d224
+      internalID: 1452037477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_28
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b8f6d21f431804f8eb388182b5a33f
+      internalID: -728003761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_29
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 9075
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df600d5e83367645aeac365c6d87ec0
+      internalID: -1302988850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97089eacef2cf304bb44fcfb502860bc
+      internalID: -305463727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_31
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7d2c7f893489043ac1c6123bebf929
+      internalID: -1216698368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_32
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045ab8364ebdb6b43b7b335acdab90b1
+      internalID: -1617039641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_33
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad769a71b59b5c4e8c7c4cdcf561de4
+      internalID: -2124817005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_34
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8250
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ede1229963e9b342a0f1bb7433f530a
+      internalID: -1241599268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b599431344d444932647cc99b1baf
+      internalID: -1648198897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_36
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf36a2c9c7650df43b69df9f4e8b1717
+      internalID: 1156586912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_37
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ceb1474f646024498b5438daa9fd93
+      internalID: 1985809667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_38
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57156ecb6330cf4fbe45d1fa51e1b43
+      internalID: -1717963128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_39
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7425
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baf20f9f4a14284f84efe7085018619
+      internalID: -1936586796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b1bef8e914e5c489227bd9b85fa981
+      internalID: 1710839990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_41
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1d0c1e24fb6094db719070d0b42138
+      internalID: 990142876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_42
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fa388ea64ee5540906bfd168c3b866
+      internalID: -1510859153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_43
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7046c435764d8142acdc39a122dfabf
+      internalID: 604501616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_44
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6600
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcca21c9c0017a41b81d1d7a962b6de
+      internalID: -782498074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6452a9de82c93244b8ebc034967a776a
+      internalID: 1833083976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_46
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4e0865a7dcf614f84e84ff4368f1d2
+      internalID: -1393238870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_47
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb06c1fcd4c10d0498ba562ab5cc234f
+      internalID: -1185537288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_48
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1c47c768e6f22458284a1885a93699
+      internalID: -398894084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_49
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5775
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dbf04c9a11ac644928ee33a92d4adf
+      internalID: -731703316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b693940c88eebcc45a185f8fb5814b2f
+      internalID: -268033827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_51
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71059ac9ffbe034c983746eb1b248f3
+      internalID: 2087849117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_52
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c25bb2a13161d04587dbfc27f2cba06
+      internalID: -306477172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_53
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88644883da1435428662a4c427eff9a
+      internalID: 1510878990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_54
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4950
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033a8670abb8f0c4190b3688b58b7fec
+      internalID: 330825324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aa168b6f61a2b47ab3ba101aea9e02
+      internalID: -511812144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_56
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9117744f57a67a14b879a46428f91716
+      internalID: 1333573437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_57
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c3fc0974dda9744bd17be34583736a
+      internalID: -1150720959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_58
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1d250258446a498f1887668291a6b
+      internalID: 108918470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_59
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4125
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686869d58df589744b09832353277d07
+      internalID: -591007337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbcf125cf9aa6147bc3bc1a2ea31437
+      internalID: 920103267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_61
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd1231fbd1510f44af63e5387a97dfa
+      internalID: 415179681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_62
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb9ed47595711940809cab5ec8a8f9b
+      internalID: 1081063640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_63
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb64482da3879d45ba4921281eb9251
+      internalID: 369426282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_64
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3300
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463f9c5d55335b84695a9aa4d9b39693
+      internalID: 277228162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483cebd59f6b5e147ac90e4b3fbed787
+      internalID: -872220539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_66
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81140d53be9eed04588bb3d74c444a96
+      internalID: 1901092558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_67
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a57609a8604c943b278d3de7f3419a
+      internalID: -1575532958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_68
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90214c82eaf8f244a4c08c3a272116a
+      internalID: 595077939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_69
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2475
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347991ae0f9fc7f48964bf7461b473d9
+      internalID: 944232449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a231735674c588840a716ad3ae18f0e6
+      internalID: 543161703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_71
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db334c7b43162d141b8f8cb01bec7168
+      internalID: -211204439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_72
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0dbc3631036864bb6bd7013192cc40
+      internalID: 1169416703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_73
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3a158d1d90b449a3a8152f681c6b3
+      internalID: -364592058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_74
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1650
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d571c15d0073448a2bc54a5acded70
+      internalID: 1566800145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f105817f4391f2542bdbd4673d0a4c3a
+      internalID: 152609638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_76
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5866a88719bc5e142944fe1ba37e73f6
+      internalID: 2126012192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_77
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512dab0d20a8f674f9c0cbcfda4c13ff
+      internalID: -1483194139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_78
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e0e33d89e009647872796716c90611
+      internalID: -1535364302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_79
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 825
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a20dd2c896e95a4f8f9c6149f4261d7
+      internalID: 247041604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dd7397e49210341b6df4c89a162533
+      internalID: 1979056862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_81
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25f9c4c6128e2f439171ea97f6d0642
+      internalID: -1754903031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_82
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d457fb6242e2e6498bd4b52f06d87be
+      internalID: 865183461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kala_attack_left_83
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 0
+        width: 875
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28e153c12d2cae46b799152bd99b5af
+      internalID: 1468492120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kala_attack_left_0: -1186588878
+      Kala_attack_left_1: -804170418
+      Kala_attack_left_10: 1998026698
+      Kala_attack_left_11: -64297570
+      Kala_attack_left_12: 386691710
+      Kala_attack_left_13: -1996598217
+      Kala_attack_left_14: 1788691201
+      Kala_attack_left_15: 1703605535
+      Kala_attack_left_16: -845808428
+      Kala_attack_left_17: 104738654
+      Kala_attack_left_18: 1043725081
+      Kala_attack_left_19: 1702985155
+      Kala_attack_left_2: 2023500948
+      Kala_attack_left_20: -241746783
+      Kala_attack_left_21: 1246216291
+      Kala_attack_left_22: -1758861495
+      Kala_attack_left_23: -646059533
+      Kala_attack_left_24: 1419874686
+      Kala_attack_left_25: -233021899
+      Kala_attack_left_26: -1702351612
+      Kala_attack_left_27: 1452037477
+      Kala_attack_left_28: -728003761
+      Kala_attack_left_29: -1302988850
+      Kala_attack_left_3: 519563712
+      Kala_attack_left_30: -305463727
+      Kala_attack_left_31: -1216698368
+      Kala_attack_left_32: -1617039641
+      Kala_attack_left_33: -2124817005
+      Kala_attack_left_34: -1241599268
+      Kala_attack_left_35: -1648198897
+      Kala_attack_left_36: 1156586912
+      Kala_attack_left_37: 1985809667
+      Kala_attack_left_38: -1717963128
+      Kala_attack_left_39: -1936586796
+      Kala_attack_left_4: 1454970951
+      Kala_attack_left_40: 1710839990
+      Kala_attack_left_41: 990142876
+      Kala_attack_left_42: -1510859153
+      Kala_attack_left_43: 604501616
+      Kala_attack_left_44: -782498074
+      Kala_attack_left_45: 1833083976
+      Kala_attack_left_46: -1393238870
+      Kala_attack_left_47: -1185537288
+      Kala_attack_left_48: -398894084
+      Kala_attack_left_49: -731703316
+      Kala_attack_left_5: -1732024636
+      Kala_attack_left_50: -268033827
+      Kala_attack_left_51: 2087849117
+      Kala_attack_left_52: -306477172
+      Kala_attack_left_53: 1510878990
+      Kala_attack_left_54: 330825324
+      Kala_attack_left_55: -511812144
+      Kala_attack_left_56: 1333573437
+      Kala_attack_left_57: -1150720959
+      Kala_attack_left_58: 108918470
+      Kala_attack_left_59: -591007337
+      Kala_attack_left_6: -486974553
+      Kala_attack_left_60: 920103267
+      Kala_attack_left_61: 415179681
+      Kala_attack_left_62: 1081063640
+      Kala_attack_left_63: 369426282
+      Kala_attack_left_64: 277228162
+      Kala_attack_left_65: -872220539
+      Kala_attack_left_66: 1901092558
+      Kala_attack_left_67: -1575532958
+      Kala_attack_left_68: 595077939
+      Kala_attack_left_69: 944232449
+      Kala_attack_left_7: 2097250489
+      Kala_attack_left_70: 543161703
+      Kala_attack_left_71: -211204439
+      Kala_attack_left_72: 1169416703
+      Kala_attack_left_73: -364592058
+      Kala_attack_left_74: 1566800145
+      Kala_attack_left_75: 152609638
+      Kala_attack_left_76: 2126012192
+      Kala_attack_left_77: -1483194139
+      Kala_attack_left_78: -1535364302
+      Kala_attack_left_79: 247041604
+      Kala_attack_left_8: -1249912895
+      Kala_attack_left_80: 1979056862
+      Kala_attack_left_81: -1754903031
+      Kala_attack_left_82: 865183461
+      Kala_attack_left_83: 1468492120
+      Kala_attack_left_9: -866462529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1658 @@
+fileFormatVersion: 2
+guid: a10f5d60dbcaaa2488ed8f80a702e4de
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_hp_bar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7700
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c38fb874a667442a3090cc878ab438
+      internalID: -1324532465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_1
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 7700
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9cae5a9e11baf4ba04b3f42cfd4d1d
+      internalID: -1693420172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_2
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 7700
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5004bee968c46a94d8e70a39fddc4382
+      internalID: 417481281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7350
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958be36ca23959b49bcf94e211030ddc
+      internalID: 727711875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_4
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 7350
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6cc9baf5861bc4d9cb12bda7519197
+      internalID: -1865216725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_5
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 7350
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd7ebecdebdb8f4e87aea48808e4994
+      internalID: -521117974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23de6e8faad067440a85817c1724b04a
+      internalID: 1987029617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_7
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 7000
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363e9445be0ce274da77ef862f8facb4
+      internalID: 991792367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_8
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 7000
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c2a563c6371b64c87083362d32fae6
+      internalID: -529276392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6650
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a571a5ecf1324da403e5f6e60925b
+      internalID: 1222710168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_10
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 6650
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d3b0a264f249c47a8898a9913eec26
+      internalID: 1771074875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_11
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 6650
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca92973712ac71418432b49027d7cd9
+      internalID: 309759336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6300
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc57bbd6ef157614283b4b23a3a79c58
+      internalID: -1472234654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_13
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 6300
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5dbdd6ed2989489a92b15a880d800
+      internalID: 390934375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_14
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 6300
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81c12dd719700546b84f25065d294c9
+      internalID: 1224721197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5950
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d712869fd299f5c4a8a1f7cff605d178
+      internalID: 83088505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_16
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 5950
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9803452968c963f43b22d4e0a15832c3
+      internalID: 867450894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_17
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 5950
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce41c44a63d35144b571fe3dab20e2e
+      internalID: 202342100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25c632aeb27933438f0b792a6a6c603
+      internalID: 174864421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_19
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 5600
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfd8c613a1e48546bc6b67ad1f5b96d
+      internalID: 577200991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_20
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 5600
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad29a34f8475bd440a461fc3157e8e87
+      internalID: 1103410395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5250
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9136962bf7f9d6489938baf58684726
+      internalID: -223216993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_22
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 5250
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a3ac192a45b1740a04f3096546122b
+      internalID: 1722399228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_23
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 5250
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed8ea05ce4913d49b5b22e0d82bc38e
+      internalID: -2003575420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4900
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae80f212bc9e9984bbee70fcf5a588ab
+      internalID: -1773204215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_25
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 4900
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b9b0451e8612348ad4c621dbaee73e
+      internalID: 197622903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_26
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 4900
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5eb51db1b4e6649a5b2a0e5830a129
+      internalID: 108699337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4550
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f2d4cceadfb604b957101699aa0d73
+      internalID: 1452417461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_28
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 4550
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7899578fd51a61a40a57af8c22f8a8fc
+      internalID: 1360498996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_29
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 4550
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce4b0ff059f0f74191863607c3b1cdb
+      internalID: 446920233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabd017800733574a83ecda69fa53040
+      internalID: -1571826423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_31
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 4200
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae05ddb8ef6e2834a9ee51731be0e353
+      internalID: 1226091727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_32
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 4200
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7e9fec75998e94cba0b2a9927cbd4c
+      internalID: -2013783132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3850
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c10ab2e53ed6eb41a96293bf065fa40
+      internalID: 2049727104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_34
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3850
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657775bce5ce7a341b34a2fd2a16585f
+      internalID: 1178383583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_35
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3850
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c454c1659fed534cb4875070ec8787a
+      internalID: -2050158361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce353c7f56592be41a6aaa499753fe7b
+      internalID: 572164333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3500
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fcb54f54d686d4887b92279cbbb9b6
+      internalID: -2038486935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_38
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3500
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6f30b51f705864e93d39ccfb7865cb
+      internalID: 166415073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6a5d2409818f044bc518d93b2aeb7a
+      internalID: -3051958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_40
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3150
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8f5602245a8ed40a535ccc2edef217
+      internalID: -270329963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_41
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3150
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3e639656aff3c42a2fc35c27028452
+      internalID: 875665677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e70bce6600c73488334696feb04da8
+      internalID: -409860265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_43
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2800
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e9bff1e24e38544aecf8caef242488
+      internalID: 780370171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_44
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2800
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bbed39401f31343a9798fdd3969df4
+      internalID: -1730687611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0684923ed26dda41ab467150789c02c
+      internalID: -1522527707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_46
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2450
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98252adb094509e4690fc64366670757
+      internalID: 1404533421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_47
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2450
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14195d3a2abb85f4bbc82d10b0d785d6
+      internalID: 1236461747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cf32443083186429c79b46949d1afa
+      internalID: -1830162180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_49
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2100
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f216ceb934b01449a8c3cb102038430
+      internalID: -2105272531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_50
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2100
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91b9d5ffa412fc45bf51387142af1c6
+      internalID: -476696725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f69098d462b25943b140f7b44424df4
+      internalID: 1770868663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_52
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1750
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80146ddabde3eba4c8b72066765401c4
+      internalID: -1456497224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_53
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1750
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfab2190fbd3dae4c9d19c3ca522c271
+      internalID: -1154370923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e69693c30668d42b27891d4631f0fe
+      internalID: -733139365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_55
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1400
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6da4ae49a9fca49bd3b07cec1dd3c4
+      internalID: -1943831357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_56
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1400
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e26c20958b17e428f54ceb08aff05a
+      internalID: -1376925449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2958d0b69b5f84fb43d349a9017979
+      internalID: 1752926806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_58
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1050
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad3fb256fd82664a81d2b16e8ee6290
+      internalID: -54329352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_59
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1050
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df3310e3b3e20547b51d81154673c3a
+      internalID: -992424222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce8c9c4d101af742a2601ae502c8a46
+      internalID: -323752839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_61
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 700
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58d5c6c6533c404198f1ecb0f2a26f3
+      internalID: -694137948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_62
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 700
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a0ef456818834db3107858aa78edb
+      internalID: -166468812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744a5de2d73ac4443b2448ab9de817a5
+      internalID: 1452648096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_64
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 350
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909d8fc8b03e1054986cd5470feba266
+      internalID: -1068363053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_65
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 350
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3a69943a682a8488c1c6da699bcfe9
+      internalID: 1878048493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa4c977d6d793144bd1aa5c0d146c18
+      internalID: -1232821828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_67
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c925174754f654bb9dd10b195f9229
+      internalID: -486946174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_hp_bar_68
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 1700
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277fc33bcd2af844eb3af3a25911c8c7
+      internalID: -829981259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boss_hp_bar_0: -1324532465
+      boss_hp_bar_1: -1693420172
+      boss_hp_bar_10: 1771074875
+      boss_hp_bar_11: 309759336
+      boss_hp_bar_12: -1472234654
+      boss_hp_bar_13: 390934375
+      boss_hp_bar_14: 1224721197
+      boss_hp_bar_15: 83088505
+      boss_hp_bar_16: 867450894
+      boss_hp_bar_17: 202342100
+      boss_hp_bar_18: 174864421
+      boss_hp_bar_19: 577200991
+      boss_hp_bar_2: 417481281
+      boss_hp_bar_20: 1103410395
+      boss_hp_bar_21: -223216993
+      boss_hp_bar_22: 1722399228
+      boss_hp_bar_23: -2003575420
+      boss_hp_bar_24: -1773204215
+      boss_hp_bar_25: 197622903
+      boss_hp_bar_26: 108699337
+      boss_hp_bar_27: 1452417461
+      boss_hp_bar_28: 1360498996
+      boss_hp_bar_29: 446920233
+      boss_hp_bar_3: 727711875
+      boss_hp_bar_30: -1571826423
+      boss_hp_bar_31: 1226091727
+      boss_hp_bar_32: -2013783132
+      boss_hp_bar_33: 2049727104
+      boss_hp_bar_34: 1178383583
+      boss_hp_bar_35: -2050158361
+      boss_hp_bar_36: 572164333
+      boss_hp_bar_37: -2038486935
+      boss_hp_bar_38: 166415073
+      boss_hp_bar_39: -3051958
+      boss_hp_bar_4: -1865216725
+      boss_hp_bar_40: -270329963
+      boss_hp_bar_41: 875665677
+      boss_hp_bar_42: -409860265
+      boss_hp_bar_43: 780370171
+      boss_hp_bar_44: -1730687611
+      boss_hp_bar_45: -1522527707
+      boss_hp_bar_46: 1404533421
+      boss_hp_bar_47: 1236461747
+      boss_hp_bar_48: -1830162180
+      boss_hp_bar_49: -2105272531
+      boss_hp_bar_5: -521117974
+      boss_hp_bar_50: -476696725
+      boss_hp_bar_51: 1770868663
+      boss_hp_bar_52: -1456497224
+      boss_hp_bar_53: -1154370923
+      boss_hp_bar_54: -733139365
+      boss_hp_bar_55: -1943831357
+      boss_hp_bar_56: -1376925449
+      boss_hp_bar_57: 1752926806
+      boss_hp_bar_58: -54329352
+      boss_hp_bar_59: -992424222
+      boss_hp_bar_6: 1987029617
+      boss_hp_bar_60: -323752839
+      boss_hp_bar_61: -694137948
+      boss_hp_bar_62: -166468812
+      boss_hp_bar_63: 1452648096
+      boss_hp_bar_64: -1068363053
+      boss_hp_bar_65: 1878048493
+      boss_hp_bar_66: -1232821828
+      boss_hp_bar_67: -486946174
+      boss_hp_bar_68: -829981259
+      boss_hp_bar_7: 991792367
+      boss_hp_bar_8: -529276392
+      boss_hp_bar_9: 1222710168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

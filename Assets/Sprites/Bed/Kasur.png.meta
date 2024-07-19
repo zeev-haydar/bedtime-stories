@@ -1,0 +1,2186 @@
+fileFormatVersion: 2
+guid: 62d669e1d7ca20648a5f4149691038c0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kasur_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12501.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d16fd6be0b7c43bc0980bd27ed63e
+      internalID: -511499669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 12501.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a1a5098470f2748a27783b8a716f79
+      internalID: -1086933589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 12501.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a424500a5d1de545917eda9b077895e
+      internalID: 581905421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_3
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 12501.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafd0bf08ef10b24b871488f06b26065
+      internalID: 1585192880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_4
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 12501.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d646e3f0446394a874fe25ef033410
+      internalID: -1067289399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11807.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750d380d1901f784fb45d1d30c29355b
+      internalID: 540131177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 11807.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4667952a05a3dd4292bbabc6609abd3
+      internalID: -1438394479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_7
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 11807.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af597f5869bdd964899040f55773b1a4
+      internalID: 1140931497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_8
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 11807.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f46fe2a4463234e96e015edcf762b0
+      internalID: 802831770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 11807.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4947d5b7ad262245a7ba030899e556e
+      internalID: -831983296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11113.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eeee7ed1313f645b2fbea2d5cf4a65
+      internalID: -1579279193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 11113.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a478991ecb4d97a4aa29928858a054df
+      internalID: -604666663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 11113.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b62b1776428ff641945f8f9546d9e55
+      internalID: -1950318697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_13
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 11113.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67926da2fabd624183973b288a76ec5
+      internalID: 1451707748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 11113.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120bb30ed8c9447448839d36dc688018
+      internalID: 1053488025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10419.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd64a3dea26f86b4a97a161750456031
+      internalID: -688562420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 10419.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d828abd182b894342924884433bae294
+      internalID: 1610821792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_17
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 10419.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb22ac734af74e44c987dbf9bce85c89
+      internalID: 1682205445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_18
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 10419.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05de2ee8be4a74b4ea714016ffff42a9
+      internalID: 2002697762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_19
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 10419.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7ce1acbd72ba444923484fe3212045
+      internalID: 1884611615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9725.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c8b101b08efb745ac7ec8a9adca0b1
+      internalID: -774295760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9725.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8358612c7b356f47baa19ba66c8f13e
+      internalID: -999066158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9725.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f89171874127f4ab9b3e1ebd322a64
+      internalID: -273297204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_23
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9725.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ca25cc8d5442743bc31d2f2ba2bae9
+      internalID: 1007299274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_24
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9725.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c3379e3fb66c84cbde1c702c321b99
+      internalID: 629836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9031.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e90c0bf4f72e0643930b26cde294213
+      internalID: -749092809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9031.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c389638c762c1ad4e8f65ed033423757
+      internalID: 1299098974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9031.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4645ca6b504074a98b166b266709ee
+      internalID: 2068238140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_28
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9031.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be751d47b91c81244a3f0c6fd3c5f629
+      internalID: 129746173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_29
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9031.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69086cb570aaa9e49982c91e8ed64b1c
+      internalID: 1377539524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8337.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a83eff02e672245a31f117fb47e18e
+      internalID: -527147724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8337.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ec8eb6a0b8dd45bb80e2f5729761d
+      internalID: 1225296051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_32
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8337.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3bb33a88e7276458be51d0403d1cdf
+      internalID: -913918160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_33
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8337.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49dde27654012544827b533f2581d21
+      internalID: 1577191650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_34
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8337.474
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f39e877886c8904e9cee5be25e2bbc5
+      internalID: 218965943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7643.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5425e584d970f4e4794260091301eebc
+      internalID: 1705157006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7643.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2babf2bf0e25aca48b0de744c85dd67f
+      internalID: -664951778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_37
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7643.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9774ec10577fea04f90639d2f3d68a36
+      internalID: 1062780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_38
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7643.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c3356fb1c2d3a419c242efca8f773e
+      internalID: 507517909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_39
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7643.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a002d15977db95440ae6128c94723f3c
+      internalID: 2081532884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6949.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9246727cf53d1dc4e8b8cf61037b9d1b
+      internalID: -376606356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_41
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6949.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed86016ff265524a834e8cb6bb61fcd
+      internalID: -793982530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_42
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6949.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b24e174470bab42a134057515d88c3
+      internalID: 1127800523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_43
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6949.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aa2b80595db3c4b9f7dc2bdfd0e074
+      internalID: 277352282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_44
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6949.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4013598f1be34664486da174a56ca518
+      internalID: -1979488037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6255.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ad3784e8ca86a47b2a7b1f98738023
+      internalID: -809371025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6255.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d1fb30019e05e4ea610e266c40c194
+      internalID: -443232228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_47
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6255.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39159c71380e0c94f993e9488565eb2d
+      internalID: -638830873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_48
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6255.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3d51d66d3432f49a56915cbeb49c0d
+      internalID: -1264877979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_49
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6255.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d16792d7df60724dafa5752a1294761
+      internalID: 387354809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5561.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7737b264638cd24c804ed41aaf370cd
+      internalID: 861753531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5561.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567ae07532d9e6d41aecceb6fec35f63
+      internalID: 1913430160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_52
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5561.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99a3180e6d0f2d42bb08f6716a3e662
+      internalID: 1590382441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_53
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5561.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f0bfd155e5144bb571bc9b2ba29f9
+      internalID: 1966818799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5561.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0413def0933b53e48b6b51e389493ce8
+      internalID: -1129302943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4867.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287d97a8e8ee9f342995feb4118681fe
+      internalID: -113682289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_56
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4867.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaa25c6fe8565640acc3e96f9c8b654
+      internalID: -237265875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_57
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4867.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af115d0a67772114c8f63ff9698fb138
+      internalID: 1956057998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_58
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4867.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69386d93838610a4ca040f5f9b0d7082
+      internalID: 1413294179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_59
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4867.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29d2a298e1917747a69afa1d5adc45e
+      internalID: 966922335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4173.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e27c00dfa09d49a6a7b0c7d5635f7
+      internalID: -185318996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_61
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4173.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817c9a03461329949914a16c6b2f009e
+      internalID: -648927609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_62
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4173.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c81d61a925241947bf392350d568c76
+      internalID: -1887942967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_63
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4173.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0196eef15d2b44582d34cd40445fee
+      internalID: -1946522429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_64
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4173.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174599c9ed9436b4b84d79e66e508feb
+      internalID: -2021907718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3479.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6904157a37c0b0347aafead5f2ab9971
+      internalID: -634808711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3479.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dfd3b5bea18e445b622ec3357ce4fc
+      internalID: 945862414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_67
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3479.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6778f69c6bc24db45905463cdd985797
+      internalID: 2133155652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_68
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3479.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66796091844811c438c583bef01e4e81
+      internalID: 1985727046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_69
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3479.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb3c16f1f698b7419c44cf981e8763d
+      internalID: 1350399210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2785.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77856b71cd3f0d744a1974846b3860fc
+      internalID: -1128250059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_71
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2785.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b740040f21d7354280ba1a68f3a0844
+      internalID: -1107466262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_72
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2785.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62c784652283ad4ba2e100f1111fd91
+      internalID: 101847098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_73
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2785.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe095a4a1deaf146938ea93baf64130
+      internalID: -1678862752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_74
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2785.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f882cb22dd190194e887ce4491771b7b
+      internalID: 477567345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2091.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c21b0985575745a5c9cf260d98a2b
+      internalID: 206624732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_76
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2091.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d935460889afbf8459d074a6933da60e
+      internalID: 179434529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_77
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2091.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94583076524bd1f48aabcfd24db16de7
+      internalID: 1011416524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_78
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2091.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a281d657a60f7694ab938f52905b3986
+      internalID: 2072011235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_79
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2091.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b081a116fb0954481a82bc4351a84c
+      internalID: -1899027371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1397.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41b723c0dd6b7d4aaf0e4a444c4b130
+      internalID: 1460574468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_81
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1397.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6528b05d2f826438a98c7156e3ee64
+      internalID: 1983238869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_82
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1397.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedf1e54239a0b54fb3b756b9655bb41
+      internalID: 1638750119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_83
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1397.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3711ff6b1e68774397467a33515e932
+      internalID: -1613734004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_84
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1397.4736
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33ab64b6f847ea4a9b604d000c32ed3
+      internalID: 1343445221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703.4737
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb1123df240c8a44ba3c2ff058cd5e6
+      internalID: -1780933801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_86
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 703.4737
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d753fcf2c3a3668499184fa548a88728
+      internalID: 1023022556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_87
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 703.4737
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18765046a018a854eb3e290336807124
+      internalID: 1803698114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_88
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 703.4737
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceea75a404da4841a7b0fe7a3daabe4
+      internalID: 121390205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_89
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 703.4737
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2d333ea7dc15f409fcdcdd8f798b14
+      internalID: 322709151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9.473694
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa1c9ed72edf224cbbd0561b0e47996
+      internalID: -603759179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_91
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9.473694
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe2d25d9ada2c47a89cb9023bbf0ad
+      internalID: 1132445988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kasur_92
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9.473694
+        width: 1500
+        height: 694.5263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea04855824dfd17489e9edf0e3188a70
+      internalID: -933430446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kasur_0: -511499669
+      Kasur_1: -1086933589
+      Kasur_10: -1579279193
+      Kasur_11: -604666663
+      Kasur_12: -1950318697
+      Kasur_13: 1451707748
+      Kasur_14: 1053488025
+      Kasur_15: -688562420
+      Kasur_16: 1610821792
+      Kasur_17: 1682205445
+      Kasur_18: 2002697762
+      Kasur_19: 1884611615
+      Kasur_2: 581905421
+      Kasur_20: -774295760
+      Kasur_21: -999066158
+      Kasur_22: -273297204
+      Kasur_23: 1007299274
+      Kasur_24: 629836
+      Kasur_25: -749092809
+      Kasur_26: 1299098974
+      Kasur_27: 2068238140
+      Kasur_28: 129746173
+      Kasur_29: 1377539524
+      Kasur_3: 1585192880
+      Kasur_30: -527147724
+      Kasur_31: 1225296051
+      Kasur_32: -913918160
+      Kasur_33: 1577191650
+      Kasur_34: 218965943
+      Kasur_35: 1705157006
+      Kasur_36: -664951778
+      Kasur_37: 1062780
+      Kasur_38: 507517909
+      Kasur_39: 2081532884
+      Kasur_4: -1067289399
+      Kasur_40: -376606356
+      Kasur_41: -793982530
+      Kasur_42: 1127800523
+      Kasur_43: 277352282
+      Kasur_44: -1979488037
+      Kasur_45: -809371025
+      Kasur_46: -443232228
+      Kasur_47: -638830873
+      Kasur_48: -1264877979
+      Kasur_49: 387354809
+      Kasur_5: 540131177
+      Kasur_50: 861753531
+      Kasur_51: 1913430160
+      Kasur_52: 1590382441
+      Kasur_53: 1966818799
+      Kasur_54: -1129302943
+      Kasur_55: -113682289
+      Kasur_56: -237265875
+      Kasur_57: 1956057998
+      Kasur_58: 1413294179
+      Kasur_59: 966922335
+      Kasur_6: -1438394479
+      Kasur_60: -185318996
+      Kasur_61: -648927609
+      Kasur_62: -1887942967
+      Kasur_63: -1946522429
+      Kasur_64: -2021907718
+      Kasur_65: -634808711
+      Kasur_66: 945862414
+      Kasur_67: 2133155652
+      Kasur_68: 1985727046
+      Kasur_69: 1350399210
+      Kasur_7: 1140931497
+      Kasur_70: -1128250059
+      Kasur_71: -1107466262
+      Kasur_72: 101847098
+      Kasur_73: -1678862752
+      Kasur_74: 477567345
+      Kasur_75: 206624732
+      Kasur_76: 179434529
+      Kasur_77: 1011416524
+      Kasur_78: 2072011235
+      Kasur_79: -1899027371
+      Kasur_8: 802831770
+      Kasur_80: 1460574468
+      Kasur_81: 1983238869
+      Kasur_82: 1638750119
+      Kasur_83: -1613734004
+      Kasur_84: 1343445221
+      Kasur_85: -1780933801
+      Kasur_86: 1023022556
+      Kasur_87: 1803698114
+      Kasur_88: 121390205
+      Kasur_89: 322709151
+      Kasur_9: -831983296
+      Kasur_90: -603759179
+      Kasur_91: 1132445988
+      Kasur_92: -933430446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

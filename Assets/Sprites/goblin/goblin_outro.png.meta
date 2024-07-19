@@ -1,0 +1,1174 @@
+fileFormatVersion: 2
+guid: 70e06774544fe304dbd927b80f65691d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_outro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fda6d909514404dba11d07118c3447
+      internalID: 4764312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_1
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 9000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffef806e111321841aae472d99254730
+      internalID: -448301946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_2
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 9000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbc6c6a3bd36c8429f7c930fdd56093
+      internalID: -1547089911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_3
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 9000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e93d46b96f2b442a09dfaf1cecbaa6
+      internalID: -1204496003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_4
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 9000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3aac0f107d807429110a02a2569d1d
+      internalID: -1411961429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e92b5374b75bd409f9dda837b13c01
+      internalID: -871764689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_6
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 8000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b7fc6c68f520a4fb9f8333c758b2da
+      internalID: 1508260047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_7
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 8000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4b530c8cc41b945870a39efc4eec74
+      internalID: -329651957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_8
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 8000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86880c6bf953814bbc341553a9203b0
+      internalID: 392022398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_9
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 8000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbb99b25199aa94f83d1e7aa76310dd
+      internalID: 434504952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0e41ffadbf64147ad928216245c25c
+      internalID: -1648495543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_11
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 7000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff378e9e29c7b64386eb46c73976c56
+      internalID: 218249462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_12
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 7000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70764417adb856b49bb6a59fdb74d7a5
+      internalID: 1565752089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_13
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 7000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a0f1a714a1e284d800a05163550de1
+      internalID: -1458924890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_14
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 7000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c385c3f48844a45b1b5e3bcac730d2
+      internalID: 1362370100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adce3126f805c3438f9f2a0316629cb
+      internalID: -628542784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_16
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 6000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68115eb2f0ccf2448e65afc2194a3a3
+      internalID: -1551900458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_17
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 6000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaf6ce6beb9401478f4ad908316243e
+      internalID: 1145008839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_18
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 6000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d6518f95cc7154fa8c468b732864ca
+      internalID: 183850448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_19
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 6000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7028d8cbf2ea3ba4aba20cfda6d1f46e
+      internalID: 1166617388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f068a64ed141c94cbb1e5d4630b8ef1
+      internalID: -304376317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_21
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 5000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4335990d9aa203e4c8725a8959b0952d
+      internalID: -370427276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_22
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 5000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83648072092149488dfeabf1904e810
+      internalID: 1758026535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_23
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 5000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537235bdcd50f914a9cffdaab158bace
+      internalID: 1888061804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_24
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 5000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b60423dc946f3d439d473c5f8fb8229
+      internalID: 1366805056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d80041399f1c5840a54971b6102a0b0
+      internalID: 2107549661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_26
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 4000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5177811ff2a9b9345afc839001355879
+      internalID: 237458359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_27
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 4000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11749b032195fa04aa94e8301004b429
+      internalID: 1825190548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_28
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 4000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618db9826f26b9840aa0279f90f7eb43
+      internalID: -2029884095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_29
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 4000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a705ef31df3431c428f5755f110577f8
+      internalID: -53444580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c0101c74c83044ea986dd5c605f0b8
+      internalID: -1125995229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_31
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 3000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f77f3ee67d7df4b9a55fc1e305c8b0
+      internalID: -290956085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_32
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 3000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e131a945995702b40b9093f8968192b0
+      internalID: 44935598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_33
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 3000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d30cf9077a9cc84fbad386bb180b810
+      internalID: 2108032490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_34
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 3000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885422e7a8a6697479782bfe87bd2d73
+      internalID: 1735078769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1635d874d6af9408a4e11d0544135e
+      internalID: -1316825622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_36
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8de79e9f3b6ac4bb9a80a475911742
+      internalID: 151079361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_37
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e181b027828294dba0d5c516c0dae0
+      internalID: -2145860196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_38
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 2000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4db6fc213289743ad48994e412cf5d
+      internalID: -460855894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_39
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 2000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b89bd6fa513098418e34bf75776ff28
+      internalID: 1728399154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ae3b51d5358514ba86a00057a470ae
+      internalID: -1588760147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_41
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7594ead14015149a373b9018e40a90
+      internalID: -888348498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_42
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2228ca3190b646c45aa29431c9a92200
+      internalID: -1081351402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_43
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54da40894ed1b24cbc5d67aacbf75a2
+      internalID: -588342864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_44
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1000
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f18b08e3f1e614ab9109c2f64fc966
+      internalID: 1241737940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a09f68174e1ce149bf3f13fa8d0f6c5
+      internalID: -1508323184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_outro_46
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 762
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d670b5add3b5ba843be4f63338b43399
+      internalID: 1898080040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      goblin_outro_0: 4764312
+      goblin_outro_1: -448301946
+      goblin_outro_10: -1648495543
+      goblin_outro_11: 218249462
+      goblin_outro_12: 1565752089
+      goblin_outro_13: -1458924890
+      goblin_outro_14: 1362370100
+      goblin_outro_15: -628542784
+      goblin_outro_16: -1551900458
+      goblin_outro_17: 1145008839
+      goblin_outro_18: 183850448
+      goblin_outro_19: 1166617388
+      goblin_outro_2: -1547089911
+      goblin_outro_20: -304376317
+      goblin_outro_21: -370427276
+      goblin_outro_22: 1758026535
+      goblin_outro_23: 1888061804
+      goblin_outro_24: 1366805056
+      goblin_outro_25: 2107549661
+      goblin_outro_26: 237458359
+      goblin_outro_27: 1825190548
+      goblin_outro_28: -2029884095
+      goblin_outro_29: -53444580
+      goblin_outro_3: -1204496003
+      goblin_outro_30: -1125995229
+      goblin_outro_31: -290956085
+      goblin_outro_32: 44935598
+      goblin_outro_33: 2108032490
+      goblin_outro_34: 1735078769
+      goblin_outro_35: -1316825622
+      goblin_outro_36: 151079361
+      goblin_outro_37: -2145860196
+      goblin_outro_38: -460855894
+      goblin_outro_39: 1728399154
+      goblin_outro_4: -1411961429
+      goblin_outro_40: -1588760147
+      goblin_outro_41: -888348498
+      goblin_outro_42: -1081351402
+      goblin_outro_43: -588342864
+      goblin_outro_44: 1241737940
+      goblin_outro_45: -1508323184
+      goblin_outro_46: 1898080040
+      goblin_outro_5: -871764689
+      goblin_outro_6: 1508260047
+      goblin_outro_7: -329651957
+      goblin_outro_8: 392022398
+      goblin_outro_9: 434504952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
