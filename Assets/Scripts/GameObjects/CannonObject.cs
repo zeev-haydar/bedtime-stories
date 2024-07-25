@@ -21,7 +21,7 @@ namespace GameObjects
         public Cannon cannon;
         public GameObject projectilePrefab;
 
-        public const float ROTATION_SPEED = 70f;
+        public const float ROTATION_SPEED = 100f;
         private float currentSpeed = 0f;
         private Transform vfxObjectTransform, triangleTransform;
         private CannonState state = CannonState.Unused;
