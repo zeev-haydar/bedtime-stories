@@ -1,5 +1,6 @@
 using System.Linq;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -8,6 +9,7 @@ public class GameMenu : MonoBehaviour
 {
     private GameObject[] players;
     private bool paused = false;
+    [SerializeField] private GameObject firstButton;
     private void Start()
     {
         players = GameObject.FindGameObjectsWithTag("Player");
@@ -17,6 +19,15 @@ public class GameMenu : MonoBehaviour
             player.GetComponent<PlayerInput>().currentActionMap.FindAction("Pause").canceled += HandlePause;
         }
         HandleContinue();
+    }
+
+    private void OnEnable()
+    {
+        EventSystem.current.SetSelectedGameObject(firstButton);
+    }
+    private void OnDisable()
+    {
+        EventSystem.current.SetSelectedGameObject(null);
     }
     private void OnDestroy()
     {

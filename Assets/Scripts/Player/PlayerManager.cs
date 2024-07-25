@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using Player;
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.DualShock;
@@ -20,9 +21,10 @@ namespace Managers
         [SerializeField] private List<Vector3> InitialMenuPosition;
         [SerializeField] private List<Vector3> InitialWorldPosition;
         [SerializeField] private List<RuntimeAnimatorController> controllers;
+        [SerializeField] private TextMeshProUGUI hintText;
 
         private float joinTimer = 0;
-        [SerializeField] private float joinHoldTime = 1f;
+        public float joinHoldTime = 10f;
         private bool canJoin = true;
 
         public int CurrentPlayerCount { get => players.Count; }
@@ -43,13 +45,25 @@ namespace Managers
 
         private void Update()
         {
-            joinTimer += Time.deltaTime;
+            if (canJoin && players.Count > 0)
+            {
+                joinTimer += Time.deltaTime;
+                hintText.text = $"Game will start in {Mathf.CeilToInt(10 - joinTimer)} seconds";
+            }
             Debug.Log(joinTimer);
             if (joinTimer >= joinHoldTime)
             {
                 StartGame();
                 SceneManager.LoadScene("Testing");
                 joinTimer = float.MinValue;
+            }
+            if(SceneManager.GetActiveScene().buildIndex != 1 && SceneManager.GetActiveScene().buildIndex != 2)
+            {
+                foreach (var item in players)
+                {
+                    Destroy(item);
+                }
+                Destroy(gameObject);
             }
         }
 
@@ -97,14 +111,14 @@ namespace Managers
 
         public void OnStartPressed(InputAction.CallbackContext context)
         {
-            if (context.started)
-            {
-                joinTimer = 0;
-            }
-            if (context.canceled)
-            {
-                joinTimer = float.MinValue;
-            }
+            //if (context.started)
+            //{
+            //    joinTimer = 0;
+            //}
+            //if (context.canceled)
+            //{
+            //    joinTimer = float.MinValue;
+            //}
         }
 
     }

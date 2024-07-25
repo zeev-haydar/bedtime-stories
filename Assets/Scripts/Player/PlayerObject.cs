@@ -4,6 +4,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Utilities;
+using UnityEngine.SceneManagement;
 
 namespace Player
 {
@@ -140,6 +141,9 @@ namespace Player
             // Move
             if (transform == null) return;
             transform.Translate(moveAmount * Time.deltaTime, Space.World);
+
+            if (!inGameScene) { return; }
+            if(SceneManager.GetActiveScene().buildIndex != 2) { return; }
             transform.position = ClampVector3(transform.position, BedObject.Instance.transform.Find("Bounds (1)").GetComponent<SpriteRenderer>().bounds);
             //rb.velocity = moveAmount;
         }
