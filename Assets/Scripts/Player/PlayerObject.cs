@@ -373,29 +373,32 @@ namespace Player
         }
         public void OnPickupOrInteract(InputAction.CallbackContext context)
         {
-            if (appliableObject == null)
+            if (context.started)
             {
-                // Try Pickup
-                OnPickup(context);
-                return;
-            }
-            if (pickableItem == null)
-            {
-                // Try Interact
-                OnInteract(context);
-                return;
-            }
-            if ((appliableTransform.position - transform.position).sqrMagnitude < (pickableItem.transform.position - transform.position).sqrMagnitude)
-            {
-                // Try Interact
-                OnInteract(context);
-                return;
-            }
-            else
-            {
-                // Try Pickup
-                OnPickup(context);
-                return;
+                if (appliableObject == null)
+                {
+                    // Try Pickup
+                    OnPickup(context);
+                    return;
+                }
+                if (pickableItem == null)
+                {
+                    // Try Interact
+                    OnInteract(context);
+                    return;
+                }
+                if ((appliableTransform.position - transform.position).sqrMagnitude < (pickableItem.transform.position - transform.position).sqrMagnitude)
+                {
+                    // Try Interact
+                    OnInteract(context);
+                    return;
+                }
+                else
+                {
+                    // Try Pickup
+                    OnPickup(context);
+                    return;
+                }
             }
         }
 

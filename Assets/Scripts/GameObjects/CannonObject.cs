@@ -1,9 +1,5 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using BedMechanics;
 using Exceptions;
-using Items;
 using Player;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -22,6 +18,7 @@ namespace GameObjects
         public GameObject projectilePrefab;
 
         public const float ROTATION_SPEED = 100f;
+        public const float AIM_LINE_LENGTH = 5f;
         private float currentSpeed = 0f;
         private Transform vfxObjectTransform, triangleTransform;
         private CannonState state = CannonState.Unused;
@@ -29,6 +26,7 @@ namespace GameObjects
 
         [SerializeField] private float initialDegree;
         [SerializeField] private bool inverted;
+        private LineRenderer lr;
         private float currentRotation;
 
         //private bool mounted;
@@ -42,6 +40,7 @@ namespace GameObjects
             triangleTransform = vfxObjectTransform.Find("Triangle");
             currentRotation = initialDegree;
             cannon = new Cannon();
+            lr = GetComponent<LineRenderer>();
         }
 
         // Update is called once per frame
@@ -49,6 +48,8 @@ namespace GameObjects
         {
             if (state == CannonState.Unused) return;
             ChangeDirection(Time.deltaTime * ROTATION_SPEED * currentSpeed);
+            lr.SetPosition(0, vfxObjectTransform.position);
+            lr.SetPosition(1, AIM_LINE_LENGTH * vfxObjectTransform.up + vfxObjectTransform.position);
         }
 
         public void Apply(ItemObject itemObject, PlayerObject player)
@@ -71,6 +72,9 @@ namespace GameObjects
                     actionMap.FindAction("Move").performed += OnMove;
                     actionMap.FindAction("Move").canceled += OnMove;
                     actionMap.FindAction("Shoot").started += Shoot;
+                    
+                    // Show line aim
+                    lr.positionCount = 2;
                 }
                 else if (state == CannonState.Mounted && player == user)
                 {
@@ -85,6 +89,8 @@ namespace GameObjects
                     actionMap.FindAction("Move").canceled -= OnMove;
                     actionMap.FindAction("Shoot").started -= Shoot;
                     currentSpeed = 0f;
+
+                    lr.positionCount = 0;
                 }
 
             }
