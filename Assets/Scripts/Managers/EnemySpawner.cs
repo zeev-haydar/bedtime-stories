@@ -31,7 +31,7 @@ namespace Managers
             instance = this;
         }
 
-        public void Spawn(EnemyType enemyType, RangedEnemyObject.RangedPosition rangedPosition = RangedEnemyObject.RangedPosition.Top)
+        public void Spawn(EnemyType enemyType, RangedEnemyObject.RangedPosition rangedPosition = RangedEnemyObject.RangedPosition.Top, PlayerManager playerManager = null)
         {
             GameObject newEnemy;
             switch (enemyType)
@@ -49,8 +49,15 @@ namespace Managers
                     break;
                 case EnemyType.BossEnemy:
                     newEnemy = Instantiate(bossEnemyPrefab, spawnPoint.position,spawnPoint.rotation);
-                    ExistingEnemies.Add(newEnemy); 
-                    newEnemy.GetComponent<KalaObject>().Spawn();
+                    Debug.Log("Ini boss");
+                    if (playerManager) {
+                        Debug.Log("Bossnya ngespawn");
+                        KalaObject kalaEnemy = newEnemy.GetComponent<KalaObject>();
+                        kalaEnemy.playerManager = playerManager;
+                        kalaEnemy.OnCreate();
+                        ExistingEnemies.Add(kalaEnemy.gameObject); 
+                        kalaEnemy.Spawn();
+                    }
                     break;
                 default:
                     break;

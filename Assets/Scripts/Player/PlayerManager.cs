@@ -32,7 +32,7 @@ namespace Managers
 
         //[SerializeField] private List<Color> Colors;
         // Start is called before the first frame update
-        void Start()
+        void Awake()
         {
             if (instance != null)
             {

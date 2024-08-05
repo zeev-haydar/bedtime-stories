@@ -8,7 +8,7 @@ namespace GameObjects
 {
     public abstract class EnemyObject : MonoBehaviour
     {
-        private Animator animator;
+        public Animator animator;
         private BedObject bedObject;
         private SpriteRenderer sprite;
         private Rigidbody rb;

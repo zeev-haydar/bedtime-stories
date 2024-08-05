@@ -80,7 +80,7 @@ namespace Managers
             {
                 foreach (var enemy in cluster.enemies)
                 {
-                    spawner.Spawn(enemy);
+                    spawner.Spawn(enemy, playerManager:PlayerManager.Instance);
                 }
                 return;
             }
@@ -89,7 +89,7 @@ namespace Managers
             {
                 foreach (var enemy in cluster.enemies)
                 {
-                    spawner.Spawn(enemy);
+                    spawner.Spawn(enemy, playerManager:PlayerManager.Instance);
                 }
             }
         }

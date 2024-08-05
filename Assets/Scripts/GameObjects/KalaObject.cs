@@ -1,9 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
+using System.Reflection;
 using Enemies;
 using Managers;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -16,11 +18,15 @@ namespace GameObjects
 
         public int maxHealth;
 
-        public Image hpBarForeground;
+        public Slider hpBar;
 
         public int numberOfBalls;
 
         public bool right = false;
+
+        bool createComplete = false;
+
+        public PlayerManager playerManager;
 
 
         [SerializeField] private float projectileAirtime;
@@ -28,7 +34,6 @@ namespace GameObjects
         public GameObject mouthPoint;
         public List<GameObject> handObjects;
         public Bounds bedBounds;
-        public Animator animator;
 
         public AudioManager audioManager;
         private List<SkillKey> keysToUpdate = new List<SkillKey>();
@@ -37,6 +42,11 @@ namespace GameObjects
             animator = GetComponent<Animator>();
             audioManager = GetComponent<AudioManager>();
             handObjects[right ? 0 : 1].SetActive(false);
+            
+        }
+
+        public void OnCreate() {
+            maxHealth = playerManager.Players.Count * 100;
             kala = new Kala(maxHealth);
             bedBounds = BedObject.transform.Find("Bounds").GetComponent<SpriteRenderer>().bounds;
             foreach (KeyValuePair<SkillKey, float> cooldown in kala.currCooldowns)
@@ -44,8 +54,16 @@ namespace GameObjects
                 keysToUpdate.Add(cooldown.Key);
             }
             StartCoroutine(CooldownPrinterCoroutine());
+            createComplete = true;
         }
 
+        public static KalaObject Instantiate(object[] parameterValues, PlayerManager pm) {
+            MethodInfo methodInfo = typeof(GameObject).GetMethod("Instantiate");
+            KalaObject gameObject = new() ;
+            methodInfo.Invoke(gameObject, parameterValues);
+            gameObject.playerManager = pm;
+            return gameObject;
+        }
         public void Spawn()
         {
             animator.Play("kala_idle");
@@ -54,8 +72,12 @@ namespace GameObjects
         // Update is called once per frame
         void Update()
         {
+            if (!createComplete) {
+                return;
+            }
+            Debug.Log("Current health = "+kala.Health);
             float healthPercent = (float)kala.Health / kala.MaxHealth;
-            hpBarForeground.fillAmount = healthPercent;
+            hpBar.value = healthPercent;
             if (isAttacking || isHit) { return; }
 
             foreach (SkillKey key in keysToUpdate)
@@ -136,7 +158,7 @@ namespace GameObjects
             audioManager.PlaySFX(1);
             BedObject.GetHit(handObjects[right ? 0 : 1].transform.position);
 
-            yield return new WaitForSeconds(2);
+            yield return new WaitForSeconds(7.5f);
             Debug.Log("udah aing geprek");
             GetComponent<SpriteRenderer>().sortingLayerID = SortingLayer.NameToID("Bed Back");
             handObjects[right ? 0 : 1].SetActive(false);
@@ -173,6 +195,11 @@ namespace GameObjects
         public void BackLayer()
         {
             Sprite.sortingLayerID = 2;
+        }
+
+        public static explicit operator KalaObject(GameObject v)
+        {
+            throw new System.NotImplementedException();
         }
     }
 
