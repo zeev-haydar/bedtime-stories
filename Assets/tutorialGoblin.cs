@@ -63,9 +63,9 @@ public class tutorialGoblin : MonoBehaviour
             }
         } else
         {
-            while (hintSprite.transform.localScale.x < 6)
+            while (hintSprite.transform.localScale.x < 3)
             {
-                hintSprite.transform.localScale = Vector3.MoveTowards(hintSprite.transform.localScale, Vector3.one * 6, 0.1f);
+                hintSprite.transform.localScale = Vector3.MoveTowards(hintSprite.transform.localScale, Vector3.one * 3, 0.1f);
                 yield return null;
             }
         }
