@@ -150,13 +150,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efa0e84164e394c4c9596aa661506861, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 0}
   isAttacking: 0
   isHit: 0
   isDead: 0
   projectilePrefab: {fileID: 5501056921111030077, guid: 9f9f842e1cd5bed4f99a85e4026312a8, type: 3}
   speed: 0.7
-  attackInterval: 10
-  projectileAirtime: 3
+  attackInterval: 8
+  projectileAirtime: 2.5
   test: 0
 --- !u!95 &-6889338927153750293
 Animator:

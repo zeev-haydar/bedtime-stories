@@ -172,12 +172,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e576e44cecec94041ae02b3ed9e5d285, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 0}
   isAttacking: 0
   isHit: 0
   isDead: 0
   speed: 0.5
   maxMoveRange: 1
-  attackInterval: 7
+  attackInterval: 5
   indicator: {fileID: 4510804030456789159}
 --- !u!1 &4510804030456789159
 GameObject:

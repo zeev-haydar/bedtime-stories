@@ -31,7 +31,7 @@ namespace GameObjects
 
         private void Awake()
         {
-            rangedEnemy = new RangedEnemy(1, speed);
+            rangedEnemy = new RangedEnemy(4, speed);
             intervalTimer = attackInterval;
             Animator = GetComponent<Animator>();
             Sprite = GetComponent<SpriteRenderer>();

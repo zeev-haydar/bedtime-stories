@@ -42,7 +42,10 @@ namespace GameObjects
             animator = GetComponent<Animator>();
             audioManager = GetComponent<AudioManager>();
             handObjects[right ? 0 : 1].SetActive(false);
-            
+            if (PlayerManager.Instance.CurrentPlayerCount > 1)
+            {
+                maxHealth *= PlayerManager.Instance.CurrentPlayerCount;
+            }
         }
 
         public void OnCreate() {

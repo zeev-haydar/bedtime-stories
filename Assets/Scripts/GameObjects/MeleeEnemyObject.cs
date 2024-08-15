@@ -21,7 +21,7 @@ namespace GameObjects
         void Awake()
         {
             indicator.SetActive(false);
-            meleeEnemy = new MeleeEnemy(4, speed);
+            meleeEnemy = new MeleeEnemy(6, speed);
             intervalTimer = attackInterval;
             Animator = GetComponent<Animator>();
             Sprite = GetComponent<SpriteRenderer>();

@@ -681,9 +681,9 @@ MonoBehaviour:
   isAttacking: 0
   isHit: 0
   isDead: 0
-  maxHealth: 100
+  maxHealth: 250
   hpBar: {fileID: 2691475203910327583}
-  numberOfBalls: 3
+  numberOfBalls: 5
   right: 0
   playerManager: {fileID: 0}
   projectileAirtime: 0.3
