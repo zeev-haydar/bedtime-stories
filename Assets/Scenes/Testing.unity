@@ -1562,9 +1562,11 @@ MonoBehaviour:
   hintTexts:
   - Greetings! I'm Glimmer,  the fairy goblin of Fablehaven
   - You must know these rules to survive
-  - Press Q to drop an object
-  - Press E to interact/pick up an object
-  - Press Space to shoot when on a cannon
+  - Use WASD or Left Stick to move.
+  - Left click or right trigger on controller to melee attack.
+  - Press Q or triangle on PS controller to drop an object
+  - Press E or square on PS controller to interact/pick up an object
+  - Press Space or X on PS controller to shoot when on a cannon
   index: 0
   hintText: {fileID: 1489700557}
 --- !u!95 &1088665685
