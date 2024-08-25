@@ -1567,6 +1567,7 @@ MonoBehaviour:
   - Press Q or triangle on PS controller to drop an object
   - Press E or square on PS controller to interact/pick up an object
   - Press Space or X on PS controller to shoot when on a cannon
+  - Esc/P or Start button on controller to pause.
   index: 0
   hintText: {fileID: 1489700557}
 --- !u!95 &1088665685
