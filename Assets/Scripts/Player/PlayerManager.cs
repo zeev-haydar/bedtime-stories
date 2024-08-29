@@ -1,12 +1,9 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using Player;
 using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.DualShock;
-using UnityEngine.InputSystem.XInput;
 using UnityEngine.SceneManagement;
 
 namespace Managers
@@ -17,7 +14,7 @@ namespace Managers
         public static PlayerManager Instance { get => instance; }
         public List<GameObject> Players { get => players; }
 
-        List<GameObject> players = new List<GameObject>();
+        [SerializeField] private List<GameObject> players = new List<GameObject>();
         [SerializeField] private List<Vector3> InitialMenuPosition;
         [SerializeField] private List<Vector3> InitialWorldPosition;
         [SerializeField] private List<RuntimeAnimatorController> controllers;
@@ -26,12 +23,14 @@ namespace Managers
         private float joinTimer = 0;
         public float joinHoldTime = 10f;
         private bool canJoin = true;
+        private bool isCountdowning = false;
 
         public int CurrentPlayerCount { get => players.Count; }
+        [HideInInspector]
+        public List<bool> PlayerReadyStatus = new List<bool>();
 
+        private Action<InputAction.CallbackContext> OnReadyPressed;
 
-        //[SerializeField] private List<Color> Colors;
-        // Start is called before the first frame update
         void Awake()
         {
             if (instance != null)
@@ -43,21 +42,38 @@ namespace Managers
             DontDestroyOnLoad(this);
         }
 
+        private bool AllPlayersReady()
+        {
+            foreach (var item in PlayerReadyStatus)
+            {
+                if (!item)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
         private void Update()
         {
-            if (canJoin && players.Count > 0)
+            if (canJoin && players.Count > 0 && AllPlayersReady())
             {
                 joinTimer += Time.deltaTime;
                 hintText.text = $"Game will start in {Mathf.CeilToInt(10 - joinTimer)} seconds";
+
+                if (canJoin && joinTimer >= joinHoldTime)
+                {
+                    StartGame();
+                    SceneManager.LoadScene("Testing");
+                    joinTimer = float.MinValue;
+                }
+            } else {
+                joinTimer = 0;
+                hintText.text = "Press any key to join the game";
             }
-            Debug.Log(joinTimer);
-            if (joinTimer >= joinHoldTime)
-            {
-                StartGame();
-                SceneManager.LoadScene("Testing");
-                joinTimer = float.MinValue;
-            }
-            if(SceneManager.GetActiveScene().buildIndex != 1 && SceneManager.GetActiveScene().buildIndex != 2)
+
+
+            if (SceneManager.GetActiveScene().buildIndex != 1 && SceneManager.GetActiveScene().buildIndex != 2)
             {
                 foreach (var item in players)
                 {
@@ -71,7 +87,6 @@ namespace Managers
         {
             canJoin = false;
             GetComponent<PlayerInputManager>().DisableJoining();
-            //SceneManager.LoadScene("Player");
             for (int i = 0; i < players.Count; i++)
             {
                 players[i].transform.position = InitialWorldPosition[i];
@@ -81,6 +96,8 @@ namespace Managers
                 players[i].GetComponent<PlayerInput>().currentActionMap.FindAction("Attack").started -= OnStartPressed;
                 players[i].GetComponent<PlayerInput>().currentActionMap.FindAction("Attack").performed -= OnStartPressed;
                 players[i].GetComponent<PlayerInput>().currentActionMap.FindAction("Attack").canceled -= OnStartPressed;
+
+                players[i].GetComponent<PlayerInput>().currentActionMap.FindAction("Pickup").canceled -= OnReadyPressed;
 
                 players[i].GetComponent<Animator>().runtimeAnimatorController = controllers[i];
                 players[i].GetComponent<PlayerObject>().inGameScene = true;
@@ -100,6 +117,10 @@ namespace Managers
                 device.currentActionMap.FindAction("Attack").started += OnStartPressed;
                 device.currentActionMap.FindAction("Attack").performed += OnStartPressed;
                 device.currentActionMap.FindAction("Attack").canceled += OnStartPressed;
+
+                PlayerReadyStatus.Add(false);
+                OnReadyPressed = (ctx) => PlayerReadyStatus[players.IndexOf(device.gameObject)] = !PlayerReadyStatus[players.IndexOf(device.gameObject)];
+                device.currentActionMap.FindAction("Pickup").canceled += OnReadyPressed;
             }
 
         }
