@@ -53,6 +53,8 @@ namespace Player
 
         [HideInInspector] public bool HasItem { get => pickedItem != null; }
 
+        [SerializeField] private Transform searchCenter;
+
         void Start()
         {
             //col = GetComponent<Collider2D>();
@@ -275,7 +277,7 @@ namespace Player
                 return;
             }
 
-            Collider[] res = Physics.OverlapSphere(transform.position, itemSearchRange, pickableMask);
+            Collider[] res = Physics.OverlapSphere(searchCenter.position, itemSearchRange, pickableMask);
             res = res.Where(c => c.GetComponent<ItemObject>().isPickable()).ToArray();
 
             if (res.Length > 0)
@@ -321,7 +323,7 @@ namespace Player
                 InteractHinter.InteractType type = InteractHinter.InteractType.Use;
                 if (newGlowingObject.TryGetComponent(out IUseHint hint))
                 {
-                    type = hint.GetInteractType(pickedItem.gameObject);
+                    type = hint.GetInteractType(pickedItem != null ? pickedItem.gameObject : null);
                 }
 
                 hinter.SetInteract(newGlowingObject, type);
@@ -332,7 +334,7 @@ namespace Player
                 InteractHinter.InteractType type = InteractHinter.InteractType.Use;
                 if (newGlowingObject.TryGetComponent(out IUseHint hint))
                 {
-                    type = hint.GetInteractType(pickedItem.gameObject);
+                    type = hint.GetInteractType(pickedItem != null ? pickedItem.gameObject : null);
                 }
 
                 hinter.SetInteract(newGlowingObject, type);
@@ -407,7 +409,7 @@ namespace Player
             interactableTimer = 0f;
 
 
-            Collider[] res = Physics.OverlapSphere(transform.position, itemSearchRange, interactableMask);
+            Collider[] res = Physics.OverlapSphere(searchCenter.position, itemSearchRange, interactableMask);
             res = res.Where(x => x.GetComponent<IAppliableObject>() != null && x.GetComponent<IAppliableObject>().CanApply(pickedItem)).ToArray();
             if (res.Length > 0)
             {
@@ -507,7 +509,10 @@ namespace Player
         private void OnDrawGizmos()
         {
             Gizmos.color = Color.green;
-            Gizmos.DrawWireSphere(transform.position, itemSearchRange);
+            Gizmos.DrawWireSphere(searchCenter.position + transform.forward * itemSearchRange / 2, itemSearchRange);
+
+            Gizmos.color = Color.red;
+            Gizmos.DrawRay(searchCenter.position, transform.forward);
         }
         #endif
     }
