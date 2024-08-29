@@ -215,12 +215,18 @@ namespace Player
                         playerData.Attack(enemyObject);
                         Debug.LogWarning("Attack " + enemyObject.name);
                     }
-                    else{
+                    else {
                         if (col.CompareTag("Enemy")){
                             Debug.LogWarning("Attack " + col.name);
                             if (transform.root.TryGetComponent(out EnemyObject targetedEnemyObject)) {
                                 playerData.Attack(targetedEnemyObject);
-                            }else{
+                            } else {
+                                var enemy = transform.root.GetComponentInParent<EnemyObject>();
+                                if (enemy != null) {
+                                    playerData.Attack(enemy);
+                                    return;
+                                }
+
                                 Debug.LogError("Can't find Enemy Object");
                             }
                         }

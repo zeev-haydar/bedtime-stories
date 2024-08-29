@@ -36,6 +36,10 @@ namespace GameObjects
             if(collider.CompareTag("Enemy"))
             {
                 EnemyObject enemy = collider.GetComponent<EnemyObject>();
+                if (enemy == null) {
+                    enemy = collider.GetComponentInParent<EnemyObject>();
+                }
+
                 enemy.TakeHit(damage);
 
                 // Destroy the Projectile

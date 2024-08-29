@@ -55,7 +55,7 @@ namespace Player
                             interactionType = "Use";
                             break;
                         case InteractType.Fill:
-                            interactionType = "Fill";
+                            interactionType = "Load";
                             break;
                         case InteractType.Fix:
                             interactionType = "Fix";
