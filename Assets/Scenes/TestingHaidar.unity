@@ -707,7 +707,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Resume
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_sharedMaterial: {fileID: 3995248766628992006, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -771,7 +771,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &421237083
@@ -1586,7 +1586,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Exit
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_sharedMaterial: {fileID: 3995248766628992006, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1650,7 +1650,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1131514750
@@ -2145,6 +2145,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameObject: {fileID: 1461836449}
   gameManager: {fileID: 1451162451}
+  hintSprite: {fileID: 0}
+  hintTexts: []
+  index: 0
+  hintText: {fileID: 0}
 --- !u!95 &1461836451
 Animator:
   serializedVersion: 5
@@ -2862,7 +2866,7 @@ SpriteRenderer:
   m_Size: {x: 5.5000005, y: 2.0007105}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1660057539 &9223372036854775807

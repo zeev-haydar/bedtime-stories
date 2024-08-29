@@ -182,8 +182,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: NIKI
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -391,8 +391,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: SADIE
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -601,8 +601,8 @@ MonoBehaviour:
   m_text: She has trauma from being frequently bullied at school, which has made
     her personality easily frightened and prone to panic.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -735,8 +735,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: P4
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1666,8 +1666,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Press \u25A2, X, or left click to join"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1801,8 +1801,8 @@ MonoBehaviour:
   m_text: A child who loves challenges and fears nothing. Despite being impulsive
     and argumentative, Eva always has a variety of brilliant ideas.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1936,8 +1936,8 @@ MonoBehaviour:
   m_text: "Friendly and caring, child, always \nwilling to help her friends. Her
     altruistic \npersonality makes her a supportive and \nreliable companion."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2103,8 +2103,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: P2
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2331,8 +2331,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2691,8 +2691,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Button
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2857,8 +2857,8 @@ MonoBehaviour:
   m_text: The most mature among her three friends. Her calmness and sensitivity to
     her surroundings enable her to manage chaos effectively.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3135,8 +3135,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: P1
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3699,8 +3699,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: EVA
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
-  m_sharedMaterial: {fileID: 1310344473198146549, guid: f828c529e16ca774e851a9a58577d23e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3844,8 +3844,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: ABBY
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
-  m_sharedMaterial: {fileID: 3995248766628992006, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

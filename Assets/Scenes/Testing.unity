@@ -182,7 +182,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Resume
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_sharedMaterial: {fileID: 3995248766628992006, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &56274727
@@ -1859,8 +1859,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
-  m_sharedMaterial: {fileID: 3995248766628992006, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1949,7 +1949,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 3995248766628992006, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
+  - {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2195,7 +2195,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Exit
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_sharedMaterial: {fileID: 3995248766628992006, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2259,7 +2259,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1723550935
@@ -2505,8 +2505,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Pres s E to continue
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
-  m_sharedMaterial: {fileID: 3995248766628992006, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
+  m_sharedMaterial: {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2595,7 +2595,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 3995248766628992006, guid: bec713e88e7ac8345887b1bbe89da978, type: 2}
+  - {fileID: 3210257185226708680, guid: 47e4917fdd5f6f341b7f56cf0583590a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
