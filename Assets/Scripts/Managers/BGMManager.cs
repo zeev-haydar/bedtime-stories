@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -40,7 +39,7 @@ public class BGMManager : MonoBehaviour
             PlayBattleBGM();
         }
 
-        if (nextName == "Main Menu")
+        if (nextName == "MainMenu")
         {
             PlayMainBGM();
         }
