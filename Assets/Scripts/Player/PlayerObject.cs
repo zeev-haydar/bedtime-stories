@@ -48,6 +48,7 @@ namespace Player
         public Vector3 moveDirection;
         public bool inGameScene = false;
         public bool isMount, isAttacking = false;
+        public bool CanInteract = false;
 
         private AudioSource audioSrc;
 
@@ -103,19 +104,19 @@ namespace Player
             {
                 rb.velocity = Vector3.zero;
                 bool itemIsChanged = false;
-                if (itemSearchTimer >= itemSearchCooldown)
+                if (itemSearchTimer >= itemSearchCooldown && CanInteract)
                 {
                     ChangePickableItem();
                     itemIsChanged = true;
                 }
-                if (interactableTimer >= itemSearchCooldown)
+                if (interactableTimer >= itemSearchCooldown && CanInteract)
                 {
                     ChangeInteractableItem();
                     itemIsChanged = true;
                 }
 
 
-                if (itemIsChanged)
+                if (itemIsChanged && CanInteract)
                 {
                     ChangeGlowingItem();
                 }
@@ -125,7 +126,7 @@ namespace Player
                 SetAnimatorBool("walking", false);
             }
 
-            if(pickedItem == null)
+            if (pickedItem == null)
             {
                 SetAnimatorBool("holding", false);
             }
@@ -313,7 +314,7 @@ namespace Player
         public void ChangeGlowingItem()
         {
             GameObject newGlowingObject;
-            if (appliableObject == null && pickableItem == null)
+            if (appliableObject == null && pickableItem == null )
             {
                 newGlowingObject = null;
                 hinter.SetInteract(newGlowingObject, InteractHinter.InteractType.Use);

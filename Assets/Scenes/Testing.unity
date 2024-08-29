@@ -1556,7 +1556,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c7004b456755f543b19c122a28b3f66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameObject: {fileID: 1088665683}
   gameManager: {fileID: 765525279}
   hintSprite: {fileID: 109187396}
   hintTexts:
@@ -1571,6 +1570,7 @@ MonoBehaviour:
   - Pickup Ammo in the box to load the cannon
   index: 0
   hintText: {fileID: 1489700557}
+  player: {fileID: 0}
 --- !u!95 &1088665685
 Animator:
   serializedVersion: 5
@@ -3004,6 +3004,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 83161695000605299, guid: d42e95813c09591469552bd7090166ce, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5725735
+      objectReference: {fileID: 0}
+    - target: {fileID: 83161695000605299, guid: d42e95813c09591469552bd7090166ce, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.5607
+      objectReference: {fileID: 0}
+    - target: {fileID: 83161695000605299, guid: d42e95813c09591469552bd7090166ce, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1057648036280553218, guid: d42e95813c09591469552bd7090166ce, type: 3}
       propertyPath: m_Name
       value: Bed
@@ -3090,6 +3102,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7081877381240756822, guid: d42e95813c09591469552bd7090166ce, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8984894836899740838, guid: d42e95813c09591469552bd7090166ce, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.4534917
+      objectReference: {fileID: 0}
+    - target: {fileID: 8984894836899740838, guid: d42e95813c09591469552bd7090166ce, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.1716
+      objectReference: {fileID: 0}
+    - target: {fileID: 8984894836899740838, guid: d42e95813c09591469552bd7090166ce, type: 3}
+      propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
