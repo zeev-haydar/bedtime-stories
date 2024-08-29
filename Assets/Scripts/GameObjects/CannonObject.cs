@@ -12,7 +12,7 @@ namespace GameObjects
         Mounted
     }
 
-    public class CannonObject : MonoBehaviour, IAppliableObject
+    public class CannonObject : MonoBehaviour, IAppliableObject, IUseHint
     {
         public Cannon cannon;
         public GameObject projectilePrefab;
@@ -50,6 +50,11 @@ namespace GameObjects
             ChangeDirection(Time.deltaTime * ROTATION_SPEED * currentSpeed);
             lr.SetPosition(0, vfxObjectTransform.position);
             lr.SetPosition(1, AIM_LINE_LENGTH * vfxObjectTransform.up + vfxObjectTransform.position);
+        }
+
+        public InteractHinter.InteractType GetInteractType(GameObject obj = null)
+        {
+            return obj == null ? InteractHinter.InteractType.Use : InteractHinter.InteractType.Fill;
         }
 
         public void Apply(ItemObject itemObject, PlayerObject player)

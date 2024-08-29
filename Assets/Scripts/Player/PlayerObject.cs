@@ -14,11 +14,8 @@ namespace Player
         // test
         public bool test;
 
-        private Collider2D col;
         private Rigidbody rb;
-        private SpriteRenderer sprite;
         private Transform transformParent;
-        private PlayerInput input;
         private BoxCollider attackBox;
         private GameObject hand;
         private Animator animator;
@@ -46,14 +43,13 @@ namespace Player
         private int canMove;
         private Outline glowingObject;
         private float attackTimer;
-        private Bounds bedBounds;
 
         public Vector3 moveAmount;
         public Vector3 moveDirection;
         public bool inGameScene = false;
         public bool isMount, isAttacking = false;
 
-        private AudioSource audio;
+        private AudioSource audioSrc;
 
         [HideInInspector] public bool HasItem { get => pickedItem != null; }
 
@@ -62,14 +58,12 @@ namespace Player
             //col = GetComponent<Collider2D>();
             rb = GetComponent<Rigidbody>();
             // Player components
-            sprite = GetComponent<SpriteRenderer>();
-            input = GetComponent<PlayerInput>();
             transformParent = GetComponentInParent<Transform>();
             hand = transformParent.Find("Hand").gameObject;
             playerData = new Player(1.5f, 2, attackRange);
             animator = GetComponent<Animator>();
             hinter = GetComponent<InteractHinter>();
-            audio = GetComponent<AudioSource>();
+            audioSrc = GetComponent<AudioSource>();
 
             // Timer
             itemSearchTimer = 0f;
@@ -121,7 +115,7 @@ namespace Player
 
                 if (itemIsChanged)
                 {
-                    changeGlowingItem();
+                    ChangeGlowingItem();
                 }
             }
             else
@@ -209,7 +203,7 @@ namespace Player
                 //GameObject objInCollider = col.transform.gameObject;
                 if (rb != null)
                 {
-                    audio.Play();
+                    audioSrc.Play();
                     EnemyObject enemyObject = col.GetComponent<EnemyObject>();
                     if (enemyObject != null)
                     {
@@ -264,11 +258,11 @@ namespace Player
 
             if (pickableItem.pick())
             {
-
                 pickedItem = pickableItem;
                 pickedItem.transform.parent = transform;
                 pickedItem.transform.position = hand.transform.position;
                 pickableItem = null;
+                hinter.SetInteract(null, InteractHinter.InteractType.PickUp);
             }
         }
         private void ChangePickableItem()
@@ -281,7 +275,7 @@ namespace Player
                 return;
             }
 
-            Collider[] res = Physics.OverlapSphere(transform.position + transform.forward * itemSearchRange / 2, itemSearchRange, pickableMask);
+            Collider[] res = Physics.OverlapSphere(transform.position, itemSearchRange, pickableMask);
             res = res.Where(c => c.GetComponent<ItemObject>().isPickable()).ToArray();
 
             if (res.Length > 0)
@@ -308,45 +302,49 @@ namespace Player
             Debug.Log("Pickable item: " + pickableItem);
         }
 
-        public void changeGlowingItem()
+        public void ChangeGlowingItem()
         {
-            GameObject newGlowingObject = null;
+            GameObject newGlowingObject;
             if (appliableObject == null && pickableItem == null)
             {
                 newGlowingObject = null;
+                hinter.SetInteract(newGlowingObject, InteractHinter.InteractType.Use);
             }
             else if (appliableObject == null)
             {
                 newGlowingObject = pickableItem.gameObject;
+                hinter.SetInteract(newGlowingObject, InteractHinter.InteractType.PickUp);
             }
             else if (pickableItem == null)
             {
                 newGlowingObject = appliableTransform.gameObject;
+                InteractHinter.InteractType type = InteractHinter.InteractType.Use;
+                if (newGlowingObject.TryGetComponent(out IUseHint hint))
+                {
+                    type = hint.GetInteractType(pickedItem.gameObject);
+                }
+
+                hinter.SetInteract(newGlowingObject, type);
             }
             else if ((appliableTransform.position - transform.position).sqrMagnitude < (pickableItem.transform.position - transform.position).sqrMagnitude)
             {
                 newGlowingObject = appliableTransform.gameObject;
+                InteractHinter.InteractType type = InteractHinter.InteractType.Use;
+                if (newGlowingObject.TryGetComponent(out IUseHint hint))
+                {
+                    type = hint.GetInteractType(pickedItem.gameObject);
+                }
+
+                hinter.SetInteract(newGlowingObject, type);
             }
             else
             {
                 newGlowingObject = pickableItem.gameObject;
+                hinter.SetInteract(newGlowingObject, InteractHinter.InteractType.PickUp);
             }
 
-            hinter.SetInteract(newGlowingObject);
 
             Debug.Log(glowingObject + " | " + newGlowingObject);
-            //if (glowingObject != newGlowingObject)
-            //{
-            //    if (glowingObject != null)
-            //    {
-            //        glowingObject.enabled = false;
-            //    }
-            //    if (newGlowingObject != null)
-            //    {
-            //        newGlowingObject.enabled = true;
-            //    }
-            //    glowingObject = newGlowingObject;
-            //}
         }
 
         public void OnInteract(InputAction.CallbackContext context)
@@ -407,7 +405,7 @@ namespace Player
             interactableTimer = 0f;
 
 
-            Collider[] res = Physics.OverlapSphere(transform.position + transform.forward * itemSearchRange / 2, itemSearchRange, interactableMask);
+            Collider[] res = Physics.OverlapSphere(transform.position, itemSearchRange, interactableMask);
             res = res.Where(x => x.GetComponent<IAppliableObject>() != null && x.GetComponent<IAppliableObject>().CanApply(pickedItem)).ToArray();
             if (res.Length > 0)
             {
@@ -502,6 +500,13 @@ namespace Player
             if (!inGameScene) { return; }
             animator.SetTrigger(name);
         }
-    }
 
+        #if UNITY_EDITOR
+        private void OnDrawGizmos()
+        {
+            Gizmos.color = Color.green;
+            Gizmos.DrawWireSphere(transform.position, itemSearchRange);
+        }
+        #endif
+    }
 }
