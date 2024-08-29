@@ -362,10 +362,12 @@ namespace Player
             if (pickedItem)
             {
                 pickedItem.Use(appliableObject, this);
+                hinter.SetInteract(null, InteractHinter.InteractType.PickUp);
             }
             else
             {
                 appliableObject.Apply(null, this);
+                hinter.SetInteract(null, InteractHinter.InteractType.PickUp);
             }
 
         }
