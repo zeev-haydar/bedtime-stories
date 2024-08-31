@@ -55,7 +55,7 @@ namespace Managers
 
         private void Update()
         {
-            if (canJoin && players.Count > 0 && AllPlayersReady())
+            if (canJoin && players.Count > 0 && AllPlayersReady() && hintText != null)
             {
                 joinTimer += Time.deltaTime;
                 hintText.text = $"Game will start in {Mathf.CeilToInt(10 - joinTimer)} seconds";
@@ -67,8 +67,11 @@ namespace Managers
                     joinTimer = float.MinValue;
                 }
             } else {
-                joinTimer = 0;
-                hintText.text = "Press any key to join the game";
+                if (hintText != null)
+                {
+                    joinTimer = 0;
+                    hintText.text = "Press any key to join the game";
+                }
             }
 
 

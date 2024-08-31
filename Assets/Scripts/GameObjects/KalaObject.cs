@@ -192,7 +192,7 @@ namespace GameObjects
 
         public void ForwardLayer()
         {
-            Sprite.sortingLayerID = 5;
+            //Sprite.sortingLayerID = 5;
         }
 
         public void BackLayer()
