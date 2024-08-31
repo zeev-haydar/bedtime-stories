@@ -5,8 +5,13 @@ using Player;
 
 namespace GameObjects
 {
-    public class HoleObject : MonoBehaviour, IAppliableObject
+    public class HoleObject : MonoBehaviour, IAppliableObject, IUseHint
     {
+        public InteractHinter.InteractType GetInteractType(GameObject obj = null)
+        {
+            return InteractHinter.InteractType.Fix;
+        }
+
         public void Apply(ItemObject item, PlayerObject player)
         {
             try

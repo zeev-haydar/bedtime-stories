@@ -1,11 +1,12 @@
 using System.Collections;
-using System.Collections.Generic;
+using Managers;
+using Player;
 using TMPro;
 using UnityEngine;
 
 public class tutorialGoblin : MonoBehaviour
 {
-    public GameObject gameObject, gameManager, hintSprite;
+    public GameObject gameManager, hintSprite;
     public string[] hintTexts;
 
     public int index = 0;
@@ -15,6 +16,8 @@ public class tutorialGoblin : MonoBehaviour
     //[SerializeField] private AudioSource textSoundEffect;
     private const float dialogueSpeed = 0.1f;
     private Coroutine dialogueCoroutine, scaleCoroutine;
+
+    [SerializeField] private PlayerObject player;
 
     private void Awake()
     {
@@ -63,9 +66,9 @@ public class tutorialGoblin : MonoBehaviour
             }
         } else
         {
-            while (hintSprite.transform.localScale.x < 3)
+            while (hintSprite.transform.localScale.x < 4.65f)
             {
-                hintSprite.transform.localScale = Vector3.MoveTowards(hintSprite.transform.localScale, Vector3.one * 3, 0.1f);
+                hintSprite.transform.localScale = Vector3.MoveTowards(hintSprite.transform.localScale, Vector3.one * 4.65f, 0.1f);
                 yield return null;
             }
         }
@@ -85,6 +88,7 @@ public class tutorialGoblin : MonoBehaviour
 
     void KillGoblin()
     {
+        PlayerManager.Instance.Players.ForEach(player => player.GetComponent<PlayerObject>().CanInteract = true);
         gameManager.SetActive(true);
         Destroy(gameObject);
     }

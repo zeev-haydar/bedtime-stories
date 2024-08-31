@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 namespace Player
 {
@@ -14,7 +15,14 @@ namespace Player
 
         private Vector3 translate = new Vector3(-6.22f, 4.5f, 0);
 
-        public void SetInteract(GameObject newInteractable)
+        public enum InteractType {
+            PickUp,
+            Use,
+            Fill,
+            Fix,
+        }
+
+        public void SetInteract(GameObject newInteractable, InteractType type)
         {
             if (interactable != newInteractable)
             {
@@ -22,6 +30,7 @@ namespace Player
                 {
                     Destroy(hint); hint = null;
                 }
+
                 if (newInteractable != null)
                 {
                     hint = Instantiate(hintPrefab, newInteractable.transform);
@@ -33,10 +42,49 @@ namespace Player
                         translate.x * hint.transform.localScale.x,
                         translate.y * hint.transform.localScale.y,
                         translate.z * hint.transform.localScale.z);
+
+                    string buttonKeyName = GetButtonKeyName();
+                    string interactionType = "";
+
+                    switch (type)
+                    {
+                        case InteractType.PickUp:
+                            interactionType = "Pick Up";
+                            break;
+                        case InteractType.Use:
+                            interactionType = "Use";
+                            break;
+                        case InteractType.Fill:
+                            interactionType = "Load";
+                            break;
+                        case InteractType.Fix:
+                            interactionType = "Fix";
+                            break;
+                    }
+
+                    hint.GetComponent<ItemHint>().SetText($"{interactionType} ({buttonKeyName})");
+
                 }
+
                 interactable = newInteractable;
             }
         }
-    }
 
+        private string GetButtonKeyName()
+        {
+            var readyButtonBinding = GetComponent<PlayerInput>().actions.FindAction("Pickup").bindings[0];
+            string readyButtonName = readyButtonBinding.ToDisplayString();
+
+            if (readyButtonBinding.path.StartsWith("<Keyboard>"))
+            {
+                readyButtonName = readyButtonName.Replace("Keyboard/", "");
+            }
+            else if (readyButtonBinding.path.StartsWith("<Gamepad>"))
+            {
+                readyButtonName = readyButtonName.Replace("Gamepad/", "");
+            }
+
+            return readyButtonName;
+        }
+    }
 }

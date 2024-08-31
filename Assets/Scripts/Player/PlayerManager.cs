@@ -23,7 +23,6 @@ namespace Managers
         private float joinTimer = 0;
         public float joinHoldTime = 10f;
         private bool canJoin = true;
-        private bool isCountdowning = false;
 
         public int CurrentPlayerCount { get => players.Count; }
         [HideInInspector]

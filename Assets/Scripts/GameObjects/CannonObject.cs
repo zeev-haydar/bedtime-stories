@@ -12,7 +12,7 @@ namespace GameObjects
         Mounted
     }
 
-    public class CannonObject : MonoBehaviour, IAppliableObject
+    public class CannonObject : MonoBehaviour, IAppliableObject, IUseHint
     {
         public Cannon cannon;
         public GameObject projectilePrefab;
@@ -26,8 +26,10 @@ namespace GameObjects
 
         [SerializeField] private float initialDegree;
         [SerializeField] private bool inverted;
+        [SerializeField] private AmmoHint ammoHint;
         private LineRenderer lr;
         private float currentRotation;
+        private float initialZPos = 0f;
 
         //private bool mounted;
         private void OnValidate()
@@ -52,13 +54,20 @@ namespace GameObjects
             lr.SetPosition(1, AIM_LINE_LENGTH * vfxObjectTransform.up + vfxObjectTransform.position);
         }
 
+        public InteractHinter.InteractType GetInteractType(GameObject obj = null)
+        {
+            return obj == null ? InteractHinter.InteractType.Use : InteractHinter.InteractType.Fill;
+        }
+
         public void Apply(ItemObject itemObject, PlayerObject player)
         {
             if (itemObject == null)
             {
                 InputActionMap actionMap = player.GetComponent<PlayerInput>().currentActionMap;
                 if (state == CannonState.Unused)
-                {
+                {   
+                    initialZPos = player.transform.position.z;
+
                     // mount player
                     state = CannonState.Mounted;
                     player.isMount = true;
@@ -82,6 +91,7 @@ namespace GameObjects
                     player.UnlockMove();
                     player.transform.SetParent(null);
                     player.isMount = false;
+                    player.transform.position = new Vector3(player.transform.position.x, player.transform.position.y, initialZPos);
                     user = null;
 
                     // unsubscribe from player/move
@@ -128,10 +138,6 @@ namespace GameObjects
             }
         }
 
-    
-
-
-
         /// <summary>
         /// Shoot the cannon based on the current trajectory
         /// </summary>
@@ -140,6 +146,7 @@ namespace GameObjects
             if (cannon.Ammo <= 0)
             {
                 // play the "nembak angin" sound 
+                ammoHint.Show();
                 return;
             }
             // summon projectile prefab here
